@@ -1,0 +1,1027 @@
+,business_id,name,neighborhood,address,city,state,postal_code,latitude,longitude,stars,review_count,is_open,categories
+81,B5EZlEDH6AVDk8tQGHAGqg,"""Villa Tap""",Sherman,"""2302 Packers Ave""",Madison,WI,53704,43.1233893,-89.3553901,4.0,34,1,American (Traditional);Nightlife;Dive Bars;Restaurants;Bars
+471,ugdUuApH3pYXggW5qpbALg,"""Mr. Torta's""",Elvehjem,"""4527 Cottage Grove Rd""",Madison,WI,53716,43.083976745,-89.3033632212,3.5,19,1,Restaurants;Mexican;Latin American
+836,5Y-p9QJLrg2P0I8RjJ9TTQ,"""Chang Jiang""",,"""4929 Commercial Ave""",Madison,WI,53704,43.105634146499995,-89.2967010739,3.0,9,1,Restaurants;Chinese
+1400,GdnLAgRXt43eISMtJEOZRg,"""Sushi Express""",Capitol,"""610 University Ave""",Madison,WI,53715,43.073336100000006,-89.396349,3.5,76,1,Japanese;Restaurants;Sushi Bars
+1510,B7wipW2uZRj7syuQiRTH4A,"""Pickle Jar""",South Campus,"""E Washington Pinckney""",Madison,WI,53714,43.070924184700004,-89.4064730428,4.0,11,1,Barbeque;Restaurants;Food Trucks;Local Flavor;Food
+1704,3QfcfPCJSo0z2v1bkdUemQ,"""Restaurant Magnus""",Capitol,"""120 E Wilson St""",Madison,WI,53703,43.074057,-89.379716,4.0,34,0,Nightlife;Restaurants
+1906,Y5Vbtaj_pkrhb99V4Q-53Q,"""Denny's""",,"""433 S Gammon Rd""",Madison,WI,53719,43.0582431572,-89.50213640930001,3.0,19,1,American (Traditional);Diners;Restaurants;Breakfast & Brunch
+1969,RMkBZDwEbcv5Ctd-a2A0Lw,"""Gino's Italian Deli""",,"""4606 Verona Rd""",Madison,WI,53711,43.0351337,-89.4562756,4.0,62,1,Restaurants;Sandwiches;Specialty Food;Grocery;Food;Pizza;Italian;Delis
+2043,hvazqoUUIZEISCu5CiWKPA,"""Arbat""",,"""3000 Cahill Main""",Madison,WI,53711,43.0179055,-89.4239869,4.0,5,0,Restaurants;Russian
+2213,pNgDhHaeFkWQW71NzT9wzg,"""KFC""",,"""1516 Greenway Cross""",Madison,WI,53713,43.0315,-89.4074,1.0,5,1,Restaurants;Fast Food;Chicken Wings;Food
+2240,mKT30qU_MlLj4Ps82JAZ8w,"""Uno Pizzeria & Grill""",High Crossing,"""3010 Crossroads Dr""",Madison,WI,53718,43.1354903,-89.29081190000001,3.0,65,1,Pizza;American (Traditional);Restaurants;Gluten-Free
+2241,X4w6_iAqN8ZqZ15a7YWPgw,"""Mr Brews Taphouse""",High Crossing,"""5271 High Crossing Blvd""",Madison,WI,53718,43.1380457692,-89.2894092848,3.0,34,1,Beer Bar;Burgers;Nightlife;Bars;Restaurants
+2283,8fArAA0gwfUbb3uWotd5mw,"""Ocean Grill""",South Campus,"""117 Mrtn Lthr Kng Jr""",Madison,WI,53703,43.07305170000001,-89.4012302,3.5,30,0,Seafood;Restaurants
+2294,PT0N41nUD3CErvn046JEhg,"""Red Pepper Chinese Restaurant""",Hawthorne,"""1518 N Stoughton Rd""",Madison,WI,53704,43.117649799999995,-89.32545809999999,4.5,3,0,Restaurants;Chinese
+2310,84WYW7OfV-IXUJk95EL5_Q,"""Samba Brazilian Grill""",Capitol,"""240 W Gilman St, Fl 2""",Madison,WI,53703,43.07546,-89.393063,3.5,173,1,Restaurants;Brazilian
+2442,Vbkb2shDxUE8H3PzrFnypA,"""Ella's Deli""",Eken Park,"""2902 E Washington Ave""",Madison,WI,53704,43.103513299999996,-89.344598,3.0,249,1,Local Flavor;Restaurants;Burgers;Museums;American (Traditional);Delis;Arts & Entertainment;Food;Ice Cream & Frozen Yogurt
+2448,3a1w3Ufs9CCC3GJTAV8EpQ,"""McDonald's""",,"""4500 University Ave""",Madison,WI,53705,43.075891999999996,-89.454836,1.5,6,1,Fast Food;Restaurants;Burgers
+2674,tORH_LDga3t1bbuluhuxiQ,"""Smoky's Club""",,"""3005 University Ave""",Madison,WI,53705,43.074981,-89.44173570000001,3.0,70,1,Steakhouses;Nightlife;Venues & Event Spaces;Pubs;Bars;Event Planning & Services;Diners;Restaurants;Seafood
+2886,-uMpSkdN39sz9MbjkauVTQ,"""Taquitos Marimar""",Capitol,"""Downtown Library Mall""",Madison,WI,,43.0755245,-89.3989878,4.5,6,1,Restaurants;Mexican;Food;Food Trucks
+2908,ecXP80GWT6zZ2qqZHpUCtQ,"""Muramoto Downtown""",Capitol,"""108 King St""",Madison,WI,53703,43.074789700000004,-89.38120713059999,4.0,15,1,Bars;Nightlife;Cocktail Bars;Sushi Bars;Restaurants;Asian Fusion
+3105,KLJmSYpq81fy0gXri-tAAw,"""Firefly""",Regent,"""2701 University Ave""",Madison,WI,53705,43.073145200000006,-89.43440179999999,1.5,5,0,Restaurants
+3310,H_og8Pdq2ijAx1QrWjCMNQ,"""Hyvee Market Cafe""",Midvale Heights Community,"""675 S Whitney Way""",Madison,WI,53711,43.0509638462,-89.4728949666,3.5,5,1,American (Traditional);Restaurants;Cafes
+3444,CfW-088nFNuUF9O7363lwA,"""Panera Bread""",Capitol,"""656 W Washington Ave""",Madison,WI,53703,43.067837,-89.395321,3.0,22,1,Food;Restaurants;Sandwiches;Bagels;Soup;Bakeries;Breakfast & Brunch;Salad
+3773,29iErFPoWBTbIVPpp9qSyg,"""Ohio Tavern""",Schenk - Atwood,"""224 Ohio Ave""",Madison,WI,53704,43.09389470000001,-89.3473282,4.0,34,1,Mexican;Nightlife;Restaurants;Karaoke;Tacos;Dive Bars;Bars
+3802,A4uc3-zbHowQeR_u-7VNOw,"""Fiesta Cancun""",Oakbridge Community,"""7854 Mineral Point Rd""",Madison,WI,53711,43.060587,-89.5192273,3.5,6,0,Mexican;Restaurants
+4113,u6sbx5j-06KmPxUwY_mDqg,"""Mad Dogs Eatery""",Capitol,"""309 N Henry St""",Madison,WI,53703,43.075124200000005,-89.390236,3.0,18,0,Restaurants;Hot Dogs
+4216,6pG7n8Rx_7ZXeQQk690Nsw,"""Fair Trade Coffee House""",Capitol,"""418 State St""",Madison,WI,53703,43.075046,-89.392028,4.0,73,1,Coffee & Tea;Cafes;Restaurants;Food;Sandwiches
+4321,XO9oHMxyT0fklifbmED5LQ,"""The Taco Shop""",Capitol,"""604 University Ave""",Madison,WI,53715,43.073442799999995,-89.3960157,2.5,19,0,Restaurants;Mexican
+4330,MOsFhDVav42shCq9-rgejw,"""Potbelly Sandwich Shop""",,"""2245 Zeier Rd""",Madison,WI,53704,43.129181,-89.3024425,5.0,6,1,Sandwiches;Delis;Fast Food;Restaurants
+4347,w53wITixOgDFWld-X1mMng,"""Main Depot Tavern""",Capitol,"""627 W Main St""",Madison,WI,53703,43.0672802,-89.392125,4.0,14,1,American (Traditional);Nightlife;Restaurants;Bars;Pubs
+4992,nsw3tlB-hwz4KbPYcuaSww,"""Novanta""",,"""8452 Old Sauk Rd""",Madison,WI,53562,43.0749188,-89.52984659999998,4.5,177,1,Pizza;Restaurants;American (New);Mediterranean;Italian
+5000,zi_qqjCzkerE2dT-ViE2JA,"""Bellini Italian Restaurant""",Capitol,"""401 E Washington Ave""",Madison,WI,53703,43.077324,-89.37990490000001,3.5,69,0,Restaurants;Italian
+5094,sdfmHavBrOZMMsiBv2sg7g,"""Bluephies""",Dudgeon-Monroe,"""2701 Monroe St, Ste 700""",Madison,WI,53711,43.0566805,-89.4288493,3.5,230,0,Salad;Restaurants;American (Traditional);American (New)
+5377,uC3qwaxsOkdJzpOc0v1Mog,"""Cafe Hollander""",,"""726 N Midvale Blvd""",Madison,WI,53705,43.072963038299996,-89.45388054870001,3.5,351,1,American (Traditional);Belgian;Gastropubs;Breakfast & Brunch;Restaurants
+5499,940rOS3vKpqJMKtrsoatTA,"""Tilted Kilt Pub & Eatery""",,"""420 Gammon Way""",Madison,WI,53774,43.059441,-89.501962,2.5,7,0,Nightlife;Beer;Wine & Spirits;Bars;Restaurants;Food;American (New);Fast Food;Pubs
+5572,laERkVWfXVeQcjMSNe65SA,"""The Double U""",Capitol,"""620 University Ave""",Madison,WI,53715,43.0733436,-89.3967426,3.0,12,1,Pizza;Bars;Sports Bars;Nightlife;Restaurants
+5575,XFuNeVTGWZ-UOYO58NNmKg,"""The Statehouse""",Capitol,"""1001 Wisconsin Pl""",Madison,WI,53703,43.079189500000005,-89.38968630000001,3.0,80,1,Nightlife;Bars;Breakfast & Brunch;American (Traditional);Restaurants;American (New)
+5734,n28_5ElTCVkhP-9BTgQGgg,"""IHOP""",Bluff Acres,"""4614 E Washington Ave""",Madison,WI,53704,43.1301419411,-89.3064034109,2.0,24,1,American (New);American (Traditional);Breakfast & Brunch;Restaurants
+5796,jM6YI5V4fYM7OCA1BLKwqw,"""Taco Bell""",,"""698 S. Whitney Way""",Madison,WI,53719,43.05044,-89.47375,1.5,23,1,Restaurants;Fast Food;Tex-Mex;Mexican
+5829,IpLvJEjb4AN8eWq5NE2TVA,"""Granite City Food & Brewery""",,"""72 West Towne Mall""",Madison,WI,53719,43.0562949363,-89.5050414709,3.5,127,0,Restaurants;American (New);American (Traditional);Breweries;Bars;Burgers;Food;Nightlife
+6186,c7ZTyqSG4v4ZVwK3vuDklQ,"""Ian's Pizza By The Slice""",Capitol,"""319 N Frances St""",Madison,WI,53703,43.0728935,-89.39563559999999,4.0,170,1,Pizza;Restaurants
+6213,nsfOIWfXpJVylXvryjEcNw,"""Schlotzsky's Deli""",Mayfair Park,"""3825 E Washington Ave""",Madison,WI,53704,43.119328700000004,-89.3201096,3.5,11,0,Delis;Restaurants
+6517,XSpEeRqe1CeIBrDoC-wEzg,"""Library Mall""",Capitol,"""728 State St""",Madison,WI,53706,43.0753052127,-89.3979099407,4.5,7,1,Food Trucks;Street Vendors;Restaurants;Food Stands;Food
+6938,rr-8WQv7TWFP3c83ypc4Cg,"""Bridges Golf Course""",Carpenter-Ridgeway,"""2702 Shopko Dr""",Madison,WI,53704,43.111405,-89.34716359999999,3.5,15,1,Golf;Restaurants;Active Life
+7352,k7-UuMFIGcbgmP6RY0Gn_Q,"""Crave Restaurant & Lounge""",Capitol,"""201 W Gorham St""",Madison,WI,53703,43.075138,-89.39081,3.5,7,0,Lounges;Nightlife;Restaurants;Bars
+7620,duG7f4gq2hS-QW50s-g4zA,"""Chipotle Mexican Grill""",Bluff Acres,"""4628 E Washington Ave""",Madison,WI,53704,43.130444583199996,-89.305695506,3.5,34,1,Fast Food;Restaurants;Mexican
+7647,pH9HF3GfJKJAdKDHcoUI4w,"""The Madison Blind""",Capitol,"""601 Langdon St""",Madison,WI,53703,43.07564330899999,-89.39547460979999,3.5,55,0,Bars;Restaurants;Diners;American (New);Nightlife;Cocktail Bars
+8126,TvhpG74DvdoF4MA0vLlOLw,"""Buck's Pizza""",Lake Edge,"""219 Cottage Grove Rd""",Madison,WI,53716,43.0836891,-89.3225822,4.0,22,1,Restaurants;Pizza
+8221,Y_wVqdHHkmfxdaHGOPffqQ,"""Kato's Cajun""",,"""66 E Towne Mall""",Madison,WI,53704,43.125152299999996,-89.3057293,2.5,3,1,Cajun/Creole;Restaurants;Fast Food
+8261,VbRT8CJlnCO9_rd0zW-rUw,"""Willy Street Pub & Grill""",Williamson - Marquette,"""852 Williamson St""",Madison,WI,53703,43.079507,-89.370069,3.5,18,1,Nightlife;Restaurants;Bars;American (Traditional);Dive Bars
+8356,6zZDTZ4ZZEYfN268iPz0uQ,"""RED""",Capitol,"""316 West Washington Ave, Ste 100""",Madison,WI,53703,43.07284,-89.388113,4.0,117,1,Bars;Lounges;Food;Sushi Bars;Desserts;Cocktail Bars;Restaurants;Nightlife
+8401,DhMshA4a0t5wlOq7u0RiMw,"""Subway""",,"""7011 Watts Rd""",Madison,WI,53719,43.0498188,-89.50422259999999,2.0,5,1,Restaurants;Fast Food;Sandwiches
+8495,Pzs43Fkub-6A9hA1zqpF_w,"""Maharaja Restaurant""",,"""6713 Odana Rd""",Madison,WI,53719,43.055999,-89.4977688,4.0,142,0,Restaurants;Indian;Pakistani
+8536,alUQ8F8tom1kTsk4353I2A,"""Copps Food Center""",Carpenter-Ridgeway,"""2502 Shopko Dr""",Madison,WI,53704,43.112943,-89.349625,2.5,12,0,Grocery;Restaurants;Specialty Food;Meat Shops;Food;Health Markets;Delis;Beer;Wine & Spirits
+8762,kDCmjSgYGn8MbQsnO5UJnA,"""Nau-Ti-Gal""",,"""5360 Westport Rd""",Madison,WI,53704,43.1501998757,-89.4041699011,2.5,73,1,Seafood;American (Traditional);Burgers;Restaurants
+9181,wGPZCNenq5HYb50Ip9NXAw,"""El Pescador""",Eken Park,"""2810 E Washington Ave""",Madison,WI,53774,43.102942,-89.345949,4.0,5,0,Mexican;Restaurants
+9260,hXCoi8OuvdhIA-zXJiPvfg,"""Full Of Bull Famous Roast Beef""",Capitol,"""534 State St""",Madison,WI,53703,43.075128899999996,-89.394324,2.5,26,0,Sandwiches;Steakhouses;Restaurants
+9351,Q6_YIK0yUI8HEgqrOIE-1Q,"""A Sakura""",,"""5401 Caddis Bend""",Madison,WI,53711,43.019333047399996,-89.42055702209998,3.0,16,0,Japanese;Sushi Bars;Restaurants
+9375,nD_SylumoZnWevDlWcyGcQ,"""43 North""",Capitol,"""108 King St""",Madison,WI,53703,43.074745,-89.3812356,4.0,93,0,Food;Tapas/Small Plates;Restaurants;American (New)
+9794,3-HFGxmbzSax-NySJ_LzDg,"""VIP""",,"""6718-6722 Odana Rd""",Madison,WI,53719,43.057108899999996,-89.49835999999999,3.5,173,1,Sushi Bars;Restaurants;Chinese;Japanese
+10029,7OKQ4ENVfPfxtDqFOG7x0g,"""A8 China""",Capitol,"""608 University Ave""",Madison,WI,53715,43.0734206,-89.39615970000001,2.5,34,1,Restaurants;Chinese
+10328,wX8btbqgyFh0yHgmyR8ovA,"""Monsoon Siam""",Schenk - Atwood,"""2045 Atwood Ave""",Madison,WI,53704,43.092071399999995,-89.3535202,4.0,142,1,Thai;Bars;Nightlife;Soup;Restaurants
+10387,LOARujcfx-Ty_RUlcnYspg,"""Burger King""",Starkweather - Yahar,"""2655 E Washington Ave""",Madison,WI,53704,43.101439,-89.34723199999999,1.5,28,1,Fast Food;Restaurants
+10450,5YUoTimGDPbbmRfw6SJgTQ,"""China Kitchen""",,"""6608 Mineral Point Rd""",Madison,WI,53705,43.06157879999999,-89.49593730000001,3.5,15,1,Chinese;Restaurants
+10497,OlA7h9oOttqTALudvEUzTg,"""Gloria's Mexican Restaurant""",Junction Ridge,"""610 Junction Rd""",Madison,WI,53717,43.073255200000006,-89.5266699,4.0,65,1,Mexican;Restaurants
+10622,jz_q2_QTq_CdDbOtY2FSXg,"""Starbucks""",Sunset Village,"""3515 University Ave""",Madison,WI,53705,43.0748689,-89.44748680000001,3.0,28,1,Cafes;Food;Restaurants;Coffee & Tea
+10775,sBoifVfW-caU7Hq05QMJgw,"""El Rincon Tico""",Williamson - Marquette,"""1133 Williamson  St""",Madison,WI,53703,43.082528,-89.36483100000001,3.0,13,0,Latin American;Restaurants
+10901,h9ELiqDfwNktCvLEu1DDNg,"""Paul's Club""",Capitol,"""204 State St""",Madison,WI,53703,43.0748794571,-89.38833832739999,3.5,92,1,Nightlife;American (New);Lounges;Bars;Restaurants
+11001,7CD4qTysNB-lis85QFS8Tg,"""Jalapeño Mexican Grill""",Bram's Addition,"""1821 S Park St""",Madison,WI,53713,43.0470342,-89.3939631,4.0,7,0,Mexican;Restaurants
+11040,lc9RZgA1FYbaJp4JQ4gm0Q,"""Madtown Pizza""",Tenney - Lapham,"""912 E Johnson St""",Madison,WI,53703,43.0847415,-89.37605699999999,4.0,19,0,Restaurants;Pizza
+11064,WkHVtY5voeLCvv61klhUnA,"""Arby's""",,"""4 Collins Ct""",Madison,WI,53716,43.047206,-89.305583,2.5,9,1,Fast Food;Burgers;Restaurants;Sandwiches
+11106,-mst4KdHEmeF3Qm0Xfouhw,"""Subway""",,"""6000 Monona Dr, Ste 100""",Madison,WI,53716,43.0539464275,-89.3249382824,2.0,5,1,Sandwiches;Restaurants;Fast Food
+11354,fQ1sYWuXtVVOFWhrC9bTrA,"""Culver's""",Nobel Park,"""1325 Northport Dr""",Madison,WI,53704,43.1341322,-89.3728554,3.0,13,1,Restaurants;Ice Cream & Frozen Yogurt;Fast Food;Food;Burgers
+11436,2YlUn3s132hNq5ueGeIiJg,"""Bonfyre American Grille""",,"""2601 W Beltline Hwy""",Madison,WI,53713,43.034735368999996,-89.42256113879999,3.5,212,1,Nightlife;Bars;Beer Bar;American (Traditional);Cocktail Bars;Restaurants;American (New)
+11541,9qd2RuiGMtVju7tqdp3dsw,"""Jovian Taphaus""",McClellan Park,"""876 Jupiter Dr""",Madison,WI,53718,43.0853685,-89.2798865,2.0,6,0,Restaurants;American (New)
+11589,miiptVrDH-qHT4wmI-Lk8g,"""Wendy's""",,"""633 S Gammon Rd""",Madison,WI,53719,43.051062,-89.5023902,3.5,12,1,Fast Food;Restaurants;Burgers
+11652,asAHqgKQtCWiBbC3XriSIQ,"""Chang Jiang""",,"""646 S Gammon Rd""",Madison,WI,53719,43.0505454,-89.50397679999999,3.5,27,1,Restaurants;Chinese
+11898,Thbnk3uDJ2PPCCluUdqfEg,"""Cactus Ranch""",Regent,"""2701 University Ave""",Madison,WI,53705,43.073151,-89.434322,3.5,9,0,Tex-Mex;Barbeque;Restaurants;Burgers
+12011,wEisic-u9Yj543iYzfpAhw,"""La Mestiza""",,"""6644 Odana Rd""",Madison,WI,53719,43.056038,-89.49419509999998,4.0,156,1,Mexican;Restaurants
+12061,RJNAeNA-209sctUO0dmwuA,"""The Old Fashioned""",Capitol,"""23 N Pinckney St""",Madison,WI,53703,43.0761862475,-89.3837572172,4.0,1449,1,American (New);American (Traditional);Bars;German;Salad;Food;Beer;Wine & Spirits;Restaurants;Nightlife;Breakfast & Brunch;Steakhouses
+12089,9D9VuQW6ysUacf63q-5pMA,"""Pizza Hut""",Greenbush,"""520 S Park St""",Madison,WI,53715,43.061355299999995,-89.4010849,4.0,6,1,Italian;Pizza;Restaurants;Chicken Wings
+12131,2cetuQgbP1Bnzm-uMRlocQ,"""Nam's Noodle""",South Campus,"""1336 Regent St""",Madison,WI,53715,43.067977500000005,-89.40845379999999,3.5,91,1,Asian Fusion;Chinese;Restaurants;Vietnamese;Noodles
+12132,1ru9ZnIcSXKtD-jQoxLzNg,"""Freiburg Gastropub""",Dudgeon-Monroe,"""2616 Monroe St""",Madison,WI,53711,43.05755070000001,-89.42852959999999,4.0,103,1,Restaurants;Gastropubs;Beer Bar;Nightlife;Bars;German
+12761,ffUMyqLvDLcsed5p_7wy5A,"""Avenue Bar""",Tenney - Lapham,"""1128 E Washington Ave""",Madison,WI,53703,43.085589,-89.36945290000001,3.5,101,0,Nightlife;Restaurants;Bars;American (Traditional);Fish & Chips;Cocktail Bars
+13245,rKUyL4Bbgd_ipQI3F9i3tQ,"""Dodo's Cafe""",,"""66 W Towne Mall""",Madison,WI,53719,43.056384360500005,-89.50637839950001,4.0,5,0,Coffee & Tea;Juice Bars & Smoothies;Food;Restaurants;Cafes
+13264,MQb3PUxPJKYNQOY7g9bc_A,"""Rocky Rococo Pan Style Pizza - North/East""",,"""1753 Thierer Rd""",Madison,WI,53704,43.1232835811,-89.31311221530001,2.5,13,1,Italian;Pizza;Restaurants;Salad
+13311,KYdtom3RyDt-3SWGwmJcQA,"""QDOBA Mexican Eats""",,"""6650 Mineral Point Rd""",Madison,WI,53705,43.0614295863,-89.4965509978,3.5,10,1,Restaurants;Fast Food;Event Planning & Services;Caterers;Mexican
+13351,iFlr0eG_qH-cgXFhji7gbQ,"""Erin's Snug Irish Pub""",,"""4601 American Pkwy""",Madison,WI,53718,43.1486157,-89.2892764,3.5,147,1,American (Traditional);Irish;Pubs;Nightlife;Restaurants;Breakfast & Brunch;Irish Pub;Bars;Sandwiches
+13395,tvESBMlJsaARw6hXoRCdjQ,"""Taco Bell""",,"""East Towne Mall, 228 East Towne Mall""",Madison,WI,53704,43.127819,-89.30661500000001,1.0,3,1,Restaurants;Tex-Mex;Mexican;Fast Food
+13461,M4f1JtOp03-gv8xR5JtV8Q,"""Papa John's Pizza""",Stone Meadows,"""6619 McKee Rd""",Madison,WI,53719,43.0146904387,-89.4983652026,2.5,12,1,Restaurants;Pizza
+13607,i7PG3pFaBLy9MHM_RYzKAw,"""Rising Sons""",Wexford,"""745 N High Point Rd""",Madison,WI,53717,43.076113644799996,-89.51811387309999,4.0,35,1,Restaurants;Asian Fusion;Thai
+13744,qLYNdv7bgA7OOOKTxu0giA,"""Good Food""",Capitol,"""33 E Main St""",Madison,WI,53703,43.0740986906,-89.38282370569999,4.5,70,1,Restaurants;Food Stands;Food;Street Vendors;Sandwiches
+14432,HaRB76OqxMZ28snURM9tFw,"""Papa Bear's BBQ""",Elvehjem,"""4527 Cottage Grove Rd""",Madison,WI,53716,43.084097,-89.30451679999999,4.0,20,0,Barbeque;Restaurants
+14554,DQMaUSbKsRtB5lJD3egqxQ,"""Wah Kee Wonton Noodle""",Williamson - Marquette,"""600 Williamson St, Ste E""",Madison,WI,53703,43.077067799999995,-89.3744,3.5,144,1,Chinese;Cantonese;Noodles;Restaurants
+14730,-jZ1TrvY56HFqmxjbpcU2A,"""Gotham Bagels""",Capitol,"""112 E Mifflin St""",Madison,WI,53704,43.0769221065,-89.3835302639,3.5,156,1,Food;Bagels;Restaurants;Delis;Breakfast & Brunch
+15136,KW5qy8mKBpgd2xL_5w7Mzg,"""Topper's Pizza""",Norman Acres,"""4128 E Washington Ave""",Madison,WI,53704,43.1254222,-89.312196,2.5,19,1,Pizza;Restaurants
+15199,vahVdHsH5HjThT0Sa2mThQ,"""Wilson's Bar""",Schenk - Atwood,"""2144 Atwood Ave""",Madison,WI,53704,43.093214,-89.350403,3.5,27,1,Sandwiches;Burgers;Bars;Restaurants;Nightlife;Sports Bars
+15539,n_EdZHrdiLSaO6IMr5RyWA,"""Saffron""",Regent,"""10 S Allen St""",Madison,WI,53726,43.067687899999996,-89.4239575,4.5,3,0,Cafes;Restaurants
+15628,tnRZmWnVnq25S0Hd4h-L_A,"""Las Cazuelas""",Capitol,"""15 N Butler St""",Madison,WI,53703,43.077124299999994,-89.3815107,2.5,8,0,Mexican;Restaurants
+15633,hc81y_5FQjTiZcgqnY8vfQ,"""Pizza Hut""",Rolling Meadows,"""4762 Cottage Grove Rd""",Madison,WI,53716,43.08459570000001,-89.2995667,2.0,12,1,Restaurants;Chicken Wings;Pizza;Italian
+15684,iy-t6CyVL2g38wPFY4ac4g,"""Pizza Hut""",,"""7440 Mineral Point Rd""",Madison,WI,53717,43.061151,-89.512235,2.0,18,1,Restaurants;Italian;Chicken Wings;Pizza
+15815,Qn2uD06olrxL_43_4G_Hqg,"""Rosati's Authentic Chicago Pizza""",,"""4933 Commercial Ave""",Madison,WI,53704,43.105556360600005,-89.2966957014,3.0,15,1,Pizza;Restaurants
+16051,fqeHgAtcUxp2ocf_RLErkg,"""Mr. Brews Taphouse All American Burgers""",Junction Ridge,"""610 Junction Rd, Ste 107""",Madison,WI,53717,43.0733000354,-89.52668633309999,3.5,91,1,Pubs;American (New);Restaurants;Bars;Burgers;Nightlife
+16214,d6VYQbeTZ_WdD8Uuhh35dg,"""Tempest Oyster Bar""",Capitol,"""120 E Wilson St""",Madison,WI,53703,43.073930018599995,-89.3796241524,4.0,205,1,Seafood;Nightlife;Restaurants;Steakhouses;Bars
+16555,WoFTWkoOrciT0TEvRJcSTQ,"""The Kollege Klub""",Capitol,"""529 N Lake St""",Madison,WI,53703,43.0756224,-89.3970644,2.5,30,1,American (New);Bars;Nightlife;Sports Bars;Restaurants
+16993,ovB8CTMCU6RTB9xTrOT_kA,"""Leia's Lunchbox""",Tenney - Lapham,"""""",Madison,WI,53703,43.0833196,-89.37247690000001,5.0,4,1,Food Trucks;Sandwiches;Desserts;Restaurants;Food;Burgers;Farmers Market
+17103,5iFHDkcYp2PRllPzq1Qe_g,"""JD's""",Capitol,"""317 N Bassett St""",Madison,WI,53703,43.0730621,-89.39354159999999,3.5,9,0,American (New);Restaurants
+17228,1bYtt80iwckHNPJyIl4qQg,"""Oliva""",Wexford,"""751 N High Point Rd""",Madison,WI,53717,43.0759404,-89.5178922,3.5,82,1,Mediterranean;Italian;Restaurants
+17343,K7rmxZmtoE0_U_40459TLg,"""Sucre""",Capitol,"""20 W Mifflin""",Madison,WI,53703,43.075216,-89.386276,3.5,3,0,Restaurants
+17459,hisaMvsxMzo08xigPIwXiA,"""Las Islas Del Mar""",Glendale,"""5696 Monona Dr""",Madison,WI,53716,43.058548200000004,-89.3257269,4.0,50,0,Seafood;Restaurants;Mexican
+17718,JE3SRhAGqZrAzs0gMm5cIA,"""MOD Pizza""",,"""2249 Zeier Rd""",Madison,WI,53704,43.129083,-89.303678,4.0,24,1,Fast Food;Pizza;Restaurants
+17867,E3zvCzX7gquT9srY4pUwLg,"""El Rancho Mexican Grill""",,"""819 S Park St""",Madison,WI,53715,43.0588637,-89.40007469999999,4.5,59,1,Restaurants;Mexican
+17908,pUmECN5N94AQAe0DtptuYA,"""Burrito Drive""",Williamson - Marquette,"""310 S Brearly St""",Madison,WI,53703,43.0810278,-89.3689566,3.5,136,1,Tex-Mex;Mexican;Restaurants
+17933,xhc-bSw2Cz2Inskzjve3Rg,"""Kangchen Indian Cuisine""",,"""7475 Mineral Point Rd""",Madison,WI,53717,43.0595765608,-89.51211069629998,4.0,30,0,Restaurants;Indian
+18310,HVpwpXneaCWMeEBF7H8jpQ,"""Taiwan Little Eats""",Capitol,"""320 State St""",Madison,WI,53703,43.074953799999996,-89.3907598,4.0,21,1,Taiwanese;Bubble Tea;Restaurants;Chinese;Food;Asian Fusion
+18311,aYjZc-3aVbPIPaJgGiUK_A,"""Nostrano""",Capitol,"""111 S Hamilton St""",Madison,WI,53703,43.072631,-89.384011,4.0,179,0,Restaurants;Mediterranean;Italian
+18561,3QkeQGsghxmtHyK2q1_xsQ,"""CoCoLiquot""",Capitol,"""225 King St""",Madison,WI,53703,43.0744019,-89.379518,3.5,7,0,Restaurants
+18786,Rn9FfZqjIU1oy8XaST9qbw,"""Black Locust Cafe""",Williamson - Marquette,"""829 E Washington Ave""",Madison,WI,53703,43.081653,-89.373548,4.5,56,1,Restaurants;Creperies;Food;Cafes;Southern;Breakfast & Brunch;Coffee & Tea
+18931,rU9pDF4Ir0GlgEbx6cXSYA,"""Cheese Melt Cafe""",,"""West Towne Mall Shopping Center, 66 West Towne Mall""",Madison,WI,53719,43.0572515,-89.5055108,4.5,3,0,Restaurants;Comfort Food;Cafes;Food Court
+19036,ppyUsjr_baAojLKyAAO1uw,"""Casetta Kitchen and Counter""",Capitol,"""222 W Washington Ave, Ste 30""",Madison,WI,53703,43.0734362651,-89.38674079260001,4.5,33,1,Wine Bars;Delis;Nightlife;Breakfast & Brunch;Cocktail Bars;Restaurants;Bars;Sandwiches;Italian
+19311,52bVodsCN1p_yT7_Y63xeg,"""Taste of Tibet""",Capitol,"""430 State St""",Madison,WI,53703,43.074833500000004,-89.3922683,3.5,13,0,Himalayan/Nepalese;Restaurants
+19768,lCWebOwMT2T5WKyA_xb8HA,"""The Red Zone Madison""",South Campus,"""1212 Regent St""",Madison,WI,53715,43.067954,-89.406295,3.0,8,1,American (Traditional);Nightlife;Sports Bars;Gastropubs;Arts & Entertainment;Music Venues;Restaurants;Bars
+19983,WacrAWdXzZywkQU-u_Qf8w,"""Akari Sushi""",,"""811 South Gammon Rd""",Madison,WI,53719,43.0473004,-89.503102,3.0,7,1,Sushi Bars;Japanese;Restaurants
+20083,oKYUMYQI7AkjCJdRsKlqtg,"""Restaurant Muramoto""",Capitol,"""225 King St""",Madison,WI,53703,43.0745112925,-89.3792792157,3.5,171,0,Restaurants;Asian Fusion;Sushi Bars
+20330,20mdLT6sAriyKs9oNouDDA,"""The Taco Bros""",Capitol,"""604 E University Ave""",Madison,WI,53715,43.0733915441,-89.39614649459999,4.5,21,0,Tex-Mex;Restaurants;Mexican
+20424,2vzUzl31fFLHKhM6px-rbg,"""Mariners""",,"""5339 Lighthouse Bay Dr""",Madison,WI,53704,43.14880479999999,-89.40696679999999,3.5,61,1,Breakfast & Brunch;Steakhouses;Seafood;Restaurants;American (Traditional)
+20455,C37hwsGUHn_3-il0ypeY-Q,"""Mickey's Tavern""",Williamson - Marquette,"""1524 Williamson St""",Madison,WI,53703,43.0878975,-89.35871920000001,4.0,178,1,Pizza;Bars;American (New);Nightlife;Restaurants;Pubs;Sandwiches
+20492,1qVF1_pSuk88hrTek6bPeg,"""Ginza of Tokyo""",Bluff Acres,"""4802 E Washington Ave""",Madison,WI,53704,43.133354,-89.302295,2.0,8,0,Japanese;Restaurants
+20529,GrfaRLXBZ6uB9QGEd0ElFw,"""Bennett's Smut-N-Eggs""",Greenbush,"""416 S Park St""",Madison,WI,53715,43.0627994,-89.4010891,5.0,3,0,Restaurants;Nightlife;American (New);Sports Bars;Adult Entertainment;Bars
+20920,g3xzSAq_IcF1HeB7yd_LBg,"""Ramen Kid""",Capitol,"""461 Gilman St""",Madison,WI,53703,43.073386299999996,-89.39517559999999,3.5,96,1,Sushi Bars;Restaurants;Ramen;Asian Fusion;Japanese
+21441,XMEGoJVtQ6EgVox1yTsO8w,"""Perkins Restaurant & Bakery""",Bluff Acres,"""4863 Hayes Rd""",Madison,WI,53704,43.1358953975,-89.29944857950001,3.0,22,1,American (New);Bakeries;Farmers Market;American (Traditional);Restaurants;Breakfast & Brunch;Cafes;Food
+21575,QI-CI9wWRxtw60_aQK1BpA,"""KJ's Curry Bowl""",,"""7005 Tree Ln""",Madison,WI,53717,43.065377399999996,-89.50304200000001,4.0,70,1,Sri Lankan;Asian Fusion;Restaurants;Mexican;American (New)
+21696,cprIQ1e2be5LD7jpPEyiSw,"""McDonald's""",Worthington Park,"""3051 E Washington Ave""",Madison,WI,53704,43.104087,-89.340903,3.0,7,0,Fast Food;Burgers;Restaurants
+21806,6keyv1LcbzdD8MCrRaA0nQ,"""Outback Steakhouse""",Junction Ridge,"""279 Junction Rd""",Madison,WI,53717,43.065881700000006,-89.52396829999999,2.5,57,1,Restaurants;Steakhouses
+21821,aLf_bFRNxxGdte8GrIAN4g,"""Der Rathskeller""",Capitol,"""800 Langdon St""",Madison,WI,53706,43.0763553472,-89.3999987793,4.0,29,1,Nightlife;American (Traditional);Restaurants;Pubs;Beer;Wine & Spirits;Food;Sandwiches;Bars
+21967,CYFfha5CmApflbpN1AhWHQ,"""Melted""",Capitol,"""100 E Main St""",Madison,WI,53704,43.074011,-89.38255799999999,3.5,19,1,Restaurants;Street Vendors;Farmers Market;Food Trucks;Food;Sandwiches
+21968,Aua2Vi32K-G4LE0JCtAwiw,"""McDonald's""",Sherman,"""2901 Dryden Dr""",Madison,WI,53704,43.128479299999995,-89.358846,1.5,10,1,Restaurants;Fast Food;Burgers
+22748,oglIZt5mg2nErhpTH_AakQ,"""Cafe La Bellitalia""",Sherman,"""1026 N Sherman Ave""",Madison,WI,53704,43.111314262200004,-89.3640175794,4.0,100,1,Restaurants;Pizza;Italian
+22992,6HLacZd6X2tz16IP3dHMEA,"""Biergarten at Olbrich Park""",Eastmorland,"""3527 Atwood Ave""",Madison,WI,53714,43.087871299999996,-89.3304009,4.0,20,1,Restaurants;Active Life;Parks;German;Beer Gardens;Nightlife
+23227,Q3B6jCQQ0KtkqFI6-Z9WCw,"""Milio's Sandwiches""",,"""6698 Odana Rd, Se 108""",Madison,WI,53719,43.0567732,-89.49592320000001,2.5,3,1,Restaurants;Sandwiches
+23238,NlzU1RxfXaWF6ir-ZWfrLg,"""Madison Cuisine""",Capitol,"""785 University Ave""",Madison,WI,53715,43.073014799999996,-89.39840190000001,3.5,8,1,Japanese;Chinese;Burgers;Asian Fusion;Restaurants;Sushi Bars;Fast Food;American (Traditional)
+23479,1-wuGggkiX5rGS6e2qTP7Q,"""Cafe Montmartre""",Capitol,"""127 E Mifflin St""",Madison,WI,53703,43.0768356,-89.3833003,4.0,28,0,Restaurants;Bars;Wine Bars;Arts & Entertainment;Nightlife;Music Venues
+23565,8S-JaDa1tPdAGaQPTUMjaw,"""Milio's Sandwiches""",,"""462 Commerce Drive, Ste. B""",Madison,WI,53719,43.0562493,-89.52317099999999,3.5,4,1,Food;Local Flavor;Restaurants;Sandwiches
+23920,V1MTfnI-1T7lqZO-Y_qXAg,"""QDOBA Mexican Eats""",Regent,"""2741 University Ave""",Madison,WI,53705,43.073602011999995,-89.43549826739999,4.0,3,1,Restaurants;Fast Food;Mexican;Caterers;Event Planning & Services
+24080,22SabxkOHG2gD4VuVlQR5Q,"""China Star""",Junction Ridge,"""515 Junction Rd""",Madison,WI,53717,43.071425700000006,-89.5248896,2.5,7,0,Chinese;Restaurants;Japanese
+24112,s-2MJj4o8SGOKGcNjmfx6g,"""Fluno Center""",Capitol,"""601 University Ave""",Madison,WI,53715,43.072873,-89.3965423,4.0,11,1,Restaurants;Education;Specialty Schools;Venues & Event Spaces;Event Planning & Services
+24160,44IAhkyHsBGMrggWm1HICw,"""La Mestiza""",Capitol,"""121 E Main St""",Madison,WI,53703,43.0750544,-89.3810002,4.0,7,0,Mexican;Restaurants
+24406,IXXERocY1bqGwRllcy8J2w,"""Sophia's Bakery & Cafe""",Tenney - Lapham,"""831 E Johnson St, Ste 4""",Madison,WI,53703,43.0838052,-89.37681090000001,4.0,191,0,Restaurants;Breakfast & Brunch;Food;Bakeries
+24792,aw5axrPRdJu56obiSZ4d8w,"""IGo VeGo""",Capitol,"""101 E Mifflin St""",Madison,WI,53726,43.0764511,-89.3837848,4.5,5,0,Vegetarian;Restaurants;Food;Fruits & Veggies;Specialty Food;Vegan
+24930,ShGGqJ0ugPw9N4yL7QlO-Q,"""Fair Oaks Diner""",Starkweather - Yahar,"""44 S Fair Oaks Ave""",Madison,WI,53714,43.0985717,-89.33413709999999,2.5,14,1,Restaurants;Food;Diners
+25272,uteI0OIVarN_qkmORgPPgg,"""Fast Biryani""",Bluff Acres,"""4738 E Washington Ave""",Madison,WI,53704,43.133174600000004,-89.3025996,4.0,68,0,Pakistani;Indian;Restaurants
+25278,OCytAjNw1jvhfEF7KU43GA,"""Perkins Restaurant & Bakery""",,"""1410 Damon Rd""",Madison,WI,53713,43.0355008815,-89.4086769067,3.0,30,1,Bakeries;American (Traditional);Cafes;Diners;Breakfast & Brunch;Restaurants;Food
+25323,eZkD1yUKQA6mAfBJTJPD6w,"""Little Caesars Pizza""",Starkweather - Yahar,"""2833 E Washington Ave""",Madison,WI,53704,43.1021144,-89.3447315,2.5,6,1,Pizza;Restaurants
+25427,b_PiGpk0PZyBpckb1TFITg,"""Madison Sourdough Patisserie""",Williamson - Marquette,"""916 Williamson St""",Madison,WI,53703,43.0800604,-89.3694798,4.5,24,0,Cafes;Food;Desserts;Restaurants;Ice Cream & Frozen Yogurt
+25441,bGAweH0aQRfqNx59BIAOaA,"""The Grill House Local Tavern""",Capitol,"""102 King St""",Madison,WI,53703,43.074789700000004,-89.3815166,3.0,15,0,American (Traditional);Restaurants;Sandwiches;Soup
+25443,Ff9YHvBxijzhdtYVQU09dQ,"""Hmong Legacy Market""",Burr Oaks,"""2119 Fish Hatchery Rd""",Madison,WI,53713,43.042906895,-89.4035880257,3.5,5,1,Restaurants;Grocery;Food;Imported Food;Delis
+25549,hgdJyNg58p1It_b7ElAxgw,"""Firehouse Subs""",Capitol,"""449A State St.""",Madison,WI,53703,43.074475,-89.393396,4.5,3,0,Delis;Fast Food;Sandwiches;Restaurants
+25894,zXb5pP4zMHvmusweYfr9TQ,"""McDonald's""",,"""6910 Odana Rd""",Madison,WI,53719,43.057127,-89.501621,2.5,7,1,Restaurants;Burgers;Fast Food
+26192,LhU-XsZ2YObJnP-5uiMIjA,"""Habanero's Mexican Grill""",Sherman,"""3001 N Sherman Ave""",Madison,WI,53704,43.1297225601,-89.36273871030001,3.5,21,1,Restaurants;Mexican
+26274,JfGnBe_IGDV0RZjAADp4yA,"""Yola's Cafe""",,"""494 Commerce Dr""",Madison,WI,53719,43.0554282,-89.52318220000001,3.5,79,1,Restaurants;Food;Cafes;Breakfast & Brunch;Coffee & Tea;Bakeries;American (Traditional)
+26375,NpjFkuhBX-LU-hf_FnJzKg,"""Laredo's""",,"""4000 University Ave""",Madison,WI,53705,43.0754424,-89.45384190000001,3.5,11,0,Restaurants;Mexican
+26658,QfWFxmXqRGixztgaZN0gOA,"""Helbachs Coffee House""",,"""410 Donofrio Dr""",Madison,WI,53719,43.0596333,-89.5135245,4.0,80,1,Sandwiches;Restaurants;Cafes;Coffee & Tea;Salad;Food;Breakfast & Brunch;Juice Bars & Smoothies
+26659,PVHC67qH2d6DonAGRxvymA,"""PaintBar Madison""",Williamson - Marquette,"""1224 Williamson St""",Madison,WI,53703,43.0837945,-89.36358349999999,5.0,17,1,Paint & Sip;Nightlife;Shopping;Arts & Entertainment;Arts & Crafts;Pizza;Education;Art Classes;Restaurants;Bars
+26668,ygjJmeiGoO--QpTqJ_kZjA,"""Flat Top Grill""",,"""Hilldale Shopping Center, 538 N Midvale Blvd""",Madison,WI,53705,43.071468436400004,-89.4523766041,3.0,94,0,Vegan;Asian Fusion;Vegetarian;Restaurants;Do-It-Yourself Food;Gluten-Free;Food
+27090,tyo6QzKpnUVTjXoq91FBuQ,"""Toby's Supper Club""",,"""3717 S Dutch Mill Rd""",Madison,WI,53718,43.0440001,-89.3027747,4.0,110,1,Restaurants;American (Traditional)
+27225,YpsMG1_Vf-rEVjl42Nw8hg,"""Milio's Sandwiches""",Regent,"""2145 Regent St""",Madison,WI,53726,43.0677216,-89.4236293,3.5,22,1,Sandwiches;Restaurants
+27344,JEoi9ITPZM58EnZBAubijA,"""Vintage Brewing""",,"""674 S Whitney Way""",Madison,WI,53719,43.050959000000006,-89.473956,3.5,256,1,Restaurants;Food;American (Traditional);Nightlife;Bars;Breweries
+27663,g0h7RSrFyNYbxWz5m8ScMQ,"""Monroe Street Bistro""",Dudgeon-Monroe,"""2611 Monroe St""",Madison,WI,53711,43.0575935,-89.4282848,3.0,13,0,Nightlife;Bars;Restaurants
+27857,Lu11ceuxJWh3dgRaPZGbsQ,"""QDOBA Mexican Eats""",,"""4718 E Towne Blvd""",Madison,WI,53704,43.1302659456,-89.3034115434,3.0,29,1,Fast Food;Mexican;Event Planning & Services;Restaurants;Caterers
+27910,cjFFnWEVH4F62861vJeq3g,"""Los Atlantes""",Meadowood,"""5706 Raymond Rd""",Madison,WI,53711,43.0324654597,-89.47782582159999,4.5,13,1,Restaurants;Mexican
+27911,Iq1P8S3--gqd50xoQJxpqA,"""Bowl of Heaven""",,"""717 Hilldale Way""",Madison,WI,53705,43.0729301199,-89.4532138687,4.5,43,1,Restaurants;Fruits & Veggies;Food;Juice Bars & Smoothies;Specialty Food;Gluten-Free;Fast Food;Vegan
+27928,rmNTGiMG8NH31b88tUNNfw,"""The Fountain""",Capitol,"""122 State St""",Madison,WI,53703,43.075044399999996,-89.3873093,3.5,69,1,Arts & Entertainment;Bars;Jazz & Blues;Restaurants;Nightlife;American (Traditional);Pubs
+28081,qB5m-TgJx_zeWKLLxKRfUA,"""Fraboni's Italian Specialties & Delicatessen""",Capitol,"""822 Regent St""",Madison,WI,53715,43.0678314,-89.40039250000001,3.5,30,1,Italian;Specialty Food;Food;Restaurants;Delis
+28146,IsADZMYEJKXTtPfN9YsiBA,"""Kabul Restaurant""",Capitol,"""540 State St""",Madison,WI,53703,43.075131,-89.39444499999999,3.5,170,1,Afghan;Mediterranean;Middle Eastern;Restaurants;Greek
+28193,8iRfD5IizYki0F8QlAlL2g,"""Hawk's Bar & Grill""",Capitol,"""425 State St""",Madison,WI,53703,43.074609,-89.392719,3.0,66,1,Nightlife;Bars;Sports Bars;American (Traditional);Restaurants
+28407,cenEs8pZINlsu1fSpzHizQ,"""QDOBA Mexican Eats""",Capitol,"""548 State St""",Madison,WI,53703,43.0750866583,-89.3946364024,3.0,26,1,Event Planning & Services;Restaurants;Caterers;Mexican;Fast Food
+28408,lFZathO8GnCiB7KtkeDsNQ,"""Lava Lounge""",Capitol,"""461 W Gilman St""",Madison,WI,53703,43.073384000000004,-89.3951189,2.5,7,0,Lounges;Bars;American (Traditional);Nightlife;Restaurants
+28623,m9ZzN90XEU36YnoPIFzkmA,"""Cafe Maya""",,"""5501 Odana Rd""",Madison,WI,53719,43.0499145,-89.4736027,4.0,39,1,Breakfast & Brunch;Restaurants;Coffee & Tea;Sandwiches;Food
+28624,uTGV1_Bu-B26_RoHAMi2BQ,"""Old Town Pub""",,"""724 S Gammon Rd""",Madison,WI,53719,43.048922600000004,-89.50326820000001,3.0,3,0,Restaurants;Sports Bars;Bars;Nightlife
+28722,cTPdZ9Va0HCLESf5gNnXwA,"""Lucille""",Capitol,"""101 King St""",Madison,WI,53703,43.074523417200005,-89.3815466467,3.5,176,1,American (New);Bars;Lounges;Nightlife;Burgers;Restaurants;Pizza
+28772,UROWdKGa1IQ19Jk4tExvVQ,"""Culver's""",,"""7206 Mineral Point Rd""",Madison,WI,53717,43.0612025898,-89.5069122215,3.5,19,1,Ice Cream & Frozen Yogurt;Food;Restaurants;Burgers;Fast Food
+28976,RMEzxhYfpnEsWlfozit_xw,"""Ale Asylum""",Carpenter-Ridgeway,"""2002 Pankratz St""",Madison,WI,53704,43.1204993796,-89.35379177959999,4.0,236,1,Food;Restaurants;Breweries;Pizza
+29004,YLqO9xm5s0KJ9JzWukAk8Q,"""North and South Seafood & Smokehouse""",,"""6604 Mineral Point Rd""",Madison,WI,53705,43.0616294,-89.4962001,4.0,94,1,Restaurants;Food;American (Traditional);Seafood;Smokehouse;Barbeque
+29191,OEXe9Rge71Ha3qLKGIK9gQ,"""McDonald's""",South Campus,"""1102 Regent St""",Madison,WI,53715,43.068007,-89.404538,3.0,23,1,Fast Food;Burgers;Restaurants
+29301,wUqqq1nUFA8Fn-3vYYFyWQ,"""Porta Bella""",Capitol,"""425 N Frances St""",Madison,WI,53703,43.0741441325,-89.3955963625,2.5,88,1,Steakhouses;Event Planning & Services;Nightlife;Bars;American (New);Restaurants;Pizza;Caterers;Seafood;Italian
+29479,C12LKBQMjJJw02wqpM8ShA,"""Cosi""",Capitol,"""250 State St""",Madison,WI,53703,43.074981397200006,-89.3899400002,3.0,20,0,Restaurants;Sandwiches
+29480,U5pW5iuYdB_8NxEopCnpqQ,"""Mr Brews Taphouse""",Capitol,"""305 W Johnson St""",Madison,WI,53703,43.0743196966,-89.3904203572,3.5,29,1,Nightlife;Beer;Wine & Spirits;Bars;Restaurants;Food;Sports Bars;Burgers
+29641,M7bDZslvnTlud8DfF-cjpg,"""Anointed One""",Junction Ridge,"""515 Junction Rd, Ste A""",Madison,WI,53717,43.0715594,-89.5245488,3.0,4,1,Restaurants;Soul Food
+29743,WMpXWa8iiEaDzb4vLTZjcw,"""HopCat""",Capitol,"""222 W Gorham St""",Madison,WI,53703,43.0751392,-89.391759,4.0,283,1,Venues & Event Spaces;Bars;Pubs;Event Planning & Services;Restaurants;American (Traditional);Beer Bar;Nightlife
+29762,I-7JXoyVi-QpZJLbJMDrgg,"""Fazoli's""",,"""2143 Zeier Rd""",Madison,WI,53704,43.127148999999996,-89.30111,2.5,19,1,Restaurants;Pizza;Italian
+29867,jb6yNcKwUDsIQOLYmJCcyA,"""Cousins Subs""",Capitol,"""106 S Webster St""",Madison,WI,53703,43.074911,-89.38084609999999,4.0,4,0,Sandwiches;Delis;Caterers;Restaurants;Fast Food;Event Planning & Services
+29921,y2YHddCEO-OLukNppajGIQ,"""Double S BBQ""",Vilas,"""1835 Monroe St""",Madison,WI,53711,43.0649127,-89.41671269999999,3.5,38,0,Barbeque;Restaurants
+30763,924Ni03Fjll4kkkTgSQTlg,"""That BBQ Joint""",Willy St,"""901 Williamson St""",Madison,WI,53703,43.0794866,-89.3693954,4.0,65,1,Restaurants;Barbeque
+30808,YUjiBKnlvfLkjFmUCqZf6A,"""Paciugo""",Capitol,"""341 State St""",Madison,WI,53703,43.074578,-89.391498,4.5,22,0,Restaurants;Cafes;Food;Ice Cream & Frozen Yogurt
+30845,mQBYABs6w5h3BLcsxn1YuQ,"""Logan's Madtown""",Capitol,"""322 W Johnson St""",Madison,WI,53703,43.074154,-89.391323,2.5,9,0,Restaurants;Sandwiches;Burgers;American (New)
+30846,zERyZLsAyB47bMZlfUV-SQ,"""Nick's Restaurant""",Capitol,"""226 State St""",Madison,WI,53703,43.075008200000006,-89.3891551,3.5,70,1,Mediterranean;Greek;Bars;Nightlife;Diners;Restaurants
+31095,kbJsnDn5GWNMC1XsXpJ5Rg,"""Milio's Sandwiches""",Capitol,"""116 Martin Luther King Jr Blvd""",Madison,WI,53703,43.0731947,-89.3829037,2.5,5,1,Sandwiches;Restaurants
+31157,SH1c1aFJl0uHVnVPEF-fTA,"""Club 5""",,"""5 Applegate Crt""",Madison,WI,53713,43.032588700000005,-89.4069988,3.5,8,0,Bars;Dance Clubs;Restaurants;Nightlife;Gay Bars
+31284,opdNlNy2oGE2mxuS0SXR1Q,"""Aldo's Cafe""",South Campus,"""330 N Orchard St""",Madison,WI,53715,43.073180718900005,-89.40765654469999,3.5,26,1,Sandwiches;Cafes;Restaurants
+31285,qkDlRkNfrXE_4t2vMrTo0A,"""Paisan's""",Capitol,"""131 W Wilson St""",Madison,WI,53703,43.070715,-89.38306800000001,3.0,146,1,Pizza;Italian;Restaurants
+31325,6mnjYZM40r67smOXrg6R4g,"""Benvenuto's Italian Grill""",Sherman,"""1849 Northport Dr""",Madison,WI,53704,43.128899036199996,-89.3600500521,3.0,45,1,Restaurants;Italian
+31464,d4JTF7OUIMpxpIHVl9wPJA,"""Brickhouse BBQ""",Capitol,"""408 W Gorham St""",Madison,WI,53703,43.074079299999994,-89.39317559999999,3.0,194,0,Event Planning & Services;Nightlife;Pubs;Restaurants;Bars;Venues & Event Spaces;Barbeque
+31710,XXNGKunbVfgCJhp7XrkU_g,"""Tea Garden""",Capitol,"""Library Mall""",Madison,WI,53703,43.0748677016,-89.39858302469999,2.5,3,0,Street Vendors;Chinese;Food;Restaurants
+31926,eI1n8YoS2xKCCpkLQp-CYA,"""Journey Sushi & Seafood Buffet""",Mayfair Park,"""4325 Lien Rd""",Madison,WI,53704,43.120559,-89.305994,3.5,172,1,Sushi Bars;Buffets;Seafood;Restaurants
+31989,mswIIlZm3ji6lLAjI3mKBQ,"""Bub's Burger Joint""",Eken Park,"""2810 E Washington""",Madison,WI,53704,43.102942,-89.345949,3.0,18,0,Burgers;Restaurants
+32089,p4qvXkb34X8hgidxEZ33Gw,"""Ha Long Bay Vietnamese & Thai Bistro""",Williamson - Marquette,"""1353 Williamson St""",Madison,WI,53703,43.0855448,-89.3607155,4.0,580,1,Vietnamese;Thai;Restaurants
+32113,FlPAGqTovHc4mEIKJ7Q8Nw,"""Swagat Indian Restaurant""",Wexford,"""707 N Highpoint Rd""",Madison,WI,53717,43.0753164,-89.51743979999999,4.0,163,1,Restaurants;Indian;Pakistani
+32287,I6iOdOeu3MxxuG6gIhzodQ,"""Metcalfe's Market""",,"""726 N Midvale Blvd""",Madison,WI,53705,43.074135391800006,-89.4527987522,4.0,82,1,Florists;Cafes;Shopping;Grocery;Flowers & Gifts;Restaurants;Food
+32310,o-D37YVIe0-ravg2HBG8Jw,"""La Concha""",,"""3054 Fish Hatchery Rd""",Madison,WI,53713,43.025686,-89.41496,4.0,21,1,Restaurants;Food;Bakeries;Mexican;Delis
+32322,0qh5uSAUDcVzC6hoPsAPvA,"""Chick-fil-A""",,"""430 S Gammon Rd""",Madison,WI,53719,43.058182,-89.50349200000001,4.0,54,1,Fast Food;Event Planning & Services;American (Traditional);Caterers;Restaurants;Food
+32369,A5tvf0CSH-QUnpyMI4m5ww,"""Jade Monkey Cocktail Lounge""",Lake Edge,"""109 Cottage Grove Rd""",Madison,WI,53716,43.0834821,-89.32421070000001,4.0,40,1,Bars;Restaurants;Lounges;American (New);Nightlife
+32385,GfYzz2Dnnn0CqeDqROAKTQ,"""China Inn""",Rolling Meadows,"""4702 Cottage Grove Rd""",Madison,WI,53716,43.0845532,-89.3010694,2.5,20,1,Chinese;Restaurants
+32419,TAetQMOQ0MCHAZ4hacJrPQ,"""Casbah Restaurant""",Capitol,"""119 E Main St""",Madison,WI,53703,43.07499310000001,-89.3811037,3.0,16,0,Moroccan;Restaurants;Mediterranean;Middle Eastern
+32503,8Rydf8hXleCwbCN9nvmZ4Q,"""Chipotle Mexican Grill""",Capitol,"""658 State St""",Madison,WI,53703,43.0749023,-89.3967531,4.0,39,1,Restaurants;Fast Food;Mexican
+32575,8VjuH2GhJXauUigEEX9Q7Q,"""La Nopalera""",,"""5606 Schroeder Rd""",Madison,WI,53711,43.0470759051,-89.4763927707,4.5,18,1,Juice Bars & Smoothies;Mexican;Ice Cream & Frozen Yogurt;Restaurants;Food
+32893,ZCiKZMT1kce5Gxbwqcbrmw,"""Schwoegler Park Towne Lanes""",,"""444 Grand Canyon Dr""",Madison,WI,53719,43.057893,-89.497039,3.5,27,1,Bowling;Restaurants;Active Life;Nightlife;Bars;Sports Bars;American (Traditional)
+32987,cFxGP_IC4REtJspMNQ3vLg,"""City Bar""",Capitol,"""636 State St""",Madison,WI,53703,43.074895700000006,-89.39575959999999,3.5,43,1,Burgers;Lounges;Bars;Nightlife;Restaurants
+33191,cVPUJEJqjSR1oHjl2JPHqg,"""Red Rock Saloon""",Capitol,"""322 W Johnson St""",Madison,WI,53703,43.074154,-89.391323,3.0,53,1,Restaurants;Barbeque;Music Venues;Bars;Pubs;Arts & Entertainment;Nightlife
+33400,z2Etq4K6YwbV7P5ENVYEgg,"""Subway""",Sauk Creek,"""652 N High Point Rd""",Madison,WI,53717,43.07412479999999,-89.5186653,3.5,3,1,Restaurants;Fast Food;Sandwiches
+33665,Jv8Cj0fdN2Mu2uvFVKcGlw,"""Famous Dave's""",Bay Creek,"""900 S Park St""",Madison,WI,53715,43.0578623,-89.40004609999998,3.0,63,1,Restaurants;Barbeque
+33715,4FdXVA-WxWwc5rmjRPJVnQ,"""McDonald's""",Bluff Acres,"""4502 E Washington Ave""",Madison,WI,53704,43.1287657,-89.30858,1.0,4,1,Burgers;Restaurants;Fast Food
+33731,SqkJxRXxn7K1s6FxEQhYsw,"""608 Sports Bar & Restaurant""",,"""1738 Fordem Ave""",Madison,WI,53704,43.0949117292,-89.36405394229999,3.0,11,0,Nightlife;Beer Bar;Food;Restaurants;Sports Bars;Beer;Wine & Spirits;Bars;Burgers
+33804,PLiVD2blqBDRzAAd1_RxxQ,"""Barriques - Monroe St.""",Vilas,"""1825 Monroe St""",Madison,WI,53711,43.0649299,-89.4165809,4.0,62,1,Beer;Wine & Spirits;Cafes;Coffee & Tea;Food;Restaurants
+33854,OON-4BXdjJHdk16zhdN4PQ,"""Madistan""",Capitol,"""317 N Bassett St""",Madison,WI,53703,43.0730621,-89.39354159999999,4.0,55,1,Specialty Food;Mediterranean;Ethnic Food;Food;Pakistani;Halal;Restaurants
+33949,MC32JA-Yv2ChT_q9TgHyRA,"""Asian One""",Capitol,"""453 W Gilman St""",Madison,WI,53703,43.0736076,-89.3950083,4.0,8,0,Restaurants;Thai
+34148,Fr3Dz0_fOSGBroXEUF9BiA,"""Madison's""",Capitol,"""119 King St""",Madison,WI,53703,43.0745303938,-89.38053080969999,3.5,110,1,Bars;Lounges;Restaurants;Nightlife;American (New)
+34352,xd94CG9wqwLQvPsrSC1l9A,"""Next Door Brewing Company""",Schenk - Atwood,"""2439 Atwood Ave""",Madison,WI,53704,43.093665,-89.345698,3.5,137,1,Sandwiches;Bars;Food;American (New);Pubs;Breweries;Nightlife;Restaurants
+34420,AVsiojwcq3X6lSIQkpp8SQ,"""Wingstop""",South Campus,"""1234 Regent St""",Madison,WI,53715,43.067873799999994,-89.40713520000001,3.0,31,1,Restaurants;Chicken Wings
+34670,ey27rNqT2dqBqCP36iCNpQ,"""Sol's On the Square""",Capitol,"""117 E Mifflin St""",Madison,WI,53703,43.076622,-89.383313,3.5,92,1,Food;Restaurants;Korean
+34744,ytX-rw4wwOgmzr1n5RuxpA,"""Layla's Persian Food""",Capitol,"""141 S Butler St""",Madison,WI,53703,43.075171000000005,-89.37861,4.0,51,1,Vegan;Persian/Iranian;Restaurants;Middle Eastern
+34807,1BQzXcXFxR6MlVIYmG93kw,"""Zandru's""",Capitol,"""419 State St""",Madison,WI,53703,43.074723999999996,-89.39259799999999,3.5,20,1,Mediterranean;Restaurants;Tapas/Small Plates;Tapas Bars;Spanish
+34967,ozAb1TjLJqRH_3pb8TaPTw,"""Red Robin Gourmet Burgers""",,"""2440 East Springs Drive""",Madison,WI,53704,43.130973,-89.297537,3.5,54,1,Burgers;Restaurants;American (Traditional)
+35006,n8tzdLv8oREwZF6e8u7Hkw,"""Wendy's""",Westchester Gardens,"""3910 E Washington Ave""",Madison,WI,53704,43.121874,-89.3179828,2.0,7,1,Burgers;Restaurants;Fast Food
+35015,6_7_aSycZlRsfKENFiIi6g,"""Happy Wok""",,"""17 Eastpark Ct""",Madison,WI,53718,43.147070899999996,-89.287972,4.0,20,1,Chinese;Restaurants
+35588,07pQy9z_UNDihUdwrJfjyQ,"""Blackhawk Country Club""",,"""3606 Blackhawk Dr""",Madison,WI,53705,43.079319,-89.454639,5.0,3,1,Venues & Event Spaces;Restaurants;Golf;Active Life;Event Planning & Services;Country Clubs;Arts & Entertainment
+35769,D5XFDNEuLQoLbokLeznaOQ,"""El Burrito Loco""",Capitol,"""On The Corner Of Main St And Martin Luther King Blvd""",Madison,WI,53703,43.073496210200005,-89.3832206726,4.0,5,1,Restaurants;Food;Street Vendors;Mexican
+35805,Ylw5xdTfPN5L6Uhd54pzmA,"""McDonald's""",Allied Dunn's Marsh,"""4687 Verona Rd""",Madison,WI,53711,43.0322903775,-89.4571185787,2.0,3,1,Fast Food;Burgers;Restaurants
+35971,keQlXWfz2K7GukqaReVyow,"""Ichiban Sichuan""",Greenbush,"""610 S Park St""",Madison,WI,53715,43.060609,-89.401081,3.5,165,1,Restaurants;Chinese
+36015,BF4RaOWyjLDa9OvriKc1sA,"""Come Back In""",Capitol,"""508 E Wilson St""",Madison,WI,53703,43.0760533,-89.3767519,3.5,99,1,American (Traditional);Breakfast & Brunch;Bars;Nightlife;Restaurants
+36311,kz5UANVmPxpllcoLnZBNhg,"""Great Dane Pub & Brewing Co""",McClellan Park,"""876 Jupiter Dr""",Madison,WI,53718,43.085345000000004,-89.279863,3.5,99,1,Nightlife;Bars;Gastropubs;Pubs;Restaurants;Food;Gift Shops;Breweries;Flowers & Gifts;Shopping
+36496,_tJ1mf_KEL4sx5fh9DTtTw,"""McDonald's""",Heistand,"""4020 Milwaukee St""",Madison,WI,53714,43.098752000000005,-89.314916,2.0,10,1,Fast Food;Restaurants;Burgers
+36521,dyJK_XniS782sIhzWS7z5g,"""Lane's Bakery & Coffee""",Bram's Addition,"""2304 S Park St""",Madison,WI,53713,43.0420146,-89.39391379999999,4.0,33,1,Bakeries;Food;Shopping;Grocery;Restaurants;Coffee & Tea;Flowers & Gifts;Gift Shops;Cafes
+36525,kMn3BMwhyi_kG8pYRGqUtw,"""Taco Bell""",Capitol,"""534 State St""",Madison,WI,53703,43.075128899999996,-89.394324,2.5,6,0,Fast Food;Restaurants
+36702,YHCseOJ93wJh0gBcii_2qA,"""The Knuckle Down Saloon""",,"""2513 Seiferth Rd""",Madison,WI,53716,43.061324299999995,-89.3072147,4.0,16,1,Restaurants;Bars;Arts & Entertainment;American (Traditional);Nightlife;Music Venues;Pubs
+36843,rQl6EuSaEfFLJhMw9lR0xQ,"""Madison Chocolate Company""",Dudgeon-Monroe,"""729 Glenway St""",Madison,WI,53711,43.053080870500004,-89.43532470059999,4.5,19,1,Restaurants;Food;Cafes;Chocolatiers & Shops;Specialty Food
+37084,khHxKm1_x6syS5W2LTX0lw,"""Quiznos""",,"""116 Gammon Rd""",Madison,WI,53719,43.069721273,-89.50248761360001,3.0,3,1,Restaurants;Sandwiches;Fast Food;Delis
+37228,jux9zFaGcIRjrMIBaVJsHQ,"""Burger King""",Bram's Addition,"""719 W Badger Rd""",Madison,WI,53713,43.0381071,-89.39301929999999,3.0,7,1,Restaurants;Food;Fast Food
+37321,jc8yrgtHvcNwdhc5HWGQ4A,"""QDOBA Mexican Eats""",South Campus,"""2 N Park St""",Madison,WI,53715,43.0678629771,-89.40123707059999,3.5,6,1,Restaurants;Fast Food;Caterers;Event Planning & Services;Mexican
+37431,MmilEd3oPSD2n6jvBnxd_Q,"""Pedro's Mexican Restaurante""",,"""499 D'Onofrio Dr""",Madison,WI,53719,43.0578372,-89.5136268,2.5,25,0,Mexican;Restaurants
+37998,K75oPh837az2upKWPS2LUQ,"""Paul's Pel'meni""",Capitol,"""414 W Gilman St""",Madison,WI,53703,43.074503,-89.394115,4.5,350,1,Russian;Food;Restaurants;Asian Fusion
+38396,zRPAUz1Y2pF9GAKyaGdBlw,"""Luang Prabang""",Capitol,"""728 State St""",Madison,WI,53706,43.0755641,-89.3974633,4.5,28,1,Restaurants;Thai;Food Stands
+38558,rnCmWkRXSWNgwC6TYGxp5w,"""Hamilton's On The Square""",Capitol,"""101 N Hamilton St""",Madison,WI,53703,43.0768864,-89.38389740000001,4.0,50,0,American (Traditional);American (New);Restaurants;Tapas/Small Plates
+38592,9ySFD8tMkeuTclyWfanI9w,"""Buck's Pizza""",Spring Harbor,"""5502 University Ave""",Madison,WI,53711,43.0828269,-89.4752687,3.5,22,0,Restaurants;Pizza
+38677,6MkQ454ElyTcMrMLU3qm3g,"""Five Guys""",,"""2253 Zeier Rd""",Madison,WI,53704,43.129087145,-89.3041576026,2.5,5,1,Fast Food;Burgers;Restaurants
+39239,KAhavksKQwKbMzZHiNOyOQ,"""Gino's Restaurant""",Capitol,"""540 State St""",Madison,WI,53703,43.075131,-89.39444499999999,3.5,37,0,Pizza;Italian;Restaurants
+39339,YcRaEZaqXmrBjDYjGIHYvg,"""Jacobson Bros Meats & Deli""",,"""617 N Sherman Ave""",Madison,WI,53704,43.107777899999995,-89.3633256,3.0,4,1,Delis;Restaurants
+39362,3Z4pcWY2xnyZumGmsoXIVA,"""Porter""",Capitol,"""640 W Washington Ave, Ste 101""",Madison,WI,53703,43.0681572245,-89.39490479610001,4.5,35,1,Restaurants;Food;Coffee & Tea;Sandwiches;Breakfast & Brunch
+39365,aP2L6aSpQEIKAS1sx3G8Lw,"""Good Food Low Carb Cafe""",Rolling Meadows,"""4674 Cottage Grove Rd""",Madison,WI,53716,43.085104,-89.300966,4.0,47,1,Wraps;Soup;Restaurants;Breakfast & Brunch;Salad;Food Stands
+39484,JmXYTZcMZpcNINM5ldvEAw,"""Chocolaterian Cafe""",Schenk - Atwood,"""2004 Atwood Ave""",Madison,WI,53704,43.0920578,-89.35512709999999,4.5,117,1,Restaurants;Food;Cafes;Desserts;Coffee & Tea
+39503,dUtSIQouki34zUC2Se-NzA,"""Taco Bell""",Bram's Addition,"""1920 S Park St""",Madison,WI,53713,43.0448,-89.39393299999999,3.5,4,0,Fast Food;Mexican;Tex-Mex;Restaurants
+39619,C3R2BmF0YdyOIEd0jsqILA,"""HomeTown Buffet""",Mayfair Park,"""1745 Parkside Dr""",Madison,WI,53704,43.122528,-89.31478299999999,2.5,23,0,Breakfast & Brunch;Restaurants;American (New);Buffets
+39757,6Z75MVEou08v513A8DUbpw,"""The Side Door Grill and Tap""",Capitol,"""240 W Gilman St""",Madison,WI,53703,43.07546,-89.393063,4.0,92,1,Nightlife;Restaurants;Pubs;American (Traditional);Burgers;Bars
+40064,zY5Y1rYbS_6zrs1s5Ea2SA,"""Rocky Rococo Pan Style Pizza""",,"""66 W Towne Mall""",Madison,WI,53719,43.0572515,-89.5055108,1.5,4,1,Pizza;Restaurants
+40066,DHiXfpd_vSfCCeFXPSucTA,"""4&20 Bakery & Cafe""",Emerson East,"""305 N 4th St""",Madison,WI,53704,43.098233799999996,-89.3570463,4.5,135,0,Food;Coffee & Tea;Bakeries;Restaurants;Breakfast & Brunch
+40094,nQNjtPpAHw0A8FZj1hPajQ,"""Orpheum Theater""",Capitol,"""216 State St""",Madison,WI,53703,43.0748942,-89.3886553,3.5,59,1,Event Planning & Services;Venues & Event Spaces;Music Venues;Arts & Entertainment;Restaurants;Nightlife;Cinema
+40192,aPv_Hk2yh0A-AceqCuTO9A,"""Milio's Sandwiches""",Emerson East,"""2202 E Johnson St""",Madison,WI,53704,43.0983642301,-89.35706161270001,4.0,12,1,Restaurants;Sandwiches
+40318,UNPkYPoR-zPfnpTL6GVgzQ,"""Jimmy John's""",South Campus,"""1 N Randall Ave""",Madison,WI,53715,43.0680526,-89.4087702,3.5,6,1,Sandwiches;Restaurants;Food;Delis;Food Delivery Services
+40834,FTo64sohiSRBRM9e9NzeAQ,"""El Sabor de Puebla""",Williamson - Marquette,"""1133 Williamson St""",Madison,WI,53703,43.0825782,-89.36491840000001,4.0,35,1,Mexican;Restaurants
+40850,o_nzVUVvwBYl3itDdzMddw,"""Bennett's Meadowood Country Club""",Orchard Ridge Community,"""2009 Freeport Rd""",Madison,WI,53711,43.0319789,-89.46042609999999,4.0,23,1,Nightlife;Restaurants;Country Clubs;Sports Bars;Arts & Entertainment;Burgers;Bars;Dive Bars
+40874,QwGV_v3s9eOMzfWrFLUf6A,"""Whole Foods Market""",,"""3313 University Ave""",Madison,WI,53705,43.0747957,-89.44410490000001,3.5,87,1,Organic Stores;Grocery;Delis;Restaurants;Health Markets;Food;Specialty Food
+40911,8PCFk6ZKDm73Ag42C8XtGw,"""Chaat Cafe""",,"""705 South Gammon Rd""",Madison,WI,53719,43.049647799999995,-89.5027501,3.5,15,1,Pakistani;Indian;Halal;Restaurants
+41026,OoI3WUe4Xl86d53avy3oVA,"""A Pig In a Fur Coat""",Williamson - Marquette,"""940 Williamson St""",Madison,WI,53703,43.0805044,-89.3685777,4.5,339,1,Tapas Bars;Mediterranean;Restaurants;American (New);Gastropubs
+41366,4mYNxIZan0vuTqZ9BS7__w,"""Smoothie King""",,"""2980 Cahill Main""",Madison,WI,53711,43.0177969,-89.4233931,3.5,14,1,Health Markets;Restaurants;Specialty Food;Food;Juice Bars & Smoothies
+41802,zINKP9rtvo2IUKTZoYJUvQ,"""Cento""",Capitol,"""122 W Mifflin St""",Madison,WI,53703,43.074337,-89.387364,4.0,237,1,Breakfast & Brunch;Restaurants;Desserts;Food;Italian
+42340,arWSu95pE-EV4bZRTd-lTQ,"""Carnival's""",Bay Creek,"""1017 S Park St""",Madison,WI,53715,43.055991999999996,-89.3976859,3.5,5,0,Restaurants;Ice Cream & Frozen Yogurt;Hot Dogs;Food;Cheesesteaks
+42414,iiEjVLb4JDLE2xl8YGR-Gw,"""Chili King""",Greenbush,"""602 S Park St""",Madison,WI,53715,43.0608156262,-89.4010070761,3.5,28,1,Chinese;Restaurants
+42426,EvT9WywIVoi1p0GaoGteTg,"""The Wing King""",,"""707 S Gammon Rd""",Madison,WI,53719,43.049545,-89.5027583,2.5,6,1,Chicken Wings;Restaurants
+42458,VrE8b5u-ai47W__Diw_mKg,"""Amy's Cafe""",Capitol,"""414 W Gilman St""",Madison,WI,53703,43.0745706,-89.39406170000001,4.0,35,0,Bars;American (Traditional);Restaurants;Nightlife;Lounges
+42656,7oG9TB-SFG9Tpo3QvrYIUQ,"""MadisonTap""",Williamson - Marquette,"""829 E Washington Ave""",Madison,WI,53703,43.0814961,-89.37369620000001,4.5,12,1,Pubs;Breweries;Restaurants;Gastropubs;Bars;Beer Gardens;Food;Beer Bar;Nightlife
+42722,_xcDTH9G4LDqADfpmok6SQ,"""Pizza Hut""",,"""2935 S Fish Hatchery Rd, Ste 1""",Madison,WI,53711,43.0144669,-89.42753859999999,2.0,4,1,Restaurants;Chicken Wings;Italian;Pizza
+42792,s44Pr0mXmAtxiRqz_m9CPA,"""Murphy's Bar and Restaurant""",,"""5344 Hwy 113""",Madison,WI,53704,43.149324,-89.399159,4.0,27,1,Bars;Nightlife;Restaurants;Pubs;American (Traditional)
+43070,E4HlcOykIxIDiJyUKO-eIg,"""Chang Jiang Restaurant""",Westhaven Trails,"""3195 Muir Field Rd""",Madison,WI,53719,43.0159883,-89.5114728,2.5,20,1,Restaurants;Chinese
+43600,V80NaT5ZnfuA31yW3Y5Pdg,"""El Grito Taqueria""",Capitol,"""50 State St""",Madison,WI,53703,43.0747316,-89.3862126,5.0,23,1,Street Vendors;Restaurants;Food Trucks;Food;Mexican
+43620,6tTv835MSguUBDpDtVRvMA,"""Taqueria Sabor Queretano""",Bluff Acres,"""4512 E Washington Ave""",Madison,WI,53704,43.129593,-89.309073,4.0,94,1,Restaurants;Mexican
+43709,P3pgWKV7j_ea-UqIaOnvvg,"""Melly Mell's""",,"""313 W Beltline Hwy""",Madison,WI,53713,43.036897700000004,-89.3882153,4.5,20,0,Delis;Food;Specialty Food;Event Planning & Services;Soul Food;Caterers;Restaurants
+43859,B0KLBjiTkR4gz-fYDYv13A,"""Brothers Three Bar & Grill""",Carpenter-Ridgeway,"""614 N Fair Oaks Ave""",Madison,WI,53714,43.1073114,-89.33093819999999,4.0,56,1,American (Traditional);Bars;Burgers;Breakfast & Brunch;Food;Restaurants;Nightlife;Beer;Wine & Spirits
+43979,EWcCj1D3K1NnEgYD_LjgDQ,"""Cool Beans Coffee Cafe""",,"""1748 Eagan Rd""",Madison,WI,53704,43.1229341,-89.30900679999999,4.5,64,1,Coffee & Tea;Sandwiches;Restaurants;Cafes;Food
+44003,_VG3IAIbXdends4ATxlEiA,"""McDonald's""",Burr Oaks,"""2402 S Park St""",Madison,WI,53713,43.0395114,-89.39466390000001,1.0,6,1,Restaurants;Fast Food;Burgers
+44304,Ev142kLmV_ASI9iAl-KfKA,"""Pizza Pit Extreme""",Dudgeon-Monroe,"""1614 Monroe St""",Madison,WI,53711,43.06713,-89.414179,3.0,30,1,Chicken Wings;Event Planning & Services;Italian;Sandwiches;Pizza;Caterers;Restaurants
+44469,R-9gUTN8BJIDqGgzXEmq3Q,"""Lee's Garden""",,"""7475 Mineral Point Rd""",Madison,WI,53717,43.05862020000001,-89.5122609,3.0,20,0,Asian Fusion;Restaurants;Chinese
+44871,q7O9lH4PaBZj3FTIhRYnkQ,"""Harold's Chicken""",,"""707 S Gammon Rd""",Madison,WI,53719,43.049545,-89.5027583,4.0,30,0,Chicken Wings;Fast Food;Restaurants
+44990,_n7WS5jqFs89WHOINineqg,"""Lakeside Street Coffee House""",Bay Creek,"""402 W Lakeside St""",Madison,WI,53715,43.05628970000001,-89.3890061,4.5,79,1,Restaurants;Bakeries;Food;Coffee & Tea;Sandwiches
+45222,X5valo7w5BVwFn4lZ2P3Sg,"""Casa Bianca""",Junction Ridge,"""515 Junction Rd, Ste F""",Madison,WI,53717,43.0715645,-89.52450259999999,4.5,4,0,Pizza;Restaurants
+45230,NDZAQuVpv_KZuSjKYpXf5Q,"""Campus Inn""",Capitol,"""601 Langdon St""",Madison,WI,53703,43.075514,-89.395657,3.5,17,0,Bars;Bed & Breakfast;Hotels & Travel;Event Planning & Services;Hotels;Restaurants;Cocktail Bars;Nightlife;American (Traditional)
+45244,ubEa6XiMt6gOJ9xsUkbpEw,"""L'Etoile""",Capitol,"""1 S Pinckney St""",Madison,WI,53703,43.0752894562,-89.38236003360001,4.5,223,1,American (New);Restaurants
+45313,ow93ue9XJa0uesCmdnRhEw,"""Badger Tavern""",,"""1612 Seminole Hwy""",Madison,WI,53711,43.0354313,-89.444136,4.0,16,1,American (New);Bars;Restaurants;Nightlife
+45637,MWYJl-bIxhtQ-4Kg3ENUxA,"""Rosati's Pizza""",,"""6644 Mineral Point Rd""",Madison,WI,53705,43.0614686,-89.4964192,3.5,79,1,Italian;Pizza;Restaurants;Event Planning & Services;Caterers
+45957,hNpUT1RRuE6rj-QvnZvVqQ,"""Banzo Shük""",Williamson - Marquette,"""1511 Williamson St""",Madison,WI,53703,43.0874279,-89.35867890000002,4.5,21,0,Mediterranean;Falafel;Restaurants
+46069,jDooRCbkYH74g5Tnw-SwrA,"""New Orleans Take-Out""",Vilas,"""1517 Monroe St""",Madison,WI,53711,43.067353999999995,-89.4130592,4.0,95,1,Restaurants;Cajun/Creole
+46129,O2ZnBnTqw6Xi95ogL0hBEg,"""Pots N Tots""",South Campus,"""""",Madison,WI,53706,43.07305170000001,-89.4012302,4.0,10,1,Food Trucks;Food Stands;Restaurants;Sandwiches;Food
+46204,jE5lfHPvsuNCJijXWaPqTw,"""Madison Club""",Capitol,"""5 E Wilson St""",Madison,WI,53703,43.072474,-89.38073100000001,4.0,19,1,Nightlife;American (New);Bars;Venues & Event Spaces;Restaurants;Event Planning & Services
+46227,nJClfvVwSrr2uuo_y2wO4w,"""The Nile""",,"""6119 Odana Rd""",Madison,WI,53719,43.0530217,-89.48637430000001,3.5,118,1,Restaurants;Mediterranean
+46515,vR5Hppx__U_VXObK8VPLOw,"""Graft""",Capitol,"""18 N Carroll St""",Madison,WI,53703,43.0742022,-89.3862015,4.5,245,1,Nightlife;American (New);Restaurants;Wine Bars;Bars
+46978,8cUCAdu2gFBjdWDKWaetRQ,"""Lake Vista Cafe""",Capitol,"""One John Nolen Dr""",Madison,WI,53703,43.0717445,-89.38040179999999,4.5,15,1,Restaurants;Seafood;American (Traditional)
+47048,ZjMNad9hCvBJficJA0bFRQ,"""Gumby's Pizza""",,"""2825 University Ave""",Madison,WI,53705,43.07428970000001,-89.4374308,3.5,19,0,Pizza;Restaurants
+47240,mtjvQctnZEB-c__x5LXCvA,"""Glaze Teriyaki""",Capitol,"""563 State St""",Madison,WI,53703,43.0748641,-89.3954296,3.5,27,1,Restaurants;Asian Fusion;Fast Food;Japanese
+47260,kjV76iCWwQedixbRIvC9gQ,"""Subway""",Emerson East,"""1862 E Washington Ave""",Madison,WI,53704,43.0917679,-89.36019559999998,3.5,3,1,Sandwiches;Restaurants;Fast Food
+47371,eRGTss9r2Et8s_1UiPBKOg,"""SCONNIEBAR""",Vilas,"""1421 Regent St""",Madison,WI,53719,43.067681956,-89.41018725110001,4.0,14,1,Restaurants;Sports Bars;American (New);Bars;Burgers;Nightlife;Chicken Wings
+47896,NrpgcAPTAtMNoW4O_G0rwQ,"""S2pizzabar""",Capitol,"""558 State St""",Madison,WI,53703,43.075140999999995,-89.394958,4.0,15,0,American (New);Salad;Restaurants;Pizza
+48284,lzD08INl2DDUcDGHXsMkmA,"""Cafe Assisi""",Capitol,"""254 W. Gilman Street, Second Floor""",Madison,WI,53703,43.0751696,-89.3935408,4.5,5,0,Coffee & Tea;Restaurants;Food
+48289,cjKl-UhaBcqAMN-fPAlA_w,"""Green Life Cafe""",Dudgeon-Monroe,"""1934 Monroe St""",Madison,WI,53711,43.063973299999994,-89.4189097,4.0,6,0,Juice Bars & Smoothies;Restaurants;Food;Cafes
+48314,aRIZPbrHwnM04TTXLYrFMg,"""Eno Vino Wine Bar & Bistro""",Junction Ridge,"""601 Junction Rd""",Madison,WI,53717,43.073189,-89.525189,4.0,250,1,Bars;American (New);Nightlife;Restaurants;Wine Bars;Tapas/Small Plates
+48455,CFnO6hcjUAT7RoUdbGsEPQ,"""Brat und Brau""",Sherman,"""2933 N Sherman Ave""",Madison,WI,53704,43.1279566983,-89.3612542889,3.5,14,0,Burgers;Restaurants;Sandwiches;American (Traditional)
+48643,l40bwGID1swnFoX-PvmTEw,"""My Buddies""",Mayfair Park,"""4235 Lien Rd""",Madison,WI,53714,43.1206789,-89.3096139,3.0,9,0,Nightlife;Restaurants;American (Traditional);Sports Bars;Bars
+48903,mzq_UgBRWsxTjb7oBNajWA,"""Great Dane Pub & Brewing""",,"""357 Price Pl""",Madison,WI,53705,43.0711419,-89.4523269,3.5,182,1,American (New);Nightlife;Bars;American (Traditional);Restaurants;Breweries;Food
+48930,tZOMMBJEzkJo6okIwG1Pmw,"""Mad Town Gastropub""",,"""4000 International Ln""",Madison,WI,53704,43.1360768762,-89.3457995141,2.0,33,1,Restaurants;Gastropubs
+49072,MSrcYJoM9cNLS9-wfTZX3w,"""Highland Corner Grill""",Regent,"""2424 University Ave""",Madison,WI,53726,43.072493,-89.42778,3.5,5,1,Restaurants;American (Traditional);Food;Pizza;Burgers;American (New);Beer;Wine & Spirits
+49105,lw_vRdg4qUprQEgWDG6czQ,"""Hooters""",,"""2639 East Springs Dr""",Madison,WI,53704,43.132076500000004,-89.3015005,3.0,29,1,Chicken Wings;Bars;Restaurants;American (Traditional);Nightlife;Sports Bars
+49106,Ib2-QQytp9eqwaOgY_zeYw,"""New Orleans Take-Out""",,"""1920 Fordem Ave""",Madison,WI,53704,43.0984345318,-89.36446666719999,4.0,57,0,Restaurants;Sandwiches;Seafood;Cajun/Creole
+49183,z9lOfnUorcbWR_xS0DSeHw,"""Fugu""",Capitol,"""411 W Gilman St""",Madison,WI,53703,43.074411100000006,-89.3936466,3.5,156,0,Dim Sum;Restaurants;Thai;Asian Fusion;Chinese;Seafood;Soup
+49754,yLrCSSrSnpxB-0ZEPt19jA,"""Pizza Di Roma""",Capitol,"""313 State St""",Madison,WI,53703,43.0747746539,-89.390860818,3.5,94,1,Restaurants;Seafood;Italian;Pizza;Soup
+49764,cPfnF9PAvVjamEdZM3wTzA,"""QQ Asian Buffet""",,"""1291 N Sherman Ave""",Madison,WI,53704,43.1137364,-89.3637805,2.0,11,0,Chinese;Restaurants
+49819,3wW0ls1tLyYabs2lwEndzA,"""Mercury Cafe""",Capitol,"""117 E Mifflin St""",Madison,WI,53703,43.076622,-89.383313,2.5,5,0,Greek;Restaurants;Dive Bars;Bars;Nightlife
+49820,wbia2cGn5pUSCZGLYTu0kw,"""Portage Pi Cafe & Juice Bar""",Capitol,"""601 Langdon St""",Madison,WI,53703,43.075514,-89.395657,4.0,10,1,Coffee & Tea;Cafes;Juice Bars & Smoothies;Food;Restaurants
+49838,YgBQEX8dB27FdYj7PaPhPw,"""Gates & Brovi""",Dudgeon-Monroe,"""3502 Monroe St""",Madison,WI,53711,43.052915999999996,-89.435789,3.5,159,1,Sports Bars;Breakfast & Brunch;American (New);Restaurants;Nightlife;Sandwiches;Bars
+49850,K3790-2nF-iHvfPMnthLaQ,"""Coreana""",,"""1401 University Ave""",Madison,WI,53715,43.073137599999995,-89.4092065,3.5,5,0,Korean;Restaurants;Japanese
+49889,OnKyFU0FsiPVd8Jwl6st6g,"""Fromagination""",Capitol,"""12 S Carroll St""",Madison,WI,53703,43.0734313842,-89.38494230270001,4.0,176,1,Tasting Classes;Food;Restaurants;Cheese Tasting Classes;Cheese Shops;Education;Specialty Food;Sandwiches
+49980,r4RCtOZxp0nXpuoN_Usd1w,"""India Darbar""",,"""6119 Odana Rd""",Madison,WI,53774,43.0529395,-89.48618459999999,4.5,6,0,Restaurants;Indian;Pakistani
+50229,tt96sjIQIKgtGEvRHhLfBg,"""Burger King""",,"""6909 Odana Rd""",Madison,WI,53719,43.0562518,-89.50108399999999,2.0,11,1,Burgers;Fast Food;Restaurants
+50544,p4h2-y4muYzTr94pBT4mZg,"""Taco Bell""",Norman Acres,"""4120 E Washington Ave""",Madison,WI,53704,43.124969,-89.313502,3.0,4,1,Mexican;Tex-Mex;Fast Food;Restaurants
+50636,NiNRA6t16CtUQKopLV1GBQ,"""Lolas Cafe""",Junction Ridge,"""610 Junction Rd, Ste 113""",Madison,WI,53717,43.0735658896,-89.52679349809999,3.0,19,1,Breakfast & Brunch;American (Traditional);Restaurants;American (New)
+50648,AQpa7zmLctO7b9mdFU-_Og,"""Tap Room At Hawks Landing""",Hawk's Landing,"""88 Hawks Landing Cir""",Madison,WI,53593,43.034036433999994,-89.5441021312,4.0,14,0,Bars;Restaurants;Pubs;Nightlife;American (New)
+50758,K6YZd1zjr700Wb5-Ng3Dmg,"""TnT's Coffee & Cafe""",Wexford,"""729 N High Point Rd""",Madison,WI,53717,43.0757768,-89.51867170000001,3.5,51,1,Breakfast & Brunch;Food;Bakeries;Restaurants;Coffee & Tea;Cafes
+50800,KBWpa4uN2ke1t2cp27r9tw,"""Zen Sushi""",Capitol,"""700 State St""",Madison,WI,53706,43.0749089,-89.3973684,5.0,6,1,Restaurants;Japanese;Sushi Bars;Street Vendors;Food
+51257,jqNfrXF4e1JjxU3WNj73SA,"""TCBY""",,"""6654 Odana Rd""",Madison,WI,53719,43.056323299999995,-89.4946584,4.5,7,0,Ice Cream & Frozen Yogurt;Food;Fast Food;Restaurants
+51264,rIgbi8lCr85UIKSQDVetZw,"""Bourbon Street Grille""",,"""6308 Metropolitan Ln""",Madison,WI,53713,43.049027200000005,-89.3370562,2.5,41,0,Sandwiches;American (Traditional);Restaurants;Cajun/Creole
+51693,EOlHhLgp32dCdSlsMpiG6A,"""Five Guys""",Capitol,"""517 State St""",Madison,WI,53703,43.0746782,-89.3943516,3.5,63,1,Burgers;Restaurants;Fast Food
+51834,SPFu6EgRI8PwVuoHEzCgdw,"""Faouzi's Restaurant""",Allied Dunn's Marsh,"""4245 W Beltline Hwy""",Madison,WI,53711,43.034524700000006,-89.44551899999999,4.0,5,0,Moroccan;Restaurants
+52090,xkdgCrkgfbI80Htst6-Lbw,"""Laredo's""",,"""694 S Whitney Way""",Madison,WI,53711,43.050422634499995,-89.4747456908,3.5,81,1,Mexican;Tex-Mex;Restaurants
+52127,w5eLKjDBu8N_tHtXKe4j-g,"""Ingrid's Lunch Box""",Capitol,"""State St""",Madison,WI,53703,43.074790500000006,-89.3908156,4.5,8,0,Restaurants;Food Stands
+52485,wOZUfs_p_AO1zXGkBcX2Bg,"""KFC""",Eastmorland,"""604 Cottage Grove Road""",Madison,WI,53716,43.083999999999996,-89.3162,1.5,11,1,Restaurants;Chicken Wings;Fast Food
+52490,caMVCmuEG4rIV8HtTdU9jA,"""The Flying Hound Alehouse""",,"""6317 McKee Rd""",Madison,WI,53719,43.015392887,-89.48246731200001,3.5,118,1,Restaurants;Pubs;Pretzels;Bars;Chicken Wings;Nightlife;Food;Gastropubs
+52547,VMPSdoBgJuyS9t_x_caTig,"""Lao Laan-Xang Restaurant""",Williamson - Marquette,"""1146 Williamson St""",Madison,WI,53703,43.083166,-89.364985,4.5,255,1,Laotian;Restaurants;Thai
+52902,fdX_eu-dCaKsDaK_itNIzQ,"""Tutto Pasta State Street""",Capitol,"""305 State St""",Madison,WI,53703,43.0747684,-89.3904622,3.0,155,1,Italian;Restaurants
+52969,NXTsT01IVpKYPpa_1L-Rlw,"""Applebee's Neighborhood Grill & Bar""",,"""660 S Whitney Way""",Madison,WI,53711,43.052318299999996,-89.47430809999999,2.0,31,1,Steakhouses;Sports Bars;Bars;American (New);Nightlife;Restaurants;American (Traditional);Burgers
+53112,wt6SJHPEknFUWjn67_wKoQ,"""El Poblano Mexican Restaurant""",Eastmorland,"""3737 Milwaukee St""",Madison,WI,53714,43.097994,-89.320026,4.5,73,1,Mexican;Restaurants
+53310,eab04KSBbf30FqB4cH8erQ,"""Umami Ramen & Dumpling Bar""",Williamson - Marquette,"""923 Williamson St""",Madison,WI,53703,43.079822,-89.36867099999999,3.5,324,1,Japanese;Taiwanese;Chinese;Asian Fusion;Restaurants
+53545,NMXig2HCB_sa0E1OCZj-KA,"""Elie's Family Restaurant and Banquet""",Lake Edge,"""4102 Monona Dr""",Madison,WI,53716,43.079131,-89.323261,3.5,16,1,Restaurants;American (Traditional)
+53573,-73xAVllMh_O2nEAcGtbvQ,"""Hardee's""",,"""4814 Annamark Dr""",Madison,WI,53704,43.132307,-89.300914,3.0,7,1,American (New);Restaurants
+54107,LZGqCuTxaCbzgjv3N4xnWg,"""Sushi & Hibachi Japanese""",,"""5401 Caddis Bend""",Madison,WI,53711,43.01918320000001,-89.4200875,3.5,5,0,Japanese;Restaurants;Food
+54440,j1i7s55PmOFzJC3l6O8PiA,"""Hong Kong Station""",Vilas,"""1441 Regent St""",Madison,WI,53711,43.067569,-89.41072700000001,3.5,41,1,Restaurants;Chinese;Cantonese
+54458,kWItkhjHRuzfC11CP1E0ZQ,"""Lalo's Mexican Restaurant""",Spring Harbor,"""5510 University Ave""",Madison,WI,53705,43.0830876,-89.47549620000001,4.0,36,1,Mexican;Restaurants
+54509,jte_XM9Zo7TX86jlKwq5gg,"""Haldi Masala""",,"""7475 Mineral Point Rd""",Madison,WI,53717,43.059277,-89.512156,4.5,52,1,Indian;Restaurants
+54518,tSzIHI6ioblP1WEQAQNbhw,"""Wasabi Japanese Restaurant & Sushi Bar""",Capitol,"""449 State St""",Madison,WI,53703,43.0745126,-89.3933663,3.5,83,1,Sushi Bars;Japanese;Seafood;Restaurants
+54533,9urG14qwHtGRpQQUYY2y9A,"""Original Pancake House""",Spring Harbor,"""5518 University Ave""",Madison,WI,53705,43.08336920000001,-89.4759564,4.0,147,1,Breakfast & Brunch;Bakeries;Food;Restaurants
+54620,3aEASdWGHArGCQH-7don3A,"""Monona Bakery & Eatery""",Lake Edge,"""4544 Monona Dr""",Madison,WI,53716,43.07051,-89.3254733,4.5,23,1,Desserts;Restaurants;Bakeries;Breakfast & Brunch;Food
+54923,Woqed5Fw95J6oEZxIHiBgg,"""Morris Ramen""",Capitol,"""106 King St""",Madison,WI,53703,43.07475430979999,-89.3813350797,4.5,114,1,Japanese;Restaurants;Ramen
+54928,9w18Hgg_UmI18YyVTP_E3Q,"""Fuzzy's Taco Shop""",Sunset Village,"""3519 University Ave""",Madison,WI,53719,43.0751082,-89.4476881,3.5,68,0,Restaurants;Mexican
+54984,Hc7tSaIHva8WLyBlPDsEjg,"""Get Some Burritos""",Capitol,"""309 N  Henry St""",Madison,WI,53703,43.075185999999995,-89.390129,2.5,21,0,Fast Food;Comfort Food;Food Stands;Mexican;Restaurants
+55024,ewEDv_q-K0fV0FepkHB8sA,"""Tornado Steak House""",Capitol,"""116 S Hamilton St""",Madison,WI,53703,43.07243,-89.38434000000001,4.0,416,1,Steakhouses;Restaurants;Seafood;Bars;Italian;Burgers;Nightlife
+55550,UzSXgaJjOrtdWATtzgPWqQ,"""Wong's Garden""",Schenk - Atwood,"""2044 Atwood Ave""",Madison,WI,53704,43.0925288,-89.3538449,3.5,17,0,Restaurants;Chinese
+55600,M8jR5XMgr2jWrs_EYtaAeQ,"""The Original Vientiane Palace""",Vilas,"""1441 Regent St""",Madison,WI,53711,43.06769439999999,-89.4107334,4.0,13,0,Restaurants;Thai
+55992,3uwz62lHoUqKXDDbwErRfQ,"""Copper Top Restaurant""",,"""5401 W Beltline Hwy""",Madison,WI,53711,43.0454124232,-89.47394002040001,3.0,22,1,Restaurants;Breakfast & Brunch;Diners;American (New);American (Traditional)
+56037,ih3ddtApyqb6W3T1mkdrag,"""Panera Bread""",,"""3416 University Ave""",Madison,WI,53705,43.075946,-89.446009,3.0,22,1,Sandwiches;Food;Restaurants;Bagels;Soup;Breakfast & Brunch;Salad
+56088,BuS11AF9XSHEShscxQEzeg,"""Marigold Kitchen""",Capitol,"""118 S Pinckney St""",Madison,WI,53703,43.0741182,-89.3815111,4.0,503,1,Breakfast & Brunch;Restaurants
+56276,lbFkq0Ac2nXeeWBCJ0jZRA,"""Dickey's Barbecue Pit""",,"""4833 Annamark Dr, Ste 200""",Madison,WI,53704,43.133103000000006,-89.299181,4.0,50,1,Restaurants;Barbeque
+56317,58c9tCvjkDRONJq8h6NLzg,"""Mexico Lindo""",,"""2001 Zeier Rd""",Madison,WI,53704,43.125728,-89.299717,4.5,13,0,Mexican;Restaurants
+56377,Amo5UhXRFce_fegUnFEnMA,"""Laurel Tavern""",Dudgeon-Monroe,"""2505 Monroe St""",Madison,WI,53711,43.0578984,-89.42730829999999,3.0,41,1,Restaurants;American (Traditional);Burgers;Sports Bars;Nightlife;Bars
+57213,nfxPOAs7FxnLZHKBpP6S5A,"""Madtown Burger Company""",Williamson - Marquette,"""607 E Washington Ave""",Madison,WI,53703,43.078669899999994,-89.3783321,2.0,4,0,Burgers;Restaurants
+57343,apDt7MWwZVmh_R1t_WVBzw,"""L & J Deli Store""",Capitol,"""447 West Gilman St""",Madison,WI,53703,43.0736131,-89.3947782,5.0,3,1,Delis;Latin American;Restaurants;Sandwiches
+57525,NiBzh0kHusvH5rdnpm7yVw,"""Bandung Indonesian Restaurant""",Williamson - Marquette,"""600 Williamson St, Ste M""",Madison,WI,53703,43.076603999999996,-89.3745656,4.0,193,1,Asian Fusion;Thai;Restaurants;Seafood;Indonesian
+57724,xOx-N9G7AteZTnZfVFfNHA,"""Christy's Landing""",,"""2952 Waubesa Ave""",Madison,WI,53711,43.006192766400005,-89.3347907211,2.5,23,1,Bars;Nightlife;Restaurants;American (Traditional);Fish & Chips
+57868,NYf9TKBKPpa1wkA_uwIlfg,"""The Weary Traveler Freehouse""",Willy St,"""1201 Williamson St""",Madison,WI,53703,43.0832527245,-89.3643164635,4.0,443,1,Burgers;American (New);Bars;Restaurants;Nightlife
+58057,6_YR7epdhDWU_E5Hj4nZrA,"""Taco Heaven""",Capitol,"""320 W Johnson St""",Madison,WI,53703,43.073953700000004,-89.3911446,2.5,6,0,Restaurants;Mexican
+58227,ecM2lSLuZhxZKQdGZWMOFg,"""New Seoul Korean""",Regent,"""2503 University Ave""",Madison,WI,53705,43.0720834,-89.42886800000001,3.5,55,0,Korean;Restaurants
+58233,yvqMh9kTv3Kx-tocc0DFBQ,"""Johnson Public House""",Tenney - Lapham,"""908 E Johnson St""",Madison,WI,53703,43.084781,-89.37620799999999,4.0,141,1,Bars;Food;Pubs;Coffee & Tea;Breakfast & Brunch;Nightlife;Restaurants
+58253,naPGOTVEpRZavvn9-sFg8A,"""Madison Sourdough""",Williamson - Marquette,"""916 Williamson St""",Madison,WI,53703,43.080058,-89.369407,4.0,209,1,Food;Bakeries;Local Flavor;Restaurants;Breakfast & Brunch
+58286,2-LcaW9vRqBLKe-5Y6ljVA,"""The Pier""",Capitol,"""The Edgewater, 666 Wisconsin Ave""",Madison,WI,53703,43.0792775,-89.38982879999999,3.0,3,0,Restaurants;Sandwiches;Nightlife;Bars
+58287,Dy99p5bWfr6g0UtlmPjDqg,"""Estrellón""",Capitol,"""313 W Johnson St""",Madison,WI,53703,43.074380580799996,-89.3903519958,4.0,126,1,Basque;Tapas Bars;Cafes;Spanish;Restaurants
+58301,cMybOpJd352Cb6y9SeVhPw,"""Harvest""",Capitol,"""21 N Pinckney St""",Madison,WI,53703,43.0760472,-89.38380529999999,3.5,200,1,Nightlife;Restaurants;Bars;American (New)
+58907,9h-dDy31vMwnlBoX3A7SSQ,"""Legends Sports Bar & Grill""",,"""439 Grand Canyon Dr""",Madison,WI,53719,43.058414,-89.495487,3.0,20,0,Nightlife;American (Traditional);Restaurants;Sports Bars;Bars
+59082,bCosDkhWzMJupoRV2be-VA,"""South Bay Lounge""",Waunona,"""5404 Raywood Rd""",Madison,WI,53713,43.046873299999994,-89.3547473,3.5,7,0,Restaurants;Bars;Nightlife;American (Traditional);Lounges
+59309,Tiy_skxHMvNCpyzAIqv6qA,"""Old Chicago""",,"""7202 Mineral Point Rd""",Madison,WI,53717,43.0607561,-89.50679190000001,3.0,31,0,Pizza;Restaurants
+59593,Jrwc8lczFNNXOMolie1amg,"""Highland Espresso Bar""",Capitol,"""45 S Bassett St""",Madison,WI,53703,43.069519899999996,-89.38961379999999,4.5,10,1,Food;Cafes;Sandwiches;Coffee & Tea;Restaurants;Breakfast & Brunch
+59836,XmsBtCykUtObXg4Q1mYpvg,"""Graze""",Capitol,"""1 S Pinckney St""",Madison,WI,53703,43.075094045,-89.3820914577,4.0,898,1,Restaurants;American (New);Gastropubs
+59854,-IoO4qZCdIQNgj2vCt9hqA,"""Chasers Bar & Grille""",Capitol,"""319 W Gorham St""",Madison,WI,53703,43.0741778,-89.3919536,3.5,37,1,Restaurants;Sandwiches;Bars;American (New);Burgers;Nightlife
+59991,xVpE01l6ZXdEtVf5PkRpDg,"""Julep""",Williamson - Marquette,"""829 E Washington Ave""",Madison,WI,53703,43.0810216648,-89.37400635450001,4.0,94,0,Southern;Nightlife;Restaurants;Diners;Bars
+60108,izzrCdvwa1TT8rBsE7Ch7w,"""Szechuan""",,"""3306 University Ave""",Madison,WI,53705,43.0752904,-89.4443184,3.0,5,0,Restaurants;Chinese
+60169,aQYLi9BmN0KcLmK4OB_-SA,"""Vientiane Restaurant""",Greenbush,"""626 S Park St""",Madison,WI,53715,43.06037020000001,-89.40100140000001,2.5,6,0,Thai;Restaurants
+60178,I2BCOAwqJJIfUX-NzPbNjw,"""Calasan""",Wexford,"""745 N High Point Rd""",Madison,WI,53717,43.076105,-89.5186896,3.0,8,0,Restaurants;Indonesian
+60217,JtJnFY3tThBoxpDMxLFLow,"""Le Petit Croissant""",Summit Woods,"""1310 S Midvale Blvd""",Madison,WI,53711,43.0383601531,-89.4519029194,4.0,41,1,Bakeries;Cafes;Food;Restaurants;Sandwiches;Coffee & Tea
+60253,i60v66vwf1A13YqcIqGD_A,"""Monty's Blue Plate Diner""",Schenk - Atwood,"""2089 Atwood Ave""",Madison,WI,53704,43.092420000000004,-89.3518969,4.0,454,1,Restaurants;American (Traditional);Diners
+60385,rck304cyCwAxQbUAOuuMwg,"""Chili's""",,"""4344 E Towne Blvd""",Madison,WI,53704,43.1266792,-89.3087635,3.0,26,1,American (Traditional);Nightlife;Bars;American (New);Restaurants;Tex-Mex
+60571,aiI4CxuCeIj_BnGaJyU1dg,"""The Blue Marlin""",Capitol,"""101 N Hamilton St""",Madison,WI,53703,43.0768864,-89.38389740000001,3.5,47,0,Seafood;Restaurants
+60802,Sh_c-UZ8Tk_H1porVieNmA,"""Canteen""",Capitol,"""111 S Hamilton St""",Madison,WI,53703,43.072664,-89.3840056,4.0,91,1,Tacos;Bars;Nightlife;Restaurants;Mexican;Cocktail Bars
+60971,u84eyOBILlFQIc8fMFCoig,"""Jason's Deli""",,"""7349 Mineral Point Rd""",Madison,WI,53717,43.060136668599995,-89.50886789270001,3.5,36,1,Sandwiches;Delis;Vegetarian;Salad;Restaurants
+61437,px2hJjx46o5OoTud_AdUHw,"""Copps Food Center""",,"""620 S Whitney Way""",Madison,WI,53711,43.052538500000004,-89.47594029999999,3.0,10,0,Grocery;Specialty Food;Delis;Meat Shops;Restaurants;Beer;Wine & Spirits;Food;Health Markets
+61466,1a3Pkkwb7yB_vmxgKwmqXw,"""Fresco""",Capitol,"""227 State St""",Madison,WI,53703,43.074312400000004,-89.3889671,4.0,172,1,American (New);Restaurants
+61608,aLZTOa5e2ON9mmDQcw6GtQ,"""Pancheros Mexican Grill""",,"""402 S Gammon Rd""",Madison,WI,53719,43.06017473439999,-89.5034033688,2.5,19,1,Mexican;Restaurants
+61895,JexI9opGP2n_Xv6IKnN0Bg,"""Domino's Pizza""",Capitol,"""409 W Gorham St""",Madison,WI,53703,43.07357460000001,-89.3929228,2.5,17,1,Chicken Wings;Sandwiches;Restaurants;Pizza
+62000,jaoFwU5mqxtw2JpZrM73Yg,"""Osaka House""",Capitol,"""505 State St""",Madison,WI,53703,43.0746726,-89.39396509999999,2.5,34,1,Japanese;Restaurants
+62071,6NWSeAEufOHDklHbg4PAww,"""Hail Mary Sports Grill""",Capitol,"""401 E Washington Ave""",Madison,WI,53703,43.07732,-89.3799,3.5,19,1,Bars;Chicken Wings;Nightlife;Italian;Restaurants;Sports Bars;American (New)
+62130,tr7wv-dDSQBdMzEqEJILQA,"""Cuco's Mexican Fusion""",Capitol,"""225 King St""",Madison,WI,53703,43.0744019,-89.379518,3.5,7,0,Cocktail Bars;Bars;Mexican;Restaurants;Nightlife;Sushi Bars
+62345,9BohUwW-fTfcpiBT782Fkg,"""Which Wich""",Capitol,"""411 State St""",Madison,WI,53703,43.074611,-89.3923329,4.0,21,1,Sandwiches;Restaurants
+62451,_j0xNyOAtLI7iRF4GStBgA,"""Metcalfe's Market""",,"""7455 Mineral Point Rd""",Madison,WI,53717,43.0580291683,-89.5112173356,4.0,30,1,Beer;Wine & Spirits;Grocery;Restaurants;Cafes;Food
+62646,DCab_cz7nDDW-IPsnKGb_A,"""Double 10""",,"""3306 University Ave""",Madison,WI,53705,43.0756343,-89.44463509999999,4.0,67,0,Restaurants;Chinese;Food Delivery Services;Food
+62831,4y8KM5Hq0HOm6M0w7O-m4g,"""Madison Food Explorers""",Capitol,"""2406 Upham St""",Madison,WI,53704,43.0716921184,-89.3809596058,5.0,13,1,Local Flavor;Bakeries;Food;Restaurants;Party & Event Planning;Event Planning & Services;Tours;Hotels & Travel;American (Traditional)
+62994,GEL7svZLFqx9NWq3aOtz_Q,"""Pita Pit""",Capitol,"""449 State Street B/L3""",Madison,WI,53703,43.0745126,-89.3933663,3.5,30,1,American (New);Mediterranean;Restaurants;Fast Food;Sandwiches
+63048,H8NK_pWGq4i3L92ZpaUaGg,"""Cancun""",,"""704 S Whitney Way""",Madison,WI,53711,43.049547100000005,-89.47407709999999,3.0,18,0,Mexican;Restaurants
+63161,oSrTdvRGrJ24ofcquIFoPA,"""Takumi Japanese Restaurant""",,"""4222 E Towne Blvd""",Madison,WI,53704,43.12485637100001,-89.3101472672,4.0,217,1,Japanese;Restaurants;Sushi Bars
+63386,nnGqETrosXjIcqP4CFUK8A,"""Sundown Saloon""",Rolling Meadows,"""57 S Stoughton Rd""",Madison,WI,53714,43.0970739,-89.3147771,2.5,7,1,Bars;Nightlife;Hair Salons;American (Traditional);Beer Bar;Restaurants;Beauty & Spas
+63475,4r9BwC-nkDRMXEIy_bqNbg,"""Dobhan's Kitchen""",Schenk - Atwood,"""2110 Atwood Ave""",Madison,WI,53704,43.0929786,-89.3516285,4.0,73,1,Breakfast & Brunch;Restaurants;Himalayan/Nepalese;Asian Fusion
+63595,-D9NFU_SZpp5J7VCSsPp1Q,"""Mirch Masala""",Capitol,"""449 State St""",Madison,WI,53703,43.074475,-89.393396,4.0,49,1,Indian;Himalayan/Nepalese;Restaurants
+63670,RGLC87HVaASIYLxh2RL4hg,"""OM Indian Fusion Cuisine""",Hawthorne,"""3579 E Washington Ave""",Madison,WI,53704,43.1154886,-89.3249625,4.0,100,1,Asian Fusion;Indian;Vegetarian;Restaurants
+63706,BXQKPvzAFDOOXDQzxIU6RA,"""Fat Sandwich Company""",Capitol,"""555 State St""",Madison,WI,53703,43.0748766,-89.3953986,2.0,14,0,Sandwiches;Restaurants
+63880,bLh4ysq5RsbzCNSjqHhwyw,"""Hong Kong Cafe""",Greenbush,"""2 S Mills St""",Madison,WI,53715,43.06755379999999,-89.404317,3.0,62,1,Restaurants;Chinese
+64140,GnSZknS80ioXMziHGy4QFA,"""Surco Peruvian Food""",Lake Edge,"""Library Mall Food Cart""",Madison,WI,53706,43.083644,-89.317713,4.5,21,1,Peruvian;Food Trucks;Restaurants;Food
+64675,xtDZdPaHwhAwoo77QV9Oeg,"""Fleming's Prime Steakhouse & Wine Bar""",,"""750 N Midvale Blvd""",Madison,WI,53705,43.0746502,-89.4516163,3.5,112,1,Seafood;Wine Bars;Nightlife;Steakhouses;Restaurants;Bars
+64902,-pV9kWNoA9vyHfM_auYecA,"""The Cooper's Tavern""",Capitol,"""20 W Mifflin St""",Madison,WI,53703,43.075216,-89.386276,3.5,362,1,Bars;Nightlife;Restaurants;American (New);Pubs
+64923,dTtMrvC0UoDV-3-8diJYLw,"""Roman Candle Pizzeria""",Williamson - Marquette,"""1054 Williamson St""",Madison,WI,53703,43.082053,-89.36642990000001,3.5,114,1,Pizza;Restaurants
+65130,IRfYEXJBQXxIN2d5pD_jKg,"""Doolittles Woodfire Grill""",,"""4323 E Towne Blvd""",Madison,WI,53704,43.1259959104,-89.30790485819999,3.5,143,1,Nightlife;Wine Bars;Bars;American (Traditional);Restaurants
+65451,3GKCKWw4O6JmM4HejYEQcg,"""Largartos""",,"""802 Atlas Ave""",Madison,WI,53714,43.084874,-89.309364,3.0,3,0,Mexican;Restaurants
+65535,dcfh1BEj4EXKqA16zi0TiA,"""McDonald's""",Starkweather - Yahar,"""2733 E Washington Ave""",Madison,WI,53704,43.102110700000004,-89.34667009999998,1.0,3,1,Burgers;Restaurants;American (New);Fast Food
+65801,vn5f16PcHU-feucWgK7r1g,"""Edo Japanese Restaurant""",Greenbush,"""532 S Park St""",Madison,WI,53715,43.061162100000004,-89.4011106,3.0,93,1,Restaurants;Japanese
+65835,1PUPTbQRums97s6yfTnA5A,"""Pooley's""",High Crossing,"""5441 High Crossing Blvd""",Madison,WI,53718,43.1415824,-89.2849424,3.0,46,1,Event Planning & Services;Bars;Venues & Event Spaces;American (Traditional);Restaurants;Nightlife;Sports Bars
+65925,imBVeP4aA-aLTdPD-t8_WQ,"""China Wok""",,"""1724 Fordem Ave""",Madison,WI,53704,43.0945835,-89.3641631,3.0,30,1,Chinese;Restaurants
+66012,cgoS2M0ghmdAQM1fvf-I9Q,"""Steenbock's On Orchard""",South Campus,"""330 N Orchard St""",Madison,WI,53715,43.0729696,-89.4080713,3.5,48,1,Nightlife;Restaurants;American (New);Bars;Lounges
+67055,npqc1DO90A5TzavGmYyGhA,"""OSS""",South Campus,"""910 Regent St""",Madison,WI,53715,43.067680100000004,-89.4015806,4.5,185,0,Restaurants;Hot Dogs;Beer Gardens;American (New);Bars;Nightlife;Beer Bar;Comfort Food
+67094,nM2Jl9GS7IGlluey8ieivg,"""Noodles & Company""",,"""4280 E Towne Blvd""",Madison,WI,53704,43.1254079487,-89.3096987728,3.0,39,1,Fast Food;Restaurants;Noodles;Thai;Asian Fusion;Food;Italian;Salad;Comfort Food
+67514,SBnpT6JDbah-5l_52GM5sw,"""Sardine""",Williamson - Marquette,"""617 Williamson St""",Madison,WI,53703,43.075861969099996,-89.3746270099,4.0,380,1,Wine Bars;Nightlife;Breakfast & Brunch;Bars;Restaurants;American (New);French
+67533,W_9ophRRWO924hn1S-y2Hg,"""Minerva Indian Cuisine""",Junction Ridge,"""515 Junction Rd""",Madison,WI,53717,43.0714329016,-89.52448027540001,4.0,66,0,Restaurants;Indian
+67663,LG6vpg5Qx_DstY2aT8-O4Q,"""Asian Kitchen""",Capitol,"""449 State St""",Madison,WI,53703,43.0745126,-89.3933663,3.0,74,1,Chinese;Restaurants
+67800,mJAhCy5XbkaeQqMN05h4Yg,"""Cupcakes-A-Go-Go Cafe""",,"""6642 Mineral Point Rd""",Madison,WI,53705,43.060838000000004,-89.4966755,4.0,66,0,Restaurants;Desserts;Food;Cupcakes;Bakeries;Cafes
+67874,CRD6zKJSRbkiwTPYMIaavA,"""Africana Restaurant and Lounge""",Schenk - Atwood,"""2701 Atwood Ave""",Madison,WI,53704,43.093770500000005,-89.3452006,2.5,10,0,Restaurants;African
+68094,TQSgOs4gahJ9g8Y_-whMsQ,"""Ogden's North Street Diner""",Emerson East,"""560 North St""",Madison,WI,53704,43.106654,-89.351617,4.5,32,1,Breakfast & Brunch;Restaurants;Diners
+68295,162qe4ekI6ylZg_EYp3MPQ,"""Mad City Diner""",Heistand,"""4008 Milwaukee St""",Madison,WI,53714,43.098801,-89.315714,1.5,7,0,Diners;Restaurants
+68376,ToHFgQaDd_wJ6tAvVJHgoQ,"""The Dardanelles""",Vilas,"""1851 Monroe St""",Madison,WI,53711,43.064708,-89.416916,3.0,9,0,Restaurants;Mediterranean
+68420,di6TE2800MRMLomLFsmfrg,"""Burgers + Ethnic Food + BBQ""",,"""126 W Towne Mall""",Madison,WI,53719,43.0586334579,-89.5049548626,4.0,9,0,Restaurants;Ethnic Food;Specialty Food;Imported Food;Food;Burgers;Barbeque
+68437,Y2Z1Ig5I1E3PSU_GQQUW9Q,"""Suwanasak""",,"""811 S Gammon Rd""",Madison,WI,53711,43.0472739,-89.5031023,3.5,53,0,Restaurants;Thai
+68476,Y2TCGnkXJ1BmxMKLR1r8Jw,"""Geier's Grill""",,"""5109 W Terrace Dr""",Madison,WI,53718,43.1424343,-89.2963512,3.0,5,1,American (Traditional);Restaurants;Breakfast & Brunch
+69275,6mqfcZI2I6Y8QGBPiFAsnQ,"""Pel'meni""",Capitol,"""505 State St""",Madison,WI,53703,43.0746726,-89.39396509999999,4.0,11,0,Russian;Restaurants
+69281,EP0mnDzQiA_sRTRlYBs4hg,"""The Silly Yak Bakery & Bread Barn""",Oakbridge Community,"""7866 Mineral Point Rd""",Madison,WI,53717,43.0612084,-89.51920679999999,4.5,28,1,Gluten-Free;Food;Bakeries;Restaurants
+69331,YsxyAYrg2LdMvf7nhp39Ow,"""Dahmen's Pizza Place""",,"""6654 Mineral Point Rd""",Madison,WI,53705,43.0609491,-89.4968068,3.5,20,0,Bars;Pizza;Nightlife;Sports Bars;Restaurants
+69398,1GGLx6k4SgM-MykB5TTiJg,"""Culver's""",,"""2102 W Beltline Hwy""",Madison,WI,53713,43.036029600000006,-89.41503859999999,4.0,47,1,Ice Cream & Frozen Yogurt;Fast Food;Food;Burgers;Restaurants
+69419,EiHj4zrEOA8SlMO69qSHZg,"""Mom's Deli""",Lake Edge,"""4602 Monona Dr""",Madison,WI,53716,43.070096,-89.3253969,4.0,4,1,Malaysian;Delis;Asian Fusion;Restaurants;Chicken Wings
+69559,9XtyBTgenMERfl4hDgnDwA,"""China Palace""",Maple Wood,"""1291 N Sherman Ave""",Madison,WI,53704,43.1137346,-89.3637978,4.0,3,0,Restaurants;Chinese
+69802,sUGlSS0AF2xPYFEjvKJbSA,"""Tandoori House""",,"""6713 Odana Rd""",Madison,WI,53719,43.055999,-89.4977688,3.5,42,1,Indian;Pakistani;Restaurants;Seafood;Halal
+70026,XKaEQFtKnU3_Gaduje4Nhg,"""Ho-Chunk Gaming Madison""",,"""4002 Evans Acres Rd""",Madison,WI,53718,43.0395521,-89.27197290000001,2.0,22,1,Restaurants;Arts & Entertainment;Hotels;Hotels & Travel;Nightlife;Food;Casinos;Event Planning & Services;American (Traditional)
+70033,jP6xmjbQRfUitOmv5PKuJA,"""Cranberry Creek Take-out & Catering""",Capitol,"""114 E Main St""",Madison,WI,53703,43.075112362700004,-89.38156675549999,3.5,7,1,Restaurants;American (Traditional)
+70070,upI-oDFUBr_P9Q_waV7rmQ,"""Ginger Root""",South Campus,"""1308 W Dayton St""",Madison,WI,53715,43.071765299999996,-89.4081342,2.5,12,1,Asian Fusion;Restaurants
+70267,oezMXnkdUQMuMH7RuKaiyw,"""Mediterranean Cafe""",Capitol,"""625 State St""",Madison,WI,53703,43.0748734,-89.39645240000002,4.5,179,1,Mediterranean;Greek;Restaurants
+70298,Ps5mrcu_E17YBC7Tl75X0w,"""Naty's Fast Food""",Bay Creek,"""1616 Beld St""",Madison,WI,53715,43.049535713199994,-89.39312841739999,4.5,11,1,Restaurants;Fast Food
+70561,xStWlT67YUdrdhfrNP0eQQ,"""Pasqual's Cantina""",Tenney - Lapham,"""1344 E Washington Ave""",Madison,WI,53703,43.0882262,-89.3651239,2.5,71,1,Nightlife;Mexican;Restaurants;Bars;Cocktail Bars;Tex-Mex
+70614,di8-ZPAvExDPfttxMs3_JA,"""Yummy Buffet""",Capitol,"""411 W Gilman St""",Madison,WI,53703,43.074349,-89.393575,1.0,4,0,Chinese;Restaurants;Buffets
+70615,TLTawnc8rVosRV9z5-8oOw,"""Charley's Grilled Subs""",Capitol,"""644 State St""",Madison,WI,53703,43.074897,-89.39598170000001,3.0,5,0,Restaurants;Sandwiches
+71011,zx_eg_zbs2pyDU4QmCXE1Q,"""Arby's""",,"""4002 E Washington Ave""",Madison,WI,53704,43.123819,-89.315267,3.0,6,1,Fast Food;Sandwiches;Restaurants
+71125,Ed5feP-TztmLtc4pRKDvNA,"""Lee Asian Bistro""",Lake Edge,"""4604 Monona Dr""",Madison,WI,53716,43.0699604,-89.32590429999999,3.5,13,0,Vietnamese;Chinese;Restaurants
+71194,X2Lb7fTmuyXwU3O19F5aZA,"""Pizza Pit""",Emerson East,"""1860 E Washington Ave""",Madison,WI,53704,43.0923911,-89.3610073,2.5,9,1,Restaurants;Pizza;Caterers;Event Planning & Services
+71653,TmzUG5kgxezUsfNYu5Z5cw,"""Seafood Center""",Junction Ridge,"""8452 Old Sauk Rd""",Madison,WI,53562,43.0749199,-89.52955370000001,4.5,7,0,Restaurants;Seafood;Grocery;Food;Specialty Food;Seafood Markets
+72245,WCMt5LU2NnkmzjKNhTB7UA,"""VFW Day Post 7591""",Lake Edge,"""301 Cottage Grove Rd""",Madison,WI,53716,43.083265000000004,-89.32132,4.0,7,1,American (Traditional);Restaurants;Fish & Chips
+72282,RpJJeDl84FKx4-FwwY2w0w,"""Dayton Street Grille""",Capitol,"""The Madison Concourse Hotel And Governor's Club, 1 W Dayton St""",Madison,WI,53703,43.075612899999996,-89.3865836,3.5,19,0,American (New);Restaurants
+72445,tsDdetbc4qtzgAPtcLH87A,"""Rockhound Brewing Company""",Greenbush,"""444 S Park St""",Madison,WI,53715,43.0626068,-89.4008937,3.5,107,1,Food;Breweries;American (Traditional);Pubs;Comfort Food;Nightlife;Bars;Restaurants
+72832,P3Nl2QTfUtoe8-alSSh-9w,"""Silver Mine Subs""",,"""2601 W Beltline Hwy, Ste 106""",Madison,WI,53713,43.03453629999999,-89.4221744,3.0,49,1,American (New);Restaurants;Sandwiches;Caterers;Event Planning & Services;Salad
+72985,SHoUzvH_XnVzU6i_YR48tg,"""Fiesta 38""",Greenbush,"""604 S Park St""",Madison,WI,53715,43.0608461,-89.4008675,4.0,9,0,Latin American;Peruvian;Restaurants
+73166,Lku_keJf44D0LxbRAIZOcg,"""QQ Express""",,"""1401 University Ave""",Madison,WI,53715,43.073259379899994,-89.4093034789,3.5,53,1,Restaurants;Chinese
+73176,ymGn0eZHFM0bI8Ig0EVXWg,"""Habeneros""",Sherman,"""3001 N Sherman Ave""",Madison,WI,53704,43.127123002,-89.3631029512,3.5,3,1,Mexican;Restaurants
+73290,iRHTFqobTR2mQaDg2-Yojg,"""La Coppa Gelato Cafe""",Capitol,"""341 State St""",Madison,WI,53703,43.074578,-89.391498,4.0,27,1,Desserts;Food;Coffee & Tea;Ice Cream & Frozen Yogurt;Gelato;Restaurants
+73387,_9oVB-ICuyxfnK8JGpiwKA,"""Supreme Pizza""",Tenney - Lapham,"""912 E Johnson St""",Madison,WI,53703,43.0848133,-89.3760907,2.5,3,0,Restaurants;Pizza
+73449,Cs7Zny0ijnyE9nZWSLBnAg,"""Toast""",Capitol,"""728 State St""",Madison,WI,53706,43.0745924,-89.3993421,4.0,20,1,Fast Food;Food Stands;Food;Street Vendors;Sandwiches;Restaurants;Food Trucks;Specialty Food
+73477,3ixWqNb_sort966Ouxc5vg,"""Lagartos""",,"""802 Atlas Ave""",Madison,WI,53714,43.084874,-89.309364,3.0,9,0,Nightlife;Burgers;Dance Clubs;Bars;Latin American;Restaurants
+73803,GLUwW6rCrMTAX2QbUpye-g,"""Fib's Fine Italian Beef & Sausage""",Capitol,"""11 W Main St""",Madison,WI,53703,43.0739899506,-89.3830275536,4.5,18,0,Food Trucks;Restaurants;Food;Hot Dogs
+74034,aUrOyWFKxKeVXiFzwbTXSA,"""The Green Owl Cafe""",Schenk - Atwood,"""1970 Atwood Ave""",Madison,WI,53704,43.0922989,-89.355528,4.0,234,1,Vegetarian;Cafes;Restaurants;Vegan
+74146,RGCiOM52mBI6_Wyfx2xO6A,"""Oakcrest Tavern""",Glen Oak Hills,"""5371 Old Middleton Rd""",Madison,WI,53705,43.073988899999996,-89.4727397,4.0,66,1,Nightlife;Bars;Restaurants;American (Traditional);Fish & Chips
+74219,SMtnQ_KdWUL36t3nV497uw,"""Jin's Chicken and Fish""",Capitol,"""N Frances St and University Ave""",Madison,WI,53715,43.073191200000004,-89.39582209999999,4.5,10,0,Food Stands;Restaurants
+74259,dpblBM884TnUQQ5xusFMlg,"""Yen Ching Restaurant""",Summit Woods,"""1300 S Midvale Blvd""",Madison,WI,53711,43.038061799999994,-89.4515848,4.0,9,0,Chinese;Restaurants
+74302,T-LEmkUd0PEUC0R_eUb7Ng,"""The Haze""",Capitol,"""106 King St""",Madison,WI,53703,43.0747393,-89.3813418,3.5,18,0,Barbeque;Asian Fusion;Restaurants
+74449,krsjoEks-XF-PLKjOJW66A,"""Off Broadway Drafthouse""",Waunona,"""5404 Raywood Rd""",Madison,WI,53713,43.046873299999994,-89.3547473,3.5,53,1,American (Traditional);Bars;Restaurants;Pubs;Burgers;Nightlife;Comfort Food
+75759,GeRCq7Y4SI54tDEjIaanPQ,"""Pan y Pan""",Eastmorland,"""3737 Milwaukee St""",Madison,WI,53714,43.0979375,-89.3201948,4.0,6,1,Food;Mexican;Restaurants;Bakeries
+76271,R_wOzSC7CWl38RLtbf-rQQ,"""Peppino's Restaurant""",Capitol,"""111 S Hamilton St""",Madison,WI,53703,43.072631,-89.384011,4.0,5,0,Italian;Restaurants
+76325,FhHD0Y_TPysnHOfB8uS6eQ,"""Pitcher's Pub""",,"""323 W Beltline Hwy""",Madison,WI,53713,43.0365968,-89.388805,3.0,20,1,American (Traditional);Restaurants;Nightlife;Beer;Wine & Spirits;Bars;Pubs;Food
+76359,sWWMidrpQmXOhCTrs6xAZg,"""Olive Lounge""",Capitol,"""9 E Wilson St""",Madison,WI,53703,43.0726193,-89.3805114,2.5,6,1,Lounges;Cocktail Bars;Breakfast & Brunch;Bars;Restaurants;Nightlife
+76642,rECtpzeqtOdR5gIWiXoGfQ,"""Jamerica Caribbean Restaurant""",Williamson - Marquette,"""1236 Williamson St""",Madison,WI,53703,43.084154299999994,-89.3633455,3.5,54,1,Restaurants;Caribbean
+76646,zjkZ0apVnRKpF_vSyGNkQA,"""Erbert and Gerbert's""",Capitol,"""540 University Ave""",Madison,WI,53703,43.073567600000004,-89.3954823,3.5,18,1,Restaurants;Sandwiches
+76683,bqNV9FU60H9BVPJ4kWptOA,"""Subway""",South Campus,"""202 N Charter St""",Madison,WI,53715,43.071333100000004,-89.4059595,3.5,4,1,Restaurants;Coffee & Tea;Fast Food;Food;Sandwiches
+76964,lwGYjicqmjZqbPq_ZPS3_w,"""JT Whitney's Pub & Brewery""",,"""674 S Whitney Way""",Madison,WI,53711,43.0515656,-89.4737468,3.0,6,0,Nightlife;Food;Restaurants;Pubs;Bars;Breweries;American (New)
+77170,QJOr35t_jz9OPQ6IczMGJA,"""Potbelly Sandwich Shop""",,"""112 W Towne Mall""",Madison,WI,53719,43.057089899999994,-89.5093181,3.0,9,1,Restaurants;Sandwiches;Delis;Juice Bars & Smoothies;Salad;Food;Fast Food
+77421,AR1w3ragHgRvnU71A7aaZA,"""Soga Shabu Shabu""",Capitol,"""508 State St""",Madison,WI,53703,43.075183200000005,-89.39363459999998,3.0,56,1,Chinese;Restaurants;Asian Fusion
+77544,1AbuJiCPu-mOJUPjQIpuLw,"""Bar Bistro 608 / Rooftop Bar""",,"""430 N Midvale Blvd""",Madison,WI,53705,43.071195,-89.452743,2.5,8,1,Bars;Nightlife;Restaurants;American (New)
+78223,VO2WD2hE1jLyNFCja3XlGg,"""Mermaid Cafe""",Williamson - Marquette,"""1929 Winnebago St""",Madison,WI,53704,43.091106599999996,-89.35565279999999,4.5,55,0,Restaurants;Sandwiches;Coffee & Tea;American (New);Food
+78418,nTj1Yi5TyRErrP8k8H3C3g,"""Kavanaugh's Esquire Club""",Sherman,"""1025 N Sherman Ave""",Madison,WI,53704,43.111265,-89.363442,3.0,53,1,Restaurants;Seafood;Steakhouses;Nightlife;Sports Bars;Bars
+78478,EgtyW19V-64c6PmRuvzSEA,"""The Great Dane""",Capitol,"""123 E Doty St""",Madison,WI,53703,43.074445481400005,-89.3800637126,4.0,662,1,American (New);Breweries;Bars;Food;American (Traditional);Nightlife;Pubs;Brewpubs;Restaurants
+78592,L7ruEZJO8tGQIHPxGTztAA,"""Panera Bread""",,"""6637 Mineral Point Rd""",Madison,WI,53705,43.060422676099996,-89.4967161771,3.0,24,1,Salad;Breakfast & Brunch;Restaurants;Event Planning & Services;Sandwiches;Soup;Caterers;Bagels;Food
+79027,GRBJc51ofoVZWpLOs16a1g,"""Gyro Express""",,"""66 W Towne Mall""",Madison,WI,53719,43.05854104350001,-89.5051780343,4.0,14,1,Fast Food;Greek;Restaurants
+79092,c0mV9byVqQMERBojaFmuWA,"""Mad City Crabhouse""",Capitol,"""122 State St""",Madison,WI,53774,43.075041,-89.387383,1.0,3,0,Restaurants;Seafood
+79230,iIok1p4qnpGAa07xoaXRQA,"""Field Table""",Capitol,"""10 W Mifflin St""",Madison,WI,53703,43.0755039,-89.38588440000001,3.0,126,1,Cocktail Bars;Bars;Food;Nightlife;American (New);Restaurants;Coffee & Tea
+79537,MLwVTDhM2DOESvKGcfKCsg,"""Magic Wok""",Schenk - Atwood,"""2044 Atwood Ave""",Madison,WI,53704,43.092519,-89.353881,4.0,70,0,Chinese;Restaurants
+79716,tAsTOl-mrPX3kiiyz1a1TQ,"""Cali Fresh""",Capitol,"""Library Mall""",Madison,WI,53703,43.0749123309,-89.39733159219999,4.5,3,1,Mexican;Food Trucks;Restaurants;Food
+80025,3EkVn5_YsP0q6LvMfTsVuQ,"""Cafe Social""",Capitol,"""102 N Bedford St Madison Wi""",Madison,WI,53703,43.0697329,-89.39367800000001,4.0,4,1,Cafes;Coffee & Tea;Specialty Food;Breakfast & Brunch;Food;Restaurants
+80127,kVXyz0mYd7NaGuGdM_VMeQ,"""Asian Sweet Bakery""",Bay Creek,"""1017 S Park St""",Madison,WI,53715,43.0559997,-89.3976912,4.5,84,1,Restaurants;Food;Chinese;Bakeries
+80196,kUtQT0IgfJaBE-5uP0r4sQ,"""Whiskey Jacks Saloon""",Capitol,"""552 State St""",Madison,WI,53703,43.075139,-89.394834,2.5,46,1,Dive Bars;Bars;Sandwiches;Burgers;Restaurants;Nightlife
+80334,F0Wv3QMEXhX3vknb5SPqCA,"""Atlanta Bread Company""",Wexford,"""751 N High Point Rd""",Madison,WI,53717,43.0761711,-89.51836829999999,2.5,4,0,Food;Delis;Restaurants;Bakeries
+80397,DWPAFq8HdzGzo2vhKixDJA,"""JB's Eat-A-Bite BBQ""",Bram's Addition,"""2209 S Park St""",Madison,WI,53713,43.0419642,-89.39391409999999,4.5,16,0,Barbeque;Restaurants;Italian
+80506,FnTbrBUCuaSOlWnovTgMjg,"""Cilantro""",,"""7005 Tree Ln""",Madison,WI,53717,43.065377399999996,-89.50304200000001,2.5,41,0,Mexican;Restaurants
+80642,k0sfr75fgFpwwf_BBdnm9w,"""India House""",,"""709 S Gammon Rd""",Madison,WI,53719,43.0494521,-89.5027577,4.0,5,1,Food;Restaurants;Grocery;Ethnic Grocery
+80680,Wc1TtSuRgHXW8CLR7Rs7TA,"""The Plaza Tavern""",Capitol,"""319 N Henry St""",Madison,WI,53703,43.0753713,-89.3902256,4.0,72,1,Pubs;Restaurants;Bars;Nightlife;Burgers
+80782,1lujZNJqP5s966L0PRmRrg,"""Rocky Rococo""",Midvale Heights Community,"""206 Westgate Mall""",Madison,WI,53711,43.05258189999999,-89.4724364,2.5,11,0,Salad;Italian;Restaurants;Pizza
+81133,8RxwEbhxRResGQUwsZujAw,"""Cafe Continental""",Capitol,"""108 King St""",Madison,WI,53703,43.0748357,-89.38126,3.5,30,0,Restaurants;Italian
+81692,DTsCHmHjqWXBCzAkg0YzAA,"""Chick-fil-A""",Norman Acres,"""4212 East Washington Ave""",Madison,WI,53704,43.1259931,-89.31135079999999,4.0,21,1,Chicken Shop;Restaurants;Fast Food
+82093,ZS9nhMMn6KdvdaB4L4G3vw,"""Kakilima Food Cart""",Capitol,"""Library Mall""",Madison,WI,53703,43.075391700000004,-89.3989853,4.0,13,1,Restaurants;Indonesian;Food Trucks;Food
+82366,OHlWeG019fqPbvYO5ZDEqg,"""Shamrock Bar & Grille""",Capitol,"""117 W Main St""",Madison,WI,53703,43.072439,-89.38461,4.0,17,1,Nightlife;American (Traditional);Restaurants;Bars;Gay Bars
+83000,DEF77d-_S0UT2OI-njM5fQ,"""Bear & Bottle""",,"""601 N Sherman Ave""",Madison,WI,53704,43.107113399999996,-89.36325529999999,3.5,85,1,Mexican;Restaurants;Tacos;Nightlife;Sandwiches;Pubs;Bars
+83256,7iZYl52Gtica73shRYsuMQ,"""Francesca's Al Lago""",Capitol,"""111 Martin Luther King Jr Blvd""",Madison,WI,53703,43.073795781499996,-89.3826003509,3.5,93,0,Venues & Event Spaces;Food;Event Planning & Services;Restaurants;Beer;Wine & Spirits;Italian
+83257,rK07YAIZJBFrvx7Z5k39_g,"""Mezze""",Capitol,"""414 W Gilman St""",Madison,WI,53703,43.0745706,-89.39406170000001,4.0,16,0,Restaurants;Bars;Pizza;Cocktail Bars;Nightlife;Mediterranean;American (New);Tapas/Small Plates
+83343,adU58x75VWjbsyFdoO_m3w,"""The Cheesecake Factory""",,"""1 W Towne Mall""",Madison,WI,53719,43.057191100000004,-89.50546690000002,3.0,138,1,Restaurants;Seafood;Desserts;American (New);Food;American (Traditional)
+83421,y2I0Yt6yr48ZgUvR3Pe7Fw,"""Quiznos""",Stone Meadows,"""6611 McKee Rd""",Madison,WI,53719,43.014844700000005,-89.498338,3.5,7,1,Sandwiches;Restaurants;Delis;Fast Food
+83457,scCQqfGfHipwVV43opvMJw,"""Papa Murphy's""",Rolling Meadows,"""4664 Cottage Grove Rd""",Madison,WI,53716,43.0843504,-89.2998225,3.5,4,0,Restaurants;Pizza
+83514,7Km9UXolK9vEeBDNqTl5DA,"""Quiznos""",,"""4000 International Ln""",Madison,WI,53704,43.136208564499995,-89.3456268311,2.0,4,1,Fast Food;Sandwiches;Restaurants;Delis
+83694,5P73h8f_5q-00YIIkUX4WA,"""Bonefish Grill""",,"""7345 Mineral Point Rd""",Madison,WI,53717,43.0601717613,-89.5085259603,3.5,138,1,Bars;Cocktail Bars;Seafood;Restaurants;Nightlife;American (New)
+83910,ITieHQ8UwKq74FnqTKnPOQ,"""Pinkus McBride Market""",Capitol,"""301 N Hamilton St""",Madison,WI,53703,43.0791526,-89.3838875,4.0,40,1,Delis;Grocery;Food;Beer;Wine & Spirits;Restaurants
+83911,nVw5MK7dBw_JzoH82DCfJw,"""Flavor of India""",Capitol,"""14 W Mifflin St, Ste 102""",Madison,WI,53703,43.075319,-89.386145,4.0,31,0,Pakistani;Restaurants;Indian
+83933,QvvcftkmPXdsBMbhGY293w,"""Noodle Express""",Starkweather - Yahar,"""2817 E Washington Ave""",Madison,WI,53704,43.10288679999999,-89.3447941,5.0,3,0,Chinese;Restaurants
+84137,Xc3Y8_cWBnMVXvoJmGCh4g,"""La Rocca's Restaurant and Pizzeria""",Willy St,"""940 Williamson St""",Madison,WI,53774,43.0804585,-89.3685384,3.5,13,0,Restaurants;Vegetarian;Italian;Pizza
+84655,mEuXIK4Njq37DBLmMlz_0g,"""Subway""",,"""4416 Pflaum Rd, Unit A""",Madison,WI,53716,43.0627666,-89.3074804,2.5,3,1,Restaurants;Sandwiches;Fast Food
+84798,8Nu0oc2gCzTG4KA-sHa5lA,"""Milio's Sandwiches""",Junction Ridge,"""306 Junction Rd""",Madison,WI,53717,43.066922998100004,-89.5247035367,4.0,8,1,Restaurants;Sandwiches
+84855,9Hn3FW37916i3ED7sLZCQg,"""Badgerland Bar & Grill""",Capitol,"""525 W Johnson St""",Madison,WI,53703,43.0714537,-89.3943638,3.0,24,1,Nightlife;Burgers;American (Traditional);Bars;Restaurants
+84942,Twcjx4ofM9GWwXN6LVGSzw,"""Merchant Madison""",Capitol,"""121 S Pinckney St""",Madison,WI,53703,43.0742365,-89.3810119,4.0,445,1,Grocery;Sandwiches;Nightlife;Wine Bars;American (New);Cocktail Bars;Bars;Restaurants;Food;American (Traditional)
+85281,S4NHg4GZD35HzzibJAxXDw,"""Myles Teddywedgers""",Capitol,"""101 State St""",Madison,WI,53703,43.074718100000005,-89.38621309999999,4.0,33,0,Restaurants;Food;Breakfast & Brunch;Bakeries;British;Fast Food
+85354,YDjpFw_K46BW9Wf9c8izzA,"""Subway""",Regent,"""2216 University Ave""",Madison,WI,53726,43.0727654,-89.4248377,1.5,3,0,Restaurants
+85407,GqVYiZNJnuLV7I4u3u3PDw,"""Milio's Subs""",Schenk - Atwood,"""2045 Atwood Ave""",Madison,WI,53704,43.092071399999995,-89.3535202,2.5,3,0,Restaurants;Sandwiches
+85715,OBLv8e0RvwqBl0Gkoj-bDA,"""The Melting Pot - Madison""",,"""6816 Odana Rd""",Madison,WI,53719,43.057148,-89.500764,3.0,66,1,Food;Event Planning & Services;Salad;Desserts;Restaurants;Fondue;Venues & Event Spaces
+86121,WhUaO6USElivcM-xxlsscA,"""Vasilis' Take Five: Vittles & Vices""",Willy St,"""901 Williamson St""",Madison,WI,53703,43.0794866,-89.3693954,3.5,22,0,American (New);Restaurants;Greek
+86153,pTvL6Upfp91J1ryrCZpzgg,"""Jade Garden""",Bay Creek,"""1109 S Park St""",Madison,WI,53715,43.0548686,-89.39684940000001,3.0,51,1,Buffets;Restaurants;Chinese
+86334,MuLF5vPE73lGydhv-6xbtA,"""Perkins Restaurant & Bakery""",,"""5237 University Ave""",Madison,WI,53705,43.0783442949,-89.4712896645,3.0,20,0,Food;Bakeries;Restaurants;Burgers;Cafes;American (Traditional);Breakfast & Brunch
+86416,cxyDANKI4ptp9VdbgEtCtg,"""CIRC""",Capitol,"""1 W Dayton St""",Madison,WI,53703,43.075612899999996,-89.3865836,3.5,18,1,American (Traditional);Breakfast & Brunch;American (New);Restaurants
+86833,HO2knNxcc_8lFtgGxN8q2A,"""Nitty Gritty - Madison""",Capitol,"""223 N Frances St""",Madison,WI,53703,43.0718107,-89.39552090000001,3.0,143,1,American (Traditional);Bars;Nightlife;Restaurants;Burgers
+87517,lqtybK6_GjSqhK8U55Mc7w,"""Sa-Bai Thong""",,"""2840 University Ave""",Madison,WI,53705,43.07524660479999,-89.43766667989999,3.5,127,1,Food;Fast Food;Restaurants;Asian Fusion;Event Planning & Services;Thai;Ice Cream & Frozen Yogurt;Caterers
+87574,gwKOawUNlVvt-b38LNgpLw,"""Caspian Cafe & Catering""",Capitol,"""610 University Ave""",Madison,WI,53715,43.073447200000004,-89.39629240000001,4.0,4,0,Persian/Iranian;Restaurants
+87579,58bwmkEtGJqe7ei5kssczw,"""Nettie's Cafe""",,"""1325 Greenway Cross""",Madison,WI,53713,43.0309979,-89.405433,4.5,4,0,Restaurants;Gluten-Free;Sandwiches;Cafes
+87760,EtFtF_FPvqpeTlbj9zFfmA,"""Milio's Sandwiches""",,"""2570 Rimrock Rd, Ste 110""",Madison,WI,53713,43.03713870000001,-89.3794918,2.0,5,1,Restaurants;Sandwiches
+87783,91Y6ASRhkDz3mJG9ezGNiQ,"""Babcock Hall Dairy Store""",,"""1605 Linden Dr""",Madison,WI,53706,43.0749778,-89.4137655,4.5,62,1,Ice Cream & Frozen Yogurt;Cheese Shops;Specialty Food;Sandwiches;Food;Restaurants
+87925,y1H7Q7rN9JmySXvwDVYD8A,"""Salad Creations Madison""",Junction Ridge,"""610 Junction Rd, Ste 105""",Madison,WI,53717,43.073238700000005,-89.5267317,2.0,22,0,Vegetarian;Salad;Restaurants;Sandwiches;Food
+88029,RJdV7djZZeH3jJadPhgVvw,"""Chautara Restaurant""",Capitol,"""334 State St""",Madison,WI,53703,43.0748088,-89.3910219,3.5,54,0,Himalayan/Nepalese;Restaurants
+88042,hII_nAeCvz-qlyuvbNI1Ig,"""BD's Mongolian Grill""",,"""4722 E Towne Blvd""",Madison,WI,53704,43.1293824,-89.3041179,3.0,4,0,Mongolian;Restaurants
+88134,c26Nbb6i7OeMCvg7Cs4QSw,"""Fresh Cool Drinks""",Capitol,"""704-712 State St""",Madison,WI,53703,43.0749970121,-89.39794734120001,5.0,16,1,Restaurants;Food;Juice Bars & Smoothies;Thai;Food Stands
+88198,2koGK8csbE3AIFf7r2dMNw,"""Domino's Pizza""",,"""703 S Gammon Rd""",Madison,WI,53719,43.0497626,-89.50276690000001,1.0,4,1,Restaurants;Pizza;Sandwiches;Chicken Wings
+88245,uSANDilamc1QSiCinFSKYw,"""World Buffet""",,"""499 D'Onofrio Dr""",Madison,WI,53719,43.057758331,-89.5138889074,3.0,50,1,Buffets;American (New);Restaurants;Mongolian;Chinese
+88605,Ti73jdAF8zrVEkSLyzfOag,"""The Seafood Center""",,"""712 S Whitney Way""",Madison,WI,53711,43.049283700000004,-89.47363059999999,4.5,46,1,Seafood;Food;Specialty Food;Seafood Markets;Grocery;Restaurants
+88632,u_A58uX7x7AEOKOboFGFpg,"""Hy-Vee Market Grille""",Mayfair Park,"""3801 E Washington Ave""",Madison,WI,53714,43.117764799999996,-89.3183402,3.5,7,1,Restaurants;Sports Bars;Cafes;Bars;Nightlife
+88643,mOzxFBAHWwpuH7u5xP0oHw,"""Takara Japanese Restaurant""",Capitol,"""315 State St""",Madison,WI,53703,43.074663,-89.39078549999999,3.0,126,0,Japanese;Sushi Bars;Restaurants
+88949,-9CvNuJ35elp7YwIy4xHDw,"""Jakarta Cafe""",South Campus,"""700 Block State St Library Mall""",Madison,WI,53703,43.07305170000001,-89.4012302,3.0,6,1,Food Trucks;Indonesian;Food;Restaurants;Food Delivery Services
+88961,v3Ec04i6x7NC1B7YFoA4GQ,"""Taco Bell""",Eken Park,"""3002 E Washington Ave""",Madison,WI,53704,43.1041242162,-89.34276759549999,2.0,20,1,Restaurants;Mexican;Fast Food;Tex-Mex
+89122,m3Gjw27yTlmNYG1cuTWlBw,"""Salads UP""",Capitol,"""439 N Frances St""",Madison,WI,53703,43.074499729799996,-89.39563477770001,3.5,19,1,Soup;Food;Salad;Vegetarian;Restaurants;Juice Bars & Smoothies
+89123,ccVFmV2l3xPS4CCcLPwpkQ,"""Gooseberry on the Square""",Capitol,"""1 S Pinckney St, Ste 104""",Madison,WI,53703,43.0754933,-89.3821022,3.0,22,1,Salad;Bakeries;Caterers;Event Planning & Services;Cafes;Breakfast & Brunch;American (Traditional);Food;Sandwiches;Restaurants
+89227,lUBlgJ-rDDdwpi6d38L2tg,"""Crandalls Catering""",Capitol,"""334 State St""",Madison,WI,53703,43.074921999999994,-89.39103,3.5,53,1,Peruvian;Latin American;American (Traditional);Restaurants
+89350,38VHBCYylBFmTQ0cFeCdAQ,"""UW Slow Food""",South Campus,"""1127 University Ave""",Madison,WI,53706,43.0730139,-89.4054731,5.0,3,1,Education;Restaurants;Special Education;Cafeteria;Diners
+89784,5922_DJ8lQXaJva0XOlyXw,"""Four Lakes Cafe""",,"""600 Highland Ave""",Madison,WI,53705,43.076513,-89.4317035,3.5,10,1,Cafes;Food;Restaurants
+89804,Wf7AV7JbR52qABil0bU8NA,"""The Boathouse""",Capitol,"""1001 Wisconsin Pl""",Madison,WI,53703,43.0792898936,-89.39058581440001,2.5,62,1,Restaurants;Nightlife;Bars;Sandwiches;American (Traditional)
+89833,iSOaf_-deg1nIlCm3cuzvg,"""Capitol ChopHouse""",Capitol,"""10 E Wilson""",Madison,WI,53703,43.072924866099996,-89.3804934961,3.5,66,1,American (Traditional);Restaurants;Seafood;Party & Event Planning;Event Planning & Services;Venues & Event Spaces;Steakhouses
+90032,VDvcxFhe3NttPUzftJmHjw,"""Sunprint On The Square""",Capitol,"""10 W Mifflin St""",Madison,WI,53703,43.075430499999996,-89.38582199999999,3.5,34,0,Restaurants;Coffee & Tea;Food;Sandwiches
+90041,bt0ZUJWmAJhjYmfPCzgRmQ,"""Sol Azteca Fusion Grill""",Bram's Addition,"""1821 S Park St""",Madison,WI,53713,43.0470342,-89.3939631,2.5,9,1,Restaurants;Dance Clubs;Mexican;Japanese;Latin American;American (New);Italian;Karaoke;Nightlife
+90080,3NmjKQJmPH7hcM0pp12DJQ,"""Hong Kong Cafe West""",,"""7475 Mineral Point Rd""",Madison,WI,53717,43.05862020000001,-89.5122609,4.5,3,0,Chinese;Restaurants
+90217,HHCn1akqIpl_BhdcJoYPbw,"""Saigon Noodles""",,"""6754 Odana Rd""",Madison,WI,53719,43.05714570000001,-89.49951949999999,4.0,290,1,Restaurants;Vietnamese;Noodles
+90441,hDhQvwpLWSzSgZQSKUSOqQ,"""Potbelly Sandwich Shop""",Capitol,"""564 State St""",Madison,WI,53703,43.074865700000004,-89.39501429999999,3.5,37,1,Delis;Soup;Fast Food;Sandwiches;Salad;Restaurants
+90482,paNjgpMDRhNzBj6xzhHPVQ,"""Habanero's Mexican Grill""",,"""2229 S Stoughton Rd""",Madison,WI,53714,43.065186499999996,-89.30834940000001,4.0,114,1,Mexican;Restaurants
+90593,1Os0g2rh6I50ZIXEZSaNkA,"""DLUX""",Capitol,"""117 Martin Luther King Jr Blvd""",Madison,WI,53703,43.0735626221,-89.3824691772,4.0,377,1,Bars;Restaurants;Cocktail Bars;Breakfast & Brunch;American (New);Burgers;Nightlife
+90617,ILa-Xv5-h23A9OMrYK17oQ,"""Manna Cafe & Bakery""",,"""611 N Sherman Ave""",Madison,WI,53704,43.107431,-89.3636588,4.5,181,1,Breakfast & Brunch;Food;Comfort Food;American (New);Restaurants;Caterers;Soul Food;Bakeries;Event Planning & Services;Cafes
+90747,k9wv5-0u8q4S75MIaTX6aA,"""Echo Tap & Grill""",Capitol,"""554 W Main St""",Madison,WI,53703,43.0682028,-89.39140959999999,3.5,91,1,Bars;Sports Bars;Nightlife;American (Traditional);Dive Bars;Restaurants;Pizza
+91180,O3tT9S9vZixg1iwiKeWfuw,"""Karben4 Brewing""",,"""3698 Kinsman Blvd""",Madison,WI,53704,43.126006,-89.325671,4.0,124,1,Local Flavor;Food;Restaurants;Gastropubs;Breweries
+91744,cDk2no09g2JBBxBotOuZow,"""Taqueria 3 Amigos""",Capitol,"""309 N Henry St""",Madison,WI,53703,43.0753022148,-89.39041267639999,4.0,6,1,Mexican;Restaurants
+91745,eJYvivWUp4Hdc9Tc8SaZPA,"""Buraka Restaurant""",Capitol,"""543 State St""",Madison,WI,53703,43.074800200000006,-89.3952993,4.0,81,0,Vegan;African;Restaurants;Ethiopian
+91796,s43P_mLoOI348Ts_O3kTTg,"""Temple Garden""",Capitol,"""411 W Gilman St""",Madison,WI,53703,43.074349,-89.393575,5.0,3,0,Chinese;Restaurants
+91840,G099MT9cwtwgdsR71JLp6w,"""Osteria Papavero""",Capitol,"""128 E Wilson St""",Madison,WI,53703,43.0741091911,-89.37930419,4.0,160,1,Italian;Restaurants
+91954,cRDEkJWuXpKzuSYUpmyX5w,"""Subway""",,"""6602 Mineral Point Rd""",Madison,WI,53705,43.061398,-89.495884,3.5,3,1,Sandwiches;Restaurants;Fast Food
+92315,oHcGE5r2k4GgtIFqgZS2GQ,"""Nifty 50's Sandwich and Malt Shop""",,"""6750 Odana Rd""",Madison,WI,53719,43.056621500000006,-89.4997937,3.0,8,0,Restaurants;Food;Sandwiches
+92388,rcqcUiO5vw7nBcmpJ7Y8Wg,"""Stella Blu Cafe""",Sherman Terrace,"""1 Sherman Ter""",Madison,WI,53704,43.096829,-89.3674702,5.0,4,1,Sandwiches;Food;Breakfast & Brunch;Cafes;Restaurants;Bakeries;Coffee & Tea
+92563,uWZKPQs_TVi5qHeL0jIOCw,"""The Baker's Window""",Capitol,"""122 State St""",Madison,WI,53703,43.0747765,-89.38753990000001,4.5,18,0,Restaurants;Desserts;American (Traditional);Bakeries;Food
+92760,SaAIh36XncqFQanBhSQlEA,"""Noodles & Company""",,"""3600 University Ave And Midvale Blvd""",Madison,WI,53705,43.075720000000004,-89.44915999999999,2.5,27,1,Restaurants;Salad;Noodles;Soup
+92890,1k3toqehw9_rOdLjsoZh-Q,"""Licari's Bar and Grill""",,"""1405 Emil St""",Madison,WI,53713,43.0363862,-89.4071386,4.5,15,1,Restaurants;Fish & Chips;American (Traditional);Dive Bars;Nightlife;Bars
+93088,vKlfioFE5L-ZSUIbg0NY3Q,"""Le Chardonnay""",Capitol,"""320 W Johnson St""",Madison,WI,53703,43.0743689,-89.3905441,4.5,3,0,French;Wine Bars;Restaurants;Nightlife;Bars
+93460,azJAJh8oivpsU9HzlLS6EA,"""Taco Bell""",,"""421 Commerce Dr""",Madison,WI,53719,43.059957,-89.524364,1.5,29,1,Mexican;Fast Food;Restaurants;Tex-Mex
+93803,_DpnhekFOZDPNBDekWpx4A,"""Buffalo Wild Wings""",,"""240 East Towne Mall""",Madison,WI,53704,43.1261620623,-89.3063609128,2.5,48,1,Chicken Wings;Sports Bars;Bars;Nightlife;American (Traditional);Restaurants
+93940,1ZkcNwQpIESg8LuAHzye6Q,"""ZuZu Cafe & Market""",Greenbush,"""1336 Drake St""",Madison,WI,53715,43.062774,-89.408866,3.5,58,1,Breakfast & Brunch;Delis;Cafes;Coffee & Tea;Ice Cream & Frozen Yogurt;Restaurants;Food
+93989,wQgY7CdljLdCJm6XIk1HuA,"""Cheba Hut""",Capitol,"""453 W Gilman St""",Madison,WI,53703,43.07347,-89.394823,4.0,46,1,Food;Sandwiches;Restaurants;Local Flavor
+94278,gyDTYm_NDWXEHBPGnL-oRQ,"""Noodles & Company""",Capitol,"""232 State St""",Madison,WI,53703,43.0749456,-89.3895712,3.0,63,1,Comfort Food;Mediterranean;American (New);Asian Fusion;Restaurants;Chinese;Italian;Noodles
+94320,wwnuIvnVLgpEZOKzcdfDhw,"""Cranberry Creek Catering & Cafe""",Broadway-Lakepoint,"""1501 Lake Point Dr""",Madison,WI,53713,43.047893,-89.340121,4.5,29,1,Cafes;Sandwiches;Restaurants;Caterers;Event Planning & Services
+94356,dsvLqlcYaD0QbVGjVKm-lg,"""Alt' N Bach's Town Tap""",,"""2602 Whalen Ln""",Madison,WI,53713,43.03678970000001,-89.4184613,4.0,30,1,Dive Bars;American (Traditional);Bars;Restaurants;Nightlife
+94373,CQNq2sgLokwOVf4OL-19Hg,"""King of Falafel""",Capitol,"""453 W Gilman St""",Madison,WI,53703,43.07347,-89.394823,4.0,9,0,Falafel;Restaurants;Mediterranean;Middle Eastern
+94421,IPZubyVcN1OPwDJ68uqUHQ,"""Jimmy John's""",Capitol,"""527 State St""",Madison,WI,53703,43.0747472,-89.3947488,3.0,12,1,Food;Food Delivery Services;Sandwiches;Restaurants
+94467,3r1-6Hrfiobded7DRxstxQ,"""Sí Café""",Capitol,"""117 S Pinckney St""",Madison,WI,53703,43.0742752136,-89.38120548260001,4.5,12,0,Food;Nightlife;Vegan;Coffee Roasteries;Restaurants;Coffee & Tea;Speakeasies;Bars;Cafes
+94864,NUTVC8LoicZmcsO10Jmolg,"""Barolo Wine Bar""",Williamson - Marquette,"""829 E Washington Ave""",Madison,WI,53703,43.0810765183,-89.3739205238,4.5,20,0,Restaurants;Wine Bars;Bars;Tapas/Small Plates;Lounges;Nightlife
+94892,jLpufKQL0CF79vBrKwiMjQ,"""Basie's""",,"""517 Grand Canyon Dr""",Madison,WI,53719,43.0551586,-89.4961026,3.5,7,0,American (New);Bars;Restaurants;Nightlife
+94908,EKNm59ZMMRvb8N8Cm5F8Qw,"""Opus Lounge""",Capitol,"""116 King St""",Madison,WI,53703,43.0747747704,-89.3808732434,4.0,89,0,American (New);Bars;Lounges;Restaurants;Nightlife;Tapas/Small Plates
+95041,VRTrhsYKSJo1kGX5RqBlFA,"""Bel Air Cantina""",Capitol,"""111 Martin Luther King Jr Blvd""",Madison,WI,53703,43.0737969,-89.3822541,3.5,76,1,Bars;Mexican;Latin American;Nightlife;Restaurants
+95337,V5K2K2U0JaBL5UPaZYJkSQ,"""El Burrito Loco Restaurant""",Wexford,"""745 N High Point Rd""",Madison,WI,53717,43.076077500000004,-89.5184744,4.0,28,0,Restaurants;Mexican
+95592,sbOlgkiKttP4Cq_p6Z-f4w,"""Saz""",Capitol,"""558 State St""",Madison,WI,53703,43.075140999999995,-89.394958,4.0,4,0,Mediterranean;Greek;Mexican;Restaurants
+95911,QlAPX3c0Vm2dU_w3puIAIw,"""Double 10 Mini Hot Pot""",Bay Creek,"""1272 S Park St""",Madison,WI,53715,43.052965147799995,-89.39625341700001,4.5,118,1,Asian Fusion;Restaurants;Chinese;Hot Pot
+96014,QBDwbEEc9uEnn7dzVZu60Q,"""Mad Seafood Boiler""",Capitol,"""201 W Gorham St""",Madison,WI,53703,43.075138,-89.39081,3.5,39,1,Poke;Seafood;Sushi Bars;Cajun/Creole;Food;Restaurants
+96396,50Anorn0DJXFhBr9a9_gHQ,"""Lakefront Cafe on Langdon""",Capitol,"""Memorial Union, 800 Langdon Street""",Madison,WI,53706,43.0765783098,-89.3994861824,3.0,9,0,Food Stands;Sandwiches;Vegetarian;Restaurants;Pizza;American (Traditional);Burgers
+96414,Kntmm6a3qAMSpxRWdFZutA,"""Arby's""",,"""601 S Gammon Rd""",Madison,WI,53719,43.052129469899995,-89.502495738,2.5,7,0,Fast Food;Sandwiches;Restaurants
+96477,jaHKCpllY6Vb_kgQ4DYFkw,"""Sencha Tea Bar""",Capitol,"""430 State St""",Madison,WI,53703,43.0748338,-89.3922743,4.0,37,1,Tea Rooms;Coffee & Tea;Restaurants;Cafes;Food
+96517,QlBh1ACRTx-4ePTgIRPMeQ,"""T Sushi""",Capitol,"""251 State St""",Madison,WI,53703,43.074558258100005,-89.3900222778,2.0,16,0,Nightlife;Bars;Restaurants;Sushi Bars;Lounges
+96622,H6Gb3P21h4e_stdjFQO9oQ,"""Rocky Rococo Pan Style Pizza""",,"""1618 W Beltline Hwy""",Madison,WI,53713,43.035492,-89.4099449,2.5,19,1,Italian;Caterers;Salad;Chicken Wings;Restaurants;Pizza;Event Planning & Services
+96692,jgh9iT5k7JxkeK9gu4VJAw,"""Koi Sushi""",Capitol,"""502 State St""",Madison,WI,53703,43.074978154300005,-89.3934160843,3.0,27,1,Japanese;Chinese;Sushi Bars;Restaurants;Szechuan
+96749,SxuD7iY8QO88PNbSdNmNKg,"""Thulasi Kitchen""",Junction Ridge,"""515 Junction Rd, Ste A""",Madison,WI,53717,43.0715593,-89.5245488,3.5,24,0,Indian;Food;Halal;Seafood;Restaurants;Desserts
+96926,jCAoPzq8naXIgW4F3_wVTQ,"""Chi""",Capitol,"""251 State St""",Madison,WI,53703,43.0745593,-89.3893857,3.5,8,0,Asian Fusion;Restaurants
+97011,X0siHN0KchBjGKn9QsEAFg,"""Vintage Spirits & Grill""",Capitol,"""529 University Ave""",Madison,WI,53703,43.07293610000001,-89.39544559999999,4.0,46,1,Breakfast & Brunch;Beer Bar;Restaurants;Nightlife;American (New);Bars
+97357,3LpBQxRKVxJIxdQd3PV_Hw,"""Good Day Coffee Shop""",Capitol,"""101 S Webster St""",Madison,WI,53703,43.07522410000001,-89.3803444,4.0,3,1,Food;Breakfast & Brunch;Restaurants;American (Traditional);Cafes;Coffee & Tea
+97387,fpwMWuKAR8joNW1B4N3e5w,"""Forage Kitchen""",Capitol,"""665 State St""",Madison,WI,53703,43.074878000000005,-89.3970772,4.0,60,1,Salad;Food;Restaurants;Juice Bars & Smoothies
+97489,aZgOdGn3O_fP2OUr5ATqiw,"""Steep & Brew""",Capitol,"""544 State St""",Madison,WI,53703,43.075134000000006,-89.394564,4.0,55,0,Coffee & Tea;Food;Restaurants;Cafes
+97490,Trs4cEYdP6AX_KihTk9kWQ,"""Husnu's""",Capitol,"""547 State St""",Madison,WI,53703,43.0748623,-89.3952974,3.5,65,0,Turkish;Mediterranean;Restaurants
+97535,lJDnML8EVAc_muLXhN32Yw,"""The Curve""",,"""653 S Park St""",Madison,WI,53715,43.0600205,-89.400397,4.0,58,1,Breakfast & Brunch;Diners;Restaurants
+97558,DIUK7_PjGCOMcpS2fBiALg,"""Avenue Club and the Bubble Up Bar""",Tenney - Lapham,"""1128 E Washington Ave""",Madison,WI,53703,43.085589,-89.36945290000001,3.5,146,1,Cocktail Bars;Restaurants;American (Traditional);Bars;Nightlife
+97660,RxacBKbziwvC5afDcZS5zg,"""The University Club""",Capitol,"""803 State St""",Madison,WI,53703,43.0746989519,-89.3992268386,4.0,9,1,Event Planning & Services;Wedding Planning;Venues & Event Spaces;American (Traditional);American (New);Restaurants
+97787,KB25wVbL7Lk22tN72DR0ww,"""Sarku Japan""",,"""89 E Towne Mall""",Madison,WI,53704,43.1253340609,-89.3061640031,4.5,9,1,Japanese;Restaurants
+97878,ToNd6fEn_SvcQc1Fulsidg,"""Milio's Sandwiches""",,"""4292 E Towne Blvd""",Madison,WI,53704,43.1258907,-89.3103284,2.5,6,1,Sandwiches;Restaurants
+98026,cUy8ww2wcqW-1RJLNSvBkA,"""Babes Grill & Bar""",,"""5614 Schroeder Rd""",Madison,WI,53711,43.0469205,-89.4770529,3.5,77,1,Seafood;Restaurants;American (New);Sports Bars;Gastropubs;American (Traditional);Nightlife;Bars
+98215,GVSc1akbPBLtpYHSAuI_eQ,"""Sweet Tea at the Fountain""",Capitol,"""122 State St""",Madison,WI,53703,43.0748282717,-89.38740290700001,4.5,9,1,Event Planning & Services;Caterers;Soul Food;Southern;Restaurants;Comfort Food
+98224,0zxn5cFZaH3F_0UsiI0SjQ,"""Underground Kitchen""",Capitol,"""127 E Mifflin St""",Madison,WI,53703,43.0768356,-89.3833003,4.0,31,0,American (New);Tapas/Small Plates;Brasseries;Restaurants
+98488,70xPPH9jN7TI9etfueFetA,"""Twist Bar & Grill""",,"""6617 Odana Rd""",Madison,WI,53719,43.0555199905,-89.4958404233,3.5,25,1,American (New);Soup;Lounges;Sandwiches;Bars;Nightlife;Restaurants;Salad
+98515,L772e6l2Yd0DJEyCBxBNng,"""State Street Brats""",Capitol,"""603 State St""",Madison,WI,53703,43.074776,-89.395948,3.0,182,1,Nightlife;Restaurants;American (Traditional);Sports Bars;Bars
+98639,YohEZMYpKrf-3fyPASKLew,"""Texas Roadhouse""",,"""4841 Annamark Dr""",Madison,WI,53704,43.133746,-89.298753,3.0,100,1,Steakhouses;Restaurants;American (Traditional);Barbeque
+98793,ajNgLG4Eev8GQYZeMBPpdA,"""Lulu's 13 Pub""",,"""232 E Towne Mall""",Madison,WI,53704,43.1282826,-89.30427399999999,4.0,14,1,American (Traditional);Nightlife;Restaurants;Bars;Breakfast & Brunch;Pubs;American (New)
+98930,izNAs4Ya2NWKppUgKnQ04w,"""Chutneys Indian Cuisine""",Bluff Acres,"""4738 E Washington Ave""",Madison,WI,53704,43.133141381099996,-89.30257115010001,3.5,9,1,Desserts;Food;Indian;Restaurants;Buffets
+99019,QxqMKO5IZCQUUWIx8nTDJw,"""Colectivo Coffee""",Capitol,"""583 State St""",Madison,WI,53703,43.074866899999996,-89.39563299999999,3.5,39,1,Coffee & Tea;Restaurants;Food;Sandwiches
+99185,CqCWN9aBJf8YNJxyel7psg,"""Glass Nickel Pizza""",,"""5003 University Ave, Ste 170""",Madison,WI,53705,43.0754348,-89.4663781,4.0,77,1,Caterers;Sandwiches;Event Planning & Services;Pizza;Chicken Wings;Food;Restaurants;Food Delivery Services;Italian;Vegetarian
+99360,aVBFKYoF0AHuusNssaQpJA,"""Ian's Pizza""",Capitol,"""100 State St""",Madison,WI,53703,43.0748916557,-89.3869503096,4.0,379,1,Pizza;Italian;Restaurants
+99361,hoqk5SFvERVDJVXUaFLpLQ,"""The Tipsy Cow""",Capitol,"""102 King St""",Madison,WI,53703,43.074727,-89.3815378,4.0,337,1,American (Traditional);Bars;Nightlife;Restaurants
+99698,eYE7zd30ltLAS1V3ssdtrQ,"""Tip Top Tavern""",Eken Park,"""601 N North St""",Madison,WI,53704,43.107164000000004,-89.351047,4.0,90,1,Bars;Nightlife;Pubs;American (New);Restaurants
+99918,LZ_R2OLgZQSQMMzlp8uUOA,"""Dotty Dumpling's Dowry""",Capitol,"""317 N Frances St""",Madison,WI,53703,43.0728191,-89.395561,4.0,433,1,Burgers;Restaurants;Vegan;Pubs;Vegetarian;Bars;Nightlife
+100455,N3uOrQCnx_n_841Q8EwbzQ,"""Mediterranean Hookah Lounge and Cafe""",Capitol View Heights,"""77 Sirloin Strip""",Madison,WI,53713,43.0390133,-89.3865265,4.0,37,1,Nightlife;Mediterranean;Bars;Middle Eastern;Restaurants;Greek;Hookah Bars;Lounges
+101210,oyoMj4yTMybdMRADjFPXiA,"""Athens Gyros""",Dudgeon-Monroe,"""1614 Monroe St""",Madison,WI,53711,43.067141,-89.414181,2.5,7,1,Greek;Restaurants
+101779,HNW4P0jAhXYRJ_op7OcWCw,"""Great China""",,"""619 N Sherman Ave""",Madison,WI,53704,43.1078404,-89.3636179,2.5,24,1,Chinese;Restaurants
+101846,nWP6dgMGmihB7yMsIRmcPg,"""Talula""",,"""802 Atlas Ave""",Madison,WI,53714,43.085614899999996,-89.3095407,3.5,13,0,Restaurants;American (New)
+101920,AlwKuzyrrxlZ04ktebwmcA,"""Pizza Pit""",,"""13 Atlas Ct""",Madison,WI,53714,43.0867933,-89.3068682,2.5,12,1,Event Planning & Services;Shopping;Toy Stores;Restaurants;Party & Event Planning;Chicken Wings;Caterers;Pizza
+101922,kOUnvmGamiw90BfmthoQGg,"""Los Gemelos""",Capitol,"""244 W Gilman St""",Madison,WI,53703,43.075273100000004,-89.3933642,3.5,117,1,Restaurants;Mexican
+101940,yYgeUm-8qXhZiqTrVyQrKg,"""Plaka Taverna""",Capitol,"""410 E Wilson St""",Madison,WI,53774,43.0756543,-89.3772786,4.0,82,1,Greek;Restaurants;Breakfast & Brunch
+102405,5XSmSsHpQI5hvB90URhJtQ,"""Denny's""",Mayfair Park,"""1798 Thierer Rd""",Madison,WI,53704,43.123154988100005,-89.3143174052,2.5,15,1,American (Traditional);Fast Food;Burgers;Diners;Restaurants;Breakfast & Brunch
+102512,RmwfJrR4__hd5Scae5qsTw,"""Michael's Frozen Custard""",Dudgeon-Monroe,"""2531 Monroe St""",Madison,WI,53711,43.0576451,-89.4276059,3.5,71,1,Ice Cream & Frozen Yogurt;Burgers;Food;Desserts;Restaurants
+102682,wj98N3Jc8uZLiEML_J566w,"""Punta Cana""",,"""2705 W  Beltline Hwy""",Madison,WI,53713,43.034577,-89.42356590000001,4.0,4,0,Caribbean;Restaurants
+103041,eZiDoYkp9-OARMpamfljIw,"""Cortadito Express""",Capitol,"""418 E Wilson St""",Madison,WI,53703,43.0757413,-89.3769773,4.0,7,0,Restaurants;Coffee & Tea;Cafes;Cuban;Food
+103131,W4CG8pZC9d9PjysCrzUOug,"""Dandelion Food Cart""",Capitol,"""Library Mall""",Madison,WI,53706,43.075391700000004,-89.3989853,5.0,4,0,Vegan;Restaurants;Food Stands;Vegetarian
+103274,B1xcP1i6-sZR48zjgpwyfg,"""Tiki Shack""",Capitol,"""122 State St""",Madison,WI,53703,43.075044399999996,-89.3873093,3.0,29,0,Restaurants;Mexican;Seafood;Tacos;Nightlife;Bars;Tiki Bars
+103281,Qiyd2ha1pivmsQhnFZgCxQ,"""KFC""",,"""7501 Mineral Point Road""",Madison,WI,53717,43.0604,-89.5126,2.0,8,1,Restaurants;Chicken Wings;Fast Food
+103423,JrNMDwyiOGruhvf4coLn2A,"""Milio's Sandwiches""",,"""5534 E Park Blvd.""",Madison,WI,53718,43.146135799999996,-89.291824,4.0,9,1,Restaurants;Sandwiches;Food
+103848,aRbUf7je5wv5ihTrB4vDhA,"""Inka Heritage""",Greenbush,"""602 S Park St""",Madison,WI,53715,43.0608425,-89.4009947,4.0,157,0,Restaurants;Seafood;Peruvian;Latin American
+103873,utC9M5BetVY6GECRyZeLEw,"""Maharana Indian Restaurant""",,"""1707 Theirer Rd""",Madison,WI,53704,43.1224002,-89.3108083,4.0,84,1,Indian;Seafood;Soup;Restaurants
+104055,ya6BOrPTHYLKo2ectBd1EA,"""Pancake Cafe""",,"""724 S Gammon Rd""",Madison,WI,53719,43.0488379825,-89.5036782352,2.5,45,1,American (Traditional);Sandwiches;Breakfast & Brunch;Restaurants;Diners
+104069,TTVXY5vOJDqC0_Je8UhK8A,"""Chang Jiang Restaurant""",Meadowood,"""5710 Raymond Rd""",Madison,WI,53711,43.0319838,-89.4781127,4.0,30,1,Chinese;Restaurants
+104416,qW3PBsThG4A3bXz4YnPvIw,"""Parkway Family Restaurant""",Burr Oaks,"""1221 Ann St""",Madison,WI,53713,43.0363518,-89.4049488,4.0,39,1,Comfort Food;Restaurants;American (New);Breakfast & Brunch
+104587,krysT2aEJWNoEUYFF7JmkA,"""Jolly Bob's""",Williamson - Marquette,"""1210 Williamson St""",Madison,WI,53703,43.08367,-89.364271,3.5,81,0,Seafood;Restaurants;Caribbean
+104791,svPjZWp4Pa32fwI2gNlxJg,"""Q-Cos""",Elvehjem,"""4426 E Buckeye Rd""",Madison,WI,53716,43.0737228394,-89.30730438229999,3.5,40,1,Restaurants;Mexican
+104944,GnODIDJz09LecpudDoynCg,"""Greenbush Bar""",South Campus,"""914 Regent St""",Madison,WI,53715,43.067873,-89.401811,4.0,145,1,Pizza;Italian;Restaurants
+104947,ibVJ52iBKcheyLNOPGU8jg,"""Culver's""",,"""4301 E Towne Blvd""",Madison,WI,53704,43.125359499999995,-89.3084414,3.0,18,1,Restaurants;Food;Ice Cream & Frozen Yogurt;Fast Food;Burgers
+105371,I0R4EIBhG1_-vKxOKiIbfQ,"""608 Restaurant and Bar""",Capitol,"""212 State St""",Madison,WI,53703,43.0747764,-89.3886148,3.0,24,0,American (Traditional);Nightlife;Bars;Restaurants
+105376,KNIIl9Uhlsbq1aQjO_HL7A,"""DP Dough""",Capitol,"""244 W Gilman St""",Madison,WI,53703,43.075264000000004,-89.393343,4.0,4,0,Pizza;Restaurants
+105500,WnUYubIggifyyDFTm4QHlw,"""Bubbles' Doubles""",South Campus,"""1215 W Dayton St""",Madison,WI,53706,43.0709434125,-89.4061112931,4.5,7,1,Restaurants;Food;Street Vendors;Food Trucks;Caribbean;Trinidadian
+105666,NyGlEmuYcpZSKfk6IwJeSw,"""Tavernakaya""",Capitol,"""27 E Main St""",Madison,WI,53703,43.074343,-89.381956,3.5,132,1,Pubs;Asian Fusion;Chinese;Sushi Bars;Japanese;Restaurants;Nightlife;Taiwanese;Cocktail Bars;Bars
+106153,VLM7exTU8wRmPVxI4uKi1w,"""Players Sports Bar""",Schenk - Atwood,"""2013 Winnebago St""",Madison,WI,53704,43.0924809,-89.3545584,4.5,24,1,Bars;Sandwiches;Breakfast & Brunch;Burgers;Sports Bars;American (Traditional);Nightlife;Restaurants
+106555,JBX0Bd9Va4_MtLPwX9Oosg,"""Capriotti's Sandwich Shop""",Junction Ridge,"""610 Junction Rd, Ste 113""",Madison,WI,53717,43.0734399587,-89.5270110149,3.5,32,0,Sandwiches;Restaurants
+106802,fxiZpl88oIrEU_nyLCKWVw,"""Pollo Inka""",Wexford,"""745 N High Point Rd""",Madison,WI,53717,43.0760778,-89.5184747,3.0,7,0,Restaurants;Peruvian
+107175,uYoSb2rNi77LMQZ-Nn1Epg,"""A La Brasa Mexican Grill""",Capitol,"""15 N Broom St""",Madison,WI,53703,43.0719925103,-89.3895536687,4.0,86,1,Peruvian;Caterers;Caribbean;Latin American;Event Planning & Services;Restaurants;Steakhouses;Mexican
+107211,aq1rdvfvT9_tleKI8OzRaA,"""Five Star Korean BBQ""",Williamson - Marquette,"""605 E Washington Ave""",Madison,WI,53703,43.0785608,-89.37806020000001,3.5,67,1,Restaurants;Korean;Barbeque
+107312,CiNZmBtZRaRSXKjwun4R4A,"""Pizza Di Roma West""",,"""439 Grand Canyon Dr""",Madison,WI,53719,43.058414,-89.495487,4.0,14,1,Restaurants;Pizza
+107696,U7Ag9oPTjWinwcnGH20tcg,"""Topper's Pizza""",South Campus,"""1368 Regent St""",Madison,WI,53715,43.067948,-89.4087549,3.0,26,1,Restaurants;Caterers;Event Planning & Services;Pizza
+108318,k76zkFY6PbIW4T_Riq15pQ,"""Indie Coffee""",Greenbush,"""1225 Regent St""",Madison,WI,53715,43.067526,-89.406553,4.5,93,1,Food;Breakfast & Brunch;Cafes;Restaurants;Coffee & Tea
+108431,v_2mB4t9m8DpIb_aM-qXLA,"""IHOP""",,"""2825 University Ave, Ste 1""",Madison,WI,53705,43.0741404,-89.43742569999999,2.5,29,1,Diners;Creperies;Restaurants;Breakfast & Brunch;American (Traditional);American (New)
+108432,2zx0Pt5OeHhjAZoNRqYTog,"""Fuegos - Steak Tapas Vegan""",Willy St,"""904 Williamson St""",Madison,WI,53703,43.0795862,-89.36958979999999,4.0,96,1,Spanish;Vegan;Vegetarian;Tapas Bars;Steakhouses;Tapas/Small Plates;Restaurants
+108456,l6ChWz5fwhkvuEmThuFl5w,"""Mother Fool's Coffeehouse""",Williamson - Marquette,"""1101 Williamson St""",Madison,WI,53703,43.08192929999999,-89.36579,3.5,74,1,Vegan;Coffee & Tea;Restaurants;Food
+108564,YycuwgvTtOG7HBYW_cwvkg,"""The Bayou""",Capitol,"""117 S Butler St""",Madison,WI,53703,43.07561629999999,-89.37939370000001,3.5,69,0,Restaurants;Cajun/Creole
+108996,dEty4GN0TJIbdIlMioW8cg,"""Jimmy John's""",Faircrest,"""6130 Mineral Point Rd""",Madison,WI,53705,43.0612516,-89.4858653,1.5,16,1,Sandwiches;Food Delivery Services;Restaurants;Delis;Food
+109221,2p5J9bc0acslM4XBNcXAJQ,"""Papa John's Pizza""",Eken Park,"""2604 E Washington Ave""",Madison,WI,53704,43.1008373163,-89.3489094618,3.0,7,1,Restaurants;Pizza
+109416,X5oaz9_MVz-1ng83HuI4ZQ,"""Wisconsin Brewing Tap Haus""",Capitol,"""107 State St""",Madison,WI,53703,43.0747315,-89.3869838,3.0,112,1,Breweries;Bars;American (Traditional);Restaurants;Food;Nightlife;Pubs
+109707,Lrn9Yk5dmLrYJMVvQT_CHw,"""Strada""",Capitol,"""800 Langdon St""",Madison,WI,53703,43.0764792,-89.3998682,3.5,5,1,Sandwiches;Italian;Restaurants;Pizza
+109843,VTJIw7e4s5MSkg4OdNer6w,"""Miko Poke""",Dudgeon-Monroe,"""2701 Monroe St, Ste 250""",Madison,WI,53711,43.0566355,-89.4290631,4.0,155,1,Hawaiian;Restaurants;Food;Poke
+110000,NiYjWteYkFwglnlJEDe2BA,"""Subway""",Rolling Meadows,"""4692 Cottage Grove Rd""",Madison,WI,53716,43.0854011,-89.300348,3.5,3,1,Sandwiches;Restaurants;Fast Food
+110088,Ym7IdoJMPHaAm3JB8mqMYQ,"""Doug's Soul Food Cafe""",,"""1325 Greenway Cross""",Madison,WI,53713,43.031151200000004,-89.405412,3.5,7,0,Restaurants;Soul Food;Southern
+110173,t-LnJne10SHAWATKYdQdJQ,"""HuHot Mongolian Grill""",Junction Ridge,"""610 Junction Rd, Ste 101""",Madison,WI,53717,43.073255200000006,-89.5266699,3.0,117,1,Restaurants;Mongolian;Asian Fusion;Chinese
+110408,ClQhj49lBHLB45btvX4TWA,"""America Latina""",Wexford,"""745 N Highpoint Rd""",Madison,WI,53717,43.076077500000004,-89.5184744,4.5,11,0,Breakfast & Brunch;Restaurants;American (Traditional);Mexican
+110545,skJ-AlN0DT9pmBDz0ixeJw,"""Parthenon Gyros""",Capitol,"""316 State St""",Madison,WI,53703,43.075014,-89.390617,3.5,136,1,Mediterranean;Restaurants;Greek
+110546,5p5YW_5bMOSuLIQjkJPO3w,"""Naples 15""",Capitol,"""15 N Butler St""",Madison,WI,53703,43.077124299999994,-89.3815107,4.0,176,1,Italian;Restaurants
+110818,hpqfvUCTTstmCFoUg7q_pw,"""Antojitos el Toril""",Lake Edge,"""515 Cottage Grove Rd""",Madison,WI,53774,43.083613,-89.3180388,3.5,14,0,Mexican;Restaurants
+111775,vzqzoa-plufwTsQUwW_s6Q,"""Pho Nam Noodle House""",Junction Ridge,"""610 Junction Rd, Ste 109""",Madison,WI,53717,43.073255200000006,-89.5266699,4.0,134,1,Vietnamese;Restaurants;Noodles
+111806,DkVmX5Zzx_lvl-2Zzyz3bQ,"""Milio's Sandwiches""",Elvehjem,"""4601 Cottage Grove Rd""",Madison,WI,53716,43.083863,-89.302594,3.5,3,1,Sandwiches;Restaurants
+111969,_FLNxsJ6T9WLkAdjwCLEqw,"""Espresso Royale Caffe""",Capitol,"""224 State St""",Madison,WI,53703,43.074920399999996,-89.38839449999999,3.5,43,1,Food;Restaurants;Sandwiches;Internet Cafes;Coffee & Tea
+112484,2Y1zM4OuV_eB4KxZO3LxSw,"""Natural Juice""",Capitol,"""Library Mall""",Madison,WI,53703,43.0749197402,-89.3984234118,4.5,11,1,Food Stands;Restaurants;Food;Juice Bars & Smoothies;Street Vendors
+112722,UjmVsSLDD7GQRTcLkJ9mfg,"""AJ Bombers""",Capitol,"""201 W Gorham St""",Madison,WI,53703,43.075138,-89.39081,3.5,87,0,Venues & Event Spaces;Event Planning & Services;Burgers;American (Traditional);Restaurants
+113050,UuezOzEBemKWDOrZFjM1BA,"""Ten Pin Alley""",,"""6285 Nesbitt Rd""",Madison,WI,53719,43.007986100000004,-89.4814225,3.5,23,1,Recreation Centers;Venues & Event Spaces;Party & Event Planning;Nightlife;Restaurants;Bars;Event Planning & Services;Bowling;Active Life;Pool Halls
+113053,UAGZsl9ul16iDHmFNDLj4A,"""Slice's Bar & Grill""",Emerson East,"""2417 Pennsylvania Ave""",Madison,WI,53704,43.104434000000005,-89.357979,3.5,13,1,Dive Bars;Bars;American (Traditional);Restaurants;Nightlife
+113147,-rLP6lfoQmOO_5Pf2bTkqg,"""Lazy Jane's""",Williamson - Marquette,"""1358 Williamson St""",Madison,WI,53703,43.0853652,-89.36170959999998,4.0,247,1,Bakeries;Food;Breakfast & Brunch;Cafes;Restaurants;Soup
+113828,h8k9AFDqj7fJGjRUZkJkYw,"""Fit 2 Eat""",,"""3742 Speedway Rd""",Madison,WI,53705,43.0610873,-89.43848740000001,4.0,9,1,American (New);Restaurants;Sandwiches
+113837,h7hgUiuQ9vSczhKdV5YgGw,"""Buckingham's Bar & Grill""",Capitol,"""802 Regent St""",Madison,WI,53715,43.0678133,-89.3994368,3.0,18,1,Sports Bars;Nightlife;American (Traditional);Restaurants;Bars
+113854,UFyzcr1y2r3y-e_tNpA9VA,"""Smoky Jon's No 1 B-B-Q""",Sherman,"""2310 Packers Ave""",Madison,WI,53704,43.123698,-89.355581,4.0,197,1,Fast Food;Barbeque;Restaurants
+113920,n5BPR_prEPB4B3lxUpoX4g,"""Papa John's Pizza""",Capitol,"""515 University Ave""",Madison,WI,53703,43.072826,-89.394966,3.0,18,1,Pizza;Restaurants
+114248,NVIaU1w3e8KSeaGihSWicg,"""Village Bar""",Westmorland,"""3801 Mineral Point Rd""",Madison,WI,53705,43.0605745,-89.4389134,4.0,42,1,Restaurants;Bars;Pubs;Nightlife;Burgers;American (Traditional)
+114561,O6bQ22yfG5Q3BAL8pWuaSw,"""Tex Tubb's Taco Palace""",Regent,"""2701 University Ave""",Madison,WI,53705,43.0730116,-89.4341454,3.0,28,0,Mexican;Restaurants;Tex-Mex
+114574,W__CejafuHBISqg1LkwLHA,"""Brocach""",Vilas,"""1843 Monroe St""",Madison,WI,53711,43.0647939,-89.416839,3.5,89,1,Breakfast & Brunch;Salad;Irish;Restaurants
+114805,Nc0xqiAmS2OTxPrlvQrJ4A,"""Kipp's Down Home Cookin'""",Dudgeon-Monroe,"""1614 Monroe Street""",Madison,WI,53711,43.0671551,-89.4141924,3.5,7,0,Soul Food;Southern;American (Traditional);Restaurants
+115088,i7NqPkLgLEBApeoBsPNvyA,"""Nonno's Ristorante Italiano""",,"""704 S Whitney Way""",Madison,WI,53711,43.049547100000005,-89.47407709999999,4.0,87,1,Restaurants;Italian
+115102,wNdTKpis6nxehbaZP0XwJg,"""Everly""",Dudgeon-Monroe,"""2701 Monroe St, Ste 270""",Madison,WI,53711,43.0566355,-89.4290631,4.0,123,1,Restaurants;Nightlife;Vegetarian;Bars;American (New);Sandwiches;Breakfast & Brunch
+115232,R8L9VLO5jHfzPA5rHiujIA,"""Culver's""",Elvehjem,"""4401 Cottage Grove Rd""",Madison,WI,53716,43.0837436,-89.30780870000001,3.5,15,1,Ice Cream & Frozen Yogurt;Fast Food;Restaurants;Food;Burgers
+115328,O75Lh99ZO6HCIqVVR-p9wg,"""Red""",Capitol,"""106 King St""",Madison,WI,53703,43.072396000000005,-89.387893,4.0,231,0,Vegan;Lounges;Nightlife;Japanese;Bars;Restaurants;Sushi Bars
+115747,aWYWNfHuQJyRwDHaHq8X1w,"""Tex Tubb's Taco Palace""",Schenk - Atwood,"""2009 Atwood Ave""",Madison,WI,53704,43.092097700000004,-89.3547317,4.0,300,1,Restaurants;Tex-Mex;Mexican
+115784,KKaImMG2aKPmLpjsdaytwQ,"""New Gyro House""",Eken Park,"""2702 E Washington Ave""",Madison,WI,53704,43.102270000000004,-89.347327,3.0,16,0,Greek;Mediterranean;American (Traditional);Restaurants
+115933,x7WmDyWVYUy4sPfT69nk5w,"""Wando's""",Capitol,"""602 University Ave""",Madison,WI,53715,43.0734189,-89.3959172,3.0,57,1,Fish & Chips;American (Traditional);Nightlife;Restaurants;Bars
+116263,6AwirUhnpzMZynePZbrdBQ,"""Delaney's Steak Seafood Wine""",,"""449 Grand Canyon Dr""",Madison,WI,53719,43.057938,-89.495496,3.5,62,1,Seafood;Steakhouses;Salad;Restaurants
+116874,itthpAROLKuP8oks3AaycA,"""Teddywedgers""",Capitol,"""101 State St""",Madison,WI,53703,43.0746378454,-89.38679604030001,4.0,23,1,Cafes;Restaurants;Food;Vegan;British;Bakeries;Vegetarian;Breakfast & Brunch;Fast Food
+117215,eZW0M_4K_139Ii6i1YLh0A,"""Porky Pine Pete's SmokeHouse BBQ""",,"""7475 Mineral Point Rd, Ste 23""",Madison,WI,53717,43.058782,-89.51255400000001,4.0,9,0,Barbeque;Restaurants
+117348,JDwEvZq0KCSwgEds3LxgMA,"""Olive Garden Italian Restaurant""",,"""4320 E Towne Blvd""",Madison,WI,53704,43.1263218,-89.3093442,3.0,43,1,Wine Bars;Restaurants;Nightlife;Italian;Salad;Bars
+117469,sPd3E7lFzd_yooiq-ekxtQ,"""Pedro's Mexican Restaurante""",Hawthorne,"""3555 E Washington Ave""",Madison,WI,53704,43.114641999999996,-89.325544,2.5,90,1,Restaurants;Mexican;Nightlife;Bars;Tex-Mex
+117667,TdBC5PlJleNyfABjsPt00w,"""Common Pasta""",Capitol,"""200 Martin Luther King Jr Blvd""",Madison,WI,53518,43.073600052799996,-89.38288304950001,4.5,7,1,Food;Restaurants;Street Vendors;Italian
+117762,VSu7GYn-Zln5TLZh_fMtvQ,"""La Bamba""",,"""710 S Gammon Rd""",Madison,WI,53719,43.0496415,-89.50324379999999,3.0,54,1,Restaurants;Mexican
+117883,UyTYTtyZWym-7u84XMgSOQ,"""Tienda Los Gemelos""",,"""6713 Odana Rd, Ste 8""",Madison,WI,53719,43.055999,-89.4977688,4.5,121,1,Grocery;Restaurants;Food;Mexican
+117935,Xu6mEU7IbKlWic1ETgUOeA,"""Nadia's Restaurant & Grapevine Lounge""",Capitol,"""508 State St""",Madison,WI,53703,43.075183200000005,-89.39363459999998,3.0,10,0,French;Restaurants
+117976,ISE6RcXsgPO1MgxypROEYg,"""Northside Family Restaurant""",Sherman,"""1201 N Sherman Ave""",Madison,WI,53704,43.1128465,-89.3637702,3.0,9,0,American (Traditional);Restaurants;Breakfast & Brunch
+118136,37_fNrTNrqYGJnwdqtXQ9w,"""Sliced Deli""",,"""601 South Gammon Rd""",Madison,WI,53719,43.0520845,-89.50251690000002,4.0,38,1,Restaurants;Delis
+118155,Xrqd7hdpa5HYWdIegacTpw,"""The Admiralty""",Capitol,"""The Edgewater, 666 Wisconsin Ave""",Madison,WI,53703,43.079273,-89.39021,4.0,3,0,Restaurants;French
+118253,5iVy1KRxAHo6ZG6U9B6DLg,"""Callahan's Sports Pub""",Westchester Gardens,"""1902 Bartillon Dr""",Madison,WI,53704,43.124427000000004,-89.32441899999999,3.0,23,1,Bars;American (Traditional);Nightlife;Restaurants;Sports Bars;Active Life;Sports Clubs
+118307,HeN_Ru6w-T-oJn6T_N1vfQ,"""The Coliseum Bar & Banquet""",,"""232 E Olin Ave""",Madison,WI,53713,43.0520231,-89.379364,3.0,44,1,Bars;American (Traditional);Sports Bars;Nightlife;Restaurants;Diners
+118419,4Pn83EWDr16n6kU1O6u42g,"""Cousins Subs""",,"""8430 Old Sauk Rd""",Madison,WI,53562,43.0798741425,-89.563016,3.0,7,1,Sandwiches;Restaurants;Delis
+118643,dK7sFWvfEQ0Anuz7ch4t8A,"""Pizza Bella""",Vilas,"""1437 Regent St""",Madison,WI,53711,43.0676374,-89.41054179999999,1.5,6,1,Restaurants;Pizza
+118670,PPMBRhovY0dNHCHFzk7pAw,"""The Egg & I""",,"""2501 W Beltline Hwy, Ste 111""",Madison,WI,53713,43.0344735,-89.4209198,3.0,94,1,Breakfast & Brunch;Cafes;Restaurants;American (Traditional);American (New)
+119237,kM0RJz-fyNaGk_EH765RKA,"""KFC""",Eken Park,"""2958 E. Washington Avenue""",Madison,WI,53704,43.1036,-89.3438,1.0,3,1,Restaurants;Chicken Wings;Fast Food
+119955,z9DkYC3QDQ-Bln94sYGdsA,"""Great Harvest Bread""",,"""3258 University Ave""",Madison,WI,53705,43.075277,-89.4430321,4.5,26,0,Bakeries;Food;Coffee & Tea;Restaurants;Cafes;Sandwiches
+120046,hNuDWMtu56NLz4L1Ghm0aA,"""Baldwin Street Grille""",Tenney - Lapham,"""1304 E Washington Ave""",Madison,WI,53703,43.087618799999994,-89.366334,4.0,59,1,Restaurants;American (New);Nightlife;American (Traditional);Bars;Burgers
+120240,Nn5gon8s64jVOZA-2ZkLcA,"""TGI Fridays""",,"""2502 E Springs Dr""",Madison,WI,53704,43.131344,-89.2985024,3.0,26,1,Bars;American (Traditional);Restaurants;Nightlife;Sports Bars
+120330,X0UQortyd6N6zFBVisY_gw,"""Feiler's""",,"""4506 Verona Rd""",Madison,WI,53711,43.036741,-89.45473299999999,4.0,10,0,American (New);Pubs;Nightlife;Supper Clubs;Seafood;Steakhouses;Restaurants;American (Traditional);Fish & Chips;Bars
+120404,qaa9M_pUfOv0BPRcnulk4g,"""Buraka Restaurant""",Williamson - Marquette,"""1210 Williamson St""",Madison,WI,53703,43.0836473,-89.3642491,3.5,52,1,Vegetarian;Restaurants;Ethiopian;Vegan;Latin American
+120642,LDxapKCuUbH-G24O4vjD7g,"""Falbo Bros. Pizzeria""",Greenbush,"""406 South Park St""",Madison,WI,53715,43.0629329,-89.40108149999999,3.0,55,1,Restaurants;Pizza
+120960,rn2uglsCXkHq5eWppZkjGQ,"""University Square Food Court""",Capitol,"""777 University Ave""",Madison,WI,53706,43.0729281,-89.398648,1.5,4,0,Food Court;Restaurants;Food
+121138,6A9paRG2PVEfgGMXBrYdZA,"""Union South""",South Campus,"""1308 W Dayton St""",Madison,WI,53715,43.071687534,-89.40787564290001,4.0,21,1,Cinema;Restaurants;Nightlife;Music Venues;Arts & Entertainment;Food Court;Food Stands
+121447,RG2IGb4LwbxUwCW3iooYDA,"""Otto's Restaurant & Bar""",,"""6405 Mineral Point Rd""",Madison,WI,53705,43.0600543,-89.49067240000001,4.0,76,1,Bars;Seafood;Nightlife;Restaurants;Mediterranean;Steakhouses
+121521,5paKcA2AAguJgZYBkr-I7A,"""Cargo Coffee East""",Tenney - Lapham,"""750 E Washington""",Madison,WI,53704,43.0806001659,-89.37608450319999,4.0,51,1,Food;Restaurants;Coffee & Tea;Beer;Wine & Spirits;Sandwiches
+121527,ERXnerHflh86VOYKAopLMw,"""Thai Basil""",,"""6714 Raymond Rd""",Madison,WI,53719,43.0322241,-89.4979918,4.0,84,1,Thai;Restaurants
+122060,Do_mgaoCgrQodPrq4nxRbw,"""New Seoul Korean""",Wexford,"""721 N High Point Rd""",Madison,WI,53717,43.0755809,-89.51857700000001,4.0,56,1,Korean;Restaurants
+122148,3uFye5VlDqtBU5_TzSulyA,"""Viet House""",Starkweather - Yahar,"""2817 E Washington Ave""",Madison,WI,53704,43.10288679999999,-89.3447941,3.5,18,0,Vietnamese;Restaurants
+122656,wPRMHVXKndQZj2Or2mCz8A,"""Harmony Bar & Grill""",Schenk - Atwood,"""2201 Atwood Ave""",Madison,WI,53704,43.093003,-89.349182,4.0,55,1,Arts & Entertainment;Nightlife;Dive Bars;Bars;American (Traditional);Music Venues;Restaurants
+122666,VgGO13Fx7dQj4zg3IuVDLw,"""Blue Moon Bar & Grill""",Regent,"""2535 University Ave""",Madison,WI,53705,43.072145299999995,-89.4296808,4.0,85,1,Burgers;Pool Halls;Nightlife;Bars;Barbeque;Sports Bars;Restaurants;Beer Bar;American (Traditional)
+122749,gT-BU_GVKDsYAFSxkbZm_g,"""Bon Appetit Cafe""",Willy St,"""805 Williamson St""",Madison,WI,53703,43.0782462,-89.3710925,3.0,19,0,Restaurants;Cafes;American (New)
+122993,uoV4aDfXbRmvyHSezdn--w,"""Tai's Asian Bistro""",,"""638 S Whitney Way""",Madison,WI,53719,43.051829081,-89.47570219049999,3.5,74,1,Restaurants;Asian Fusion;Chinese
+123011,7kpF2ohwt0PPi-cK69R1_g,"""Smiley's II""",Bay Creek,"""1272 S Park St""",Madison,WI,53715,43.053036543400005,-89.39616974299999,2.5,3,0,Latin American;Restaurants
+123043,rdXAuI2fKilcf65W-QoASQ,"""Sa-Bai Thong Thai Cuisine""",,"""6802 Odana Rd""",Madison,WI,53719,43.057231099999996,-89.5000386,3.5,104,1,Vegetarian;Thai;Restaurants
+123506,g6aWPjcKukfK1-Po70Lhyw,"""Wonder Bar Steakhouse""",,"""222 E Olin Ave""",Madison,WI,53713,43.05216,-89.379187,4.0,102,1,Bars;Steakhouses;Nightlife;Pubs;Restaurants
+123556,Js2cFsdDiLR5yQsfCGFdZg,"""Oysy""",Norman Acres,"""4126 E Washington Ave""",Madison,WI,53704,43.125802,-89.312721,4.0,13,0,Japanese;Restaurants
+123694,V_2YX2rW_l5N3UwwifokCQ,"""Olive Garden Italian Restaurant""",,"""7017 Mineral Point Rd""",Madison,WI,53717,43.0602878766,-89.5044983736,3.0,51,1,Restaurants;Italian;Nightlife;Salad;Wine Bars;Bars
+124067,WwQ0sr3wDk2jCMre_3mS7A,"""Big Red's Steaks""",Capitol,"""610 University Ave""",Madison,WI,53175,43.073336100000006,-89.396349,4.0,16,0,Restaurants;Steakhouses
+124266,k1mNR7eIi-UWVmj_t23Yog,"""Sujeo""",Tenney - Lapham,"""10 N Livingston St""",Madison,WI,53703,43.0811127632,-89.3756995386,3.5,184,1,Noodles;Restaurants;Asian Fusion;Korean
+124570,dV6AHcexEq-3joH6j-C17g,"""Kerol's Kitchen""",Tenney - Lapham,"""""",Madison,WI,53703,43.0833196,-89.37247690000001,5.0,4,0,Malaysian;Restaurants;Local Flavor;American (New)
+124641,eQL6UKYvkWERh21rF0Blnw,"""Moe's Tavern & Grill""",Capitol,"""118 State St""",Madison,WI,53703,43.0747406,-89.38657959999999,2.5,9,0,Burgers;Restaurants;American (Traditional)
+124877,xI8GXDAdJcPX5dIP0acBvw,"""Bassett Street Brunch Club""",Capitol,"""444 W Johnson St""",Madison,WI,53703,43.072731,-89.393353,4.0,421,1,Restaurants;Breakfast & Brunch;Donuts;Food;American (Traditional)
+125258,oS-xaHI0FLjfEzHuuL4GKw,"""Rocky Rococo Pan Style Pizza - Monona""",Lake Edge,"""4556 Monona Dr""",Madison,WI,53716,43.070376200000005,-89.3253853,2.5,6,1,Italian;Pizza;Restaurants
+125670,flCF_Vp9NOpTVeGv673nSg,"""Sprecher's Restaurant and Pub""",,"""1262 John Q Hammons Rd""",Madison,WI,53717,43.086456555299996,-89.5249041143,3.0,157,1,Bars;Pubs;Restaurants;American (Traditional);American (New);Nightlife
+125885,cCBySJPR4i7WFfEt8gjArg,"""Bahn Thai Restaurant""",Williamson - Marquette,"""944 Williamson St""",Madison,WI,53703,43.0806833,-89.3684867,4.0,61,1,Restaurants;Thai
+126553,I3S2BseRUaSHuTSsYivMlw,"""La Taguara Johnson""",Tenney - Lapham,"""827 E Johnson S""",Madison,WI,53703,43.083754799999994,-89.3769209,4.5,26,1,Caribbean;Restaurants;Brazilian;Latin American;Venezuelan;Colombian;Cuban
+126689,gVTna38clthQRSd9doGYjg,"""Rev. Jim's Roadhouse""",,"""6402 Millpond Rd""",Madison,WI,53718,43.0446999,-89.2681911,2.5,6,1,Nightlife;Bars;Restaurants;American (Traditional);Sports Bars
+126694,ZliwQrjUnAosBLM8W_bsGQ,"""Grampa's Pizzeria""",Williamson - Marquette,"""1374 Willamson St""",Madison,WI,53703,43.085615999999995,-89.361521,4.5,212,1,Nightlife;Food;Pizza;Restaurants;Bars
+126722,TQqhfjlPVEz41K_wAogQSQ,"""Luigi's""",Westmorland,"""515 S Midvale Blvd""",Madison,WI,53711,43.054851899999996,-89.450401,3.5,96,1,Restaurants;Italian;Pizza
+127059,O2OD-ojkZXsSbFyzpuvtIA,"""Ladonia Cafe""",Capitol,"""Mifflin And Pinckney""",Madison,WI,53703,43.076285693500004,-89.38398811969999,5.0,15,1,Vegetarian;Food Stands;Restaurants;Vegan;Food;Cafes;Food Trucks
+127374,sPtBFklthW_Eq-SAAp068w,"""Zizo Cafe""",Tenney - Lapham,"""1101 Sherman Ave""",Madison,WI,53704,43.088836,-89.374657,4.0,3,0,Fast Food;Mediterranean;Restaurants;Cafes;Food
+127582,lYbyy6TTmpk_mlYuYAWkDg,"""Ground Zero""",Williamson - Marquette,"""744 Williamson St""",Madison,WI,53703,43.07827,-89.372077,4.0,58,1,Food;Sandwiches;Restaurants;Cafes;Coffee & Tea
+127628,OQKDN1QxWQvUuambyNHGbA,"""Zam Zam Catering & Mobile Cuisine""",South Campus,"""1215 W Dayton St""",Madison,WI,53715,43.0710301,-89.4064136,3.5,3,1,Restaurants;Food Trucks;Afghan;Food
+128294,XxnQKE9jTD0bTE3LZ5NOtQ,"""Alchemy""",Schenk - Atwood,"""1980 Atwood Ave""",Madison,WI,53704,43.0924336,-89.3553898,4.0,275,1,American (New);Restaurants;Burgers
+128395,HY123qqsjVwmurS7hcCSkw,"""RP Adler's""",,"""8202 Watts Rd""",Madison,WI,53719,43.0553398,-89.5235111,3.5,71,1,American (New);Restaurants
+128676,49JTxfrT4BnROuk9_RIW6w,"""KFC""",,"""4802 Annamark Drive""",Madison,WI,53704,43.1314,-89.2999,1.5,11,1,Fast Food;Restaurants;Chicken Wings
+128762,AtkoIv3EEqLivpg95PzP1A,"""Blair Street BBQ & Catering""",Williamson - Marquette,"""605 E Washington Ave""",Madison,WI,53703,43.078469,-89.378072,3.0,34,0,Barbeque;Restaurants
+128884,yfvldEvsIfzcvWqmU8un3w,"""Heritage Bakery & Cafe""",Rolling Meadows,"""4674 Cottage Grove Rd""",Madison,WI,53716,43.0843503,-89.2998239,3.5,11,0,Restaurants;Bakeries;Cafes;Food
+129289,lv_ngvbgwcP5pd2hauMOTw,"""Tony Frank's Tavern""",,"""1612 Seminole Hwy""",Madison,WI,53711,43.0354313,-89.444136,3.5,31,0,American (New);Pubs;Bars;Nightlife;Restaurants
+129453,7q7qaGPUUCqMljdIGwzvFQ,"""Pat O'Malley's Jet Room""",,"""3606 Corben Ct""",Madison,WI,53704,43.139993,-89.32652850000001,4.5,99,1,American (Traditional);Restaurants;Diners;Breakfast & Brunch
+130357,G_DzKLA15CTjq5cOkBp0pw,"""Pizza Hut""",,"""2649 E Springs Dr""",Madison,WI,53704,43.1315903,-89.3019937,2.0,10,1,Restaurants;Pizza;Chicken Wings;Italian
+130530,9BeOKr8DGzDEmdoe-FzQbg,"""Kennedy Manor Dining Room & Bar""",Capitol,"""1 Langdon St, Ste 103""",Madison,WI,53703,43.078359999999996,-89.3897099,4.0,11,0,Restaurants;American (New)
+130622,ues2rFe_hbRC7s232PX5QA,"""Brocach""",Capitol,"""7 W Main St""",Madison,WI,53703,43.073467746300004,-89.3833705601,3.5,232,1,Nightlife;Pubs;Bars;Irish;Restaurants
+130839,HG2lE2sToF7IdPbl0hz34g,"""Poppa Coronofoulos Gyros & Chicago Style Deli""",Elvehjem,"""4426 E Buckeye Rd""",Madison,WI,53716,43.073723,-89.307305,3.5,4,0,Hot Dogs;Restaurants
+130873,nFWrKmBJvzbHZT090D-Mtg,"""Sukhothai Restaurant""",Vilas,"""1439 Regent St""",Madison,WI,53711,43.0676088,-89.4106872,4.0,3,0,Thai;Restaurants
+131116,XzMOmLWmCClAgJMgCi9YRQ,"""Heartland Grill""",,"""706 John Nolen Dr""",Madison,WI,53713,43.0474951,-89.3732083,2.5,11,1,Comfort Food;Restaurants;American (Traditional)
+131578,JmlSv3iBz3nBEXy5r1yhtg,"""Saigon Sandwich Madison""",South Campus,"""273 N Charter St""",Madison,WI,53715,43.0720549822,-89.4056580216,4.5,24,1,Sandwiches;Restaurants;Food;Food Trucks
+131744,YSUPAkyni4qpcHfrMOAEww,"""Java Cat""",Lake Edge,"""3918 Monona Dr""",Madison,WI,53716,43.083081400000005,-89.3244312,4.0,69,1,Bakeries;Ice Cream & Frozen Yogurt;Coffee & Tea;Cafes;Restaurants;Gelato;Food
+131774,O615O_US381DcvkxwuEz7A,"""Barriques""",Bay Creek,"""961 S Park St""",Madison,WI,53715,43.0568058641,-89.3984472037,4.0,53,1,Food;Coffee & Tea;Restaurants;Cafes
+132097,rZRxuGOxTaf11VcsMviQwQ,"""Rocky Rococo Pan Style Pizza - Campus/Downtown""",Greenbush,"""1301 Regent St""",Madison,WI,53715,43.0674068,-89.4075766,3.0,21,1,Restaurants;Chicken Wings;Italian;Pizza
+132303,NKx2a3_PQ9c7Ts_A6JxKWQ,"""Buffalo Wild Wings""",Capitol,"""789 University Avenue""",Madison,WI,53715,43.0731239429,-89.3984287977,2.5,43,1,Chicken Wings;Bars;American (Traditional);Sports Bars;Nightlife;Restaurants
+132426,UidScb9HFDSD3NBw8MLuGw,"""Pasqual's Cantina""",,"""670 N Midvale Blvd""",Madison,WI,53705,43.0735464,-89.45128290000001,2.5,133,1,Tex-Mex;Restaurants;Mexican;Nightlife;Bars
+132515,tMfGHhwGZDXuWZQHd1a0OQ,"""King of Falafel & Grill""",Bay Creek,"""1129 S Park St""",Madison,WI,53715,43.054314,-89.396224,3.5,19,1,Street Vendors;Mediterranean;Restaurants;Middle Eastern;Falafel;Food Trucks;Food
+132645,dk5D2jHEK7IoXEFf6zvQfg,"""Cousins Subs""",South Campus,"""1221 W Johnson St""",Madison,WI,53715,43.0720713,-89.40698459999999,4.0,5,0,Restaurants;Sandwiches
+132844,ZoZWONMz3tzxRLOSQEJosQ,"""Prairie Fire""",South Campus,"""1308 W Dayton St, Fl 1, Union S""",Madison,WI,53715,43.071765299999996,-89.4081342,2.5,9,1,Wine Bars;Beer Bar;Food;Nightlife;Delis;Restaurants;Coffee & Tea;Bars
+133022,VfWX3UCKvUnVktdOuR8TwA,"""DumplingHaus""",,"""540 N Midvale Blvd""",Madison,WI,53705,43.071461,-89.452308,4.0,217,1,Chinese;Dim Sum;Vegan;Restaurants;Vegetarian
+133665,kDu6EvknXAygJf1KSfwhUA,"""Bella Vita Italian Grille & Pizzeria""",,"""420 Gammon Pl""",Madison,WI,53719,43.0594911,-89.5013593,3.0,16,0,Bars;Nightlife;Pizza;Italian;Lounges;Restaurants
+134289,qv1GkpAHu6FszLnWt-kojQ,"""MacTaggarts Market""",Capitol,"""230 W Lakelawn Pl""",Madison,WI,53703,43.076974,-89.3943453,4.0,8,1,Grocery;Delis;Food;Restaurants
+134351,xzGUXMDKa2xw_TJ2n4WrNw,"""Lazy Oaf Lounge""",Westchester Gardens,"""1617 N Stoughton Rd""",Madison,WI,53704,43.1199523754,-89.3243771568,3.0,43,1,Sports Bars;American (Traditional);Nightlife;Bars;Restaurants
+134707,cugTYtxVL2Q6Kkd8w4xMNw,"""Uno Pizzeria & Grill""",,"""7601 Mineral Point Rd.""",Madison,WI,53717,43.0601823,-89.51387530000001,3.0,29,0,Pizza;Gluten-Free;American (Traditional);Restaurants
+134827,4qiD9hcUiY4AfCBBqpMYeQ,"""Taqueria El Jalapeño""",Summit Woods,"""1318 S Midvale Blvd""",Madison,WI,53711,43.038073,-89.45201999999999,4.0,77,1,Restaurants;Mexican
+135056,zjwdU1OdlbKTGjm-IfD4TQ,"""Essen Haus""",Capitol,"""514 E Wilson St""",Madison,WI,53703,43.0762215,-89.3765301,3.5,184,1,Arts & Entertainment;German;Bars;Nightlife;Music Venues;Restaurants
+135367,cf0LXwdYZ_9y0BVK-un9ow,"""Francisco's Mexican Cantina""",Capitol,"""121 E Main St""",Madison,WI,53703,43.075100461999995,-89.38106947819999,3.5,79,1,Mexican;Restaurants
+135375,OGg60MuC7fTlPaepWqB4bg,"""Wings Over Madison""",Regent,"""2739 University Ave""",Madison,WI,53705,43.0737170375,-89.4354120167,3.5,79,1,American (Traditional);Restaurants;Barbeque;Chicken Wings
+135442,2-su3xdxOvyF0_2GZN4FLw,"""Short Stack Eatery""",Capitol,"""301 W Johnson St""",Madison,WI,53703,43.0745169946,-89.3899215013,4.0,320,1,Breakfast & Brunch;Restaurants
+135485,QH2wRpTM0rtEJWgiPWhzqw,"""Fyfe's Corner Bistro""",Tenney - Lapham,"""1344 E Washington Ave""",Madison,WI,53703,43.08814,-89.3652468,4.0,3,0,Steakhouses;Restaurants
+135494,k9RUMKASTB6QZ-NkfnN8Fg,"""Eno Vino Wine Bar & Bistro""",Capitol,"""1 N Webster St, Fl 10""",Madison,WI,53703,43.076451736,-89.38231442120001,4.0,76,1,Cocktail Bars;Bars;Seafood;Nightlife;Wine Bars;Restaurants
+135495,gv47gtyCkw_8OyexHrqdDA,"""Rare Steakhouse""",Capitol,"""14 W Mifflin St""",Madison,WI,53703,43.0752003,-89.3858351,4.0,173,1,Steakhouses;Restaurants
+135589,S3-JpB5dBhMXmauMqeoN-g,"""Taqueria Guadalajara""",Bay Creek,"""1033 S Park St""",Madison,WI,53715,43.055569,-89.3974165,4.0,330,1,Restaurants;Mexican
+135630,VozM1JCr5ymSambcvx0TAg,"""Lulu's Deli and Restaurant""",Regent,"""2524 University Ave""",Madison,WI,53774,43.072576,-89.42971999999999,4.0,7,0,Mediterranean;Restaurants;Vegetarian;Middle Eastern;Greek;Moroccan
+135661,gtHH0BgHFSXc-Z1seIWJ1g,"""Dairy Queen""",Oakbridge Community,"""7860 Mineral Point Rd""",Madison,WI,53717,43.061257299999994,-89.5190801,3.5,6,1,Food;Ice Cream & Frozen Yogurt;Fast Food;Restaurants
+135738,z_2Kc8bPWv0cGEO_jZzxWw,"""Sarku Japan""",,"""111 W Towne Mall""",Madison,WI,53719,43.05822379999999,-89.5047483,4.0,15,1,Japanese;Restaurants
+135816,O-GefJqucTHDIYJSxVhEyA,"""Gotham Bagels""",Greenbush,"""702 S Park St""",Madison,WI,53715,43.059841600000006,-89.4008555,4.0,10,0,Restaurants;Sandwiches;Bagels;Food
+136103,ceuvH6NpDhpT1p4q1w93pA,"""Orient House""",Greenbush,"""626 S Park St""",Madison,WI,53715,43.060334000000005,-89.40119399999999,3.5,111,1,Restaurants;Chinese
+136131,RDQ_812x82H72J7C6jG36Q,"""La Taguara""",Hawthorne,"""3502 E Washington Ave""",Madison,WI,53704,43.114679200000005,-89.3285605,4.5,248,1,Colombian;Venezuelan;Caribbean;Restaurants;Latin American
+136142,KfaeDC-oPE6GTfBvdF9x7Q,"""Colectivo Coffee""",Capitol,"""25 S Pinckney St""",Madison,WI,53703,43.0748451949,-89.38183472290001,4.0,140,1,Restaurants;Coffee & Tea;Breakfast & Brunch;Cafes;Food;Bakeries
+136166,NYxVVeeI-zz2qjPKk6FCwg,"""Cracker Barrel Old Country Store""",,"""2147 E Springs Dr""",Madison,WI,53704,43.129596500000005,-89.29342829999999,3.0,45,1,Breakfast & Brunch;Restaurants;Southern;American (Traditional)
+136661,FQMGUdB4R-nCgQ9luiyinQ,"""Angkor Wat""",Greenbush,"""602 S Park St""",Madison,WI,53715,43.060775,-89.40113000000001,3.0,13,0,Thai;Cambodian;Restaurants;Vegetarian;Asian Fusion
+136697,zEGAtxktaC-r5IvvZVgjoA,"""The Bar""",Capitol,"""1 W Dayton St""",Madison,WI,53703,43.075612899999996,-89.3865836,4.5,5,1,Event Planning & Services;Bars;Hotels & Travel;Restaurants;Nightlife;Lounges;American (Traditional);Hotels;Venues & Event Spaces
+136883,Lvg2y48cv7xFUJBqoUXmvw,"""Happy Grill Mexican Restaurant""",Eken Park,"""2810 E Washington Ave, Ste A""",Madison,WI,53704,43.102869,-89.3457212,3.0,17,0,Restaurants;Mexican
+136996,uqnFLc-1MxWw5f4SIyEf4Q,"""Surco Peruvian Cuisine""",Lake Edge,"""515 Cottage Grove Rd""",Madison,WI,53716,43.08356,-89.317665,4.0,27,0,Peruvian;Restaurants
+137106,fH-udnxBjJ0ldqMeaMAoSw,"""The Wise""",Vilas,"""1501 Monroe St""",Madison,WI,53711,43.067586999999996,-89.41251,3.0,36,1,Brasseries;Tapas/Small Plates;Spanish;Breakfast & Brunch;Gastropubs;Restaurants
+137217,-9yG5SmYxH8BLg4bML8VQg,"""A-OK Coffee""",Williamson - Marquette,"""829 E Washington Ave""",Madison,WI,53703,43.0813116042,-89.3744033214,4.0,39,0,Restaurants;Coffee & Tea;Diners;Breakfast & Brunch;Food
+137571,NsDydu5clpNkiTahn3wQ2g,"""Joey's Seafood & Grill""",,"""6602 Mineral Point Rd""",Madison,WI,53705,43.061398,-89.495884,3.5,43,0,Food;Restaurants;Beer;Wine & Spirits;Seafood
+137596,R6QCy5sVlySKgqvHb-HhTg,"""Jacs Dining and Tap House""",Dudgeon-Monroe,"""2611 Monroe St""",Madison,WI,53711,43.0574842,-89.42806170000001,4.0,197,1,American (New);Restaurants;Gluten-Free;Modern European
+137695,wvCU61bSTtO8Cj7dhyrfMw,"""Freshii""",,"""422 Gammon Pl""",Madison,WI,53719,43.059548873100006,-89.502216687,3.5,92,1,Juice Bars & Smoothies;Restaurants;Food;Salad;Vegetarian
+137699,p43Do6Lc9zdUMBFIVT3c0Q,"""Harvest Grains""",South Campus,"""1308 W Dayton St""",Madison,WI,53715,43.071765299999996,-89.4081342,3.0,5,1,Restaurants;Sandwiches;Delis
+137823,t1w-AqAHPL-apnKtoboodQ,"""The Froth House""",Regent,"""11 N Allen St""",Madison,WI,53726,43.06826160000001,-89.4235595,4.0,25,0,Food;Nightlife;Restaurants;Sandwiches;Music Venues;Juice Bars & Smoothies;Arts & Entertainment;Coffee & Tea
+138238,LYpujMCxfrHcSO_NA1BRQg,"""Sunroom Cafe""",Capitol,"""638 State St""",Madison,WI,53703,43.075159,-89.396178,3.5,157,1,Cafes;Food;Restaurants;Breakfast & Brunch;Sandwiches;Coffee & Tea;Salad
+138365,8gVq0xCXVeAAS3-nsifAgQ,"""Chin's Asia Fresh""",Capitol,"""422 State St""",Madison,WI,53703,43.075006,-89.3921359,2.5,16,0,Restaurants;Chinese
+138465,hM48axj9twnf7A6a5f8cjA,"""Sumo Steakhouse & Sushi Bar""",Mayfair Park,"""1745 Parkside Dr""",Madison,WI,53704,43.122750700000005,-89.3147799,4.0,16,1,Sushi Bars;Japanese;Restaurants;Steakhouses
+138834,PbeDPF59J-bjBsUxLUGZhQ,"""Noosh""",Burr Oaks,"""1920 S Park St""",Madison,WI,53713,43.044309600000005,-89.39448780000001,5.0,5,0,Soul Food;Mediterranean;Restaurants;Middle Eastern
+138902,Dcj69NZJnbJhK-YHP_nULA,"""Brasserie V""",Vilas,"""1923 Monroe St""",Madison,WI,53711,43.0640503,-89.41801679999999,4.0,291,1,Brasseries;Belgian;French;Restaurants;Sandwiches
+139938,RIT-Y8d0qEZ3ORv0Ts5JDw,"""Firehouse Subs""",,"""1403 Emil St""",Madison,WI,53713,43.0362689132,-89.4070726757,4.0,21,1,Fast Food;Delis;Sandwiches;Restaurants
+139977,2NnoviDIh_GjWZI3srr99A,"""Mabuhay Philippine Cuisine""",Bay Creek,"""1272 S Park St""",Madison,WI,53715,43.0531664,-89.3958811,3.5,36,0,Asian Fusion;Restaurants;American (Traditional);Filipino;Barbeque
+140065,XggUqVcri5eth2_ZqILqqA,"""Little Caesar's Pizza""",,"""700 S Gammon Rd""",Madison,WI,53719,43.0497827,-89.504127,3.5,7,1,Pizza;Restaurants
+140066,VS6cBZIOm1-8GjS2aGG-iQ,"""U-Like Asian Buffet""",,"""518 Grand Canyon Dr""",Madison,WI,53719,43.055135,-89.497286,2.5,11,0,Buffets;Sushi Bars;Asian Fusion;Restaurants
+140134,YK6XFE1SbLZGGXIKZmrQ-Q,"""Campus Biryani & Gyros""",Vilas,"""1437 Regent St""",Madison,WI,53711,43.0675794,-89.4106017,1.5,43,1,Restaurants;Buffets;Indian
+140181,c_-0jkr-MkK2EdlbJaXgyw,"""Willy Street Co-op""",Sherman,"""2817 N Sherman Ave""",Madison,WI,53704,43.1276538223,-89.36349704860001,4.5,10,1,Specialty Food;Event Planning & Services;Restaurants;Caterers;Organic Stores;Delis;Food;Grocery
+140657,_euNvs0P14284FXN1vZ_Pw,"""Crema Cafe""",Lake Edge,"""4124 Monona Dr""",Madison,WI,53716,43.0785876,-89.32400909999998,4.0,168,1,Cafes;Food;Coffee & Tea;Sandwiches;Vegan;Breakfast & Brunch;Restaurants
+140874,sXYkjcuGhtaYP8yeQPaHgA,"""Heritage Tavern""",Capitol,"""131 E Mifflin St""",Madison,WI,53703,43.0768340202,-89.3832337316,4.5,313,1,Gastropubs;Restaurants;American (New)
+140876,BwWbwhIWfc9A0fPShp-WmA,"""Oliver's Public House""",Regent,"""2540 University Ave""",Madison,WI,53705,43.0725542026,-89.4300975757,4.0,168,1,Breakfast & Brunch;Restaurants;American (Traditional);American (New)
+140880,KK5Hvy2JNjXpdO_zHA_LCA,"""Prime Quarter Steak House""",Hawthorne,"""3520 E Washington Ave""",Madison,WI,53704,43.115195899999996,-89.32817320000001,4.0,33,0,Nightlife;Restaurants;Steakhouses
+141762,YLwXQbMN-4NvUs_U8brP-w,"""Sushi Box""",Regent,"""2433 University Ave""",Madison,WI,53726,43.0718934,-89.4284267,4.0,69,0,Asian Fusion;Sushi Bars;Restaurants;Japanese
+141837,vL2XhH5KWVY9ZV6SCjmwCQ,"""Panera Bread""",Junction Ridge,"""601 Junction Rd""",Madison,WI,53717,43.0731892532,-89.5248886945,3.0,27,1,Restaurants;Food;Soup;Bagels;Salad;Sandwiches;Breakfast & Brunch
+141921,m305DapBPrW4zwF20KbFoA,"""Tutto Pasta Cucina Italiana""",Capitol,"""107 King St""",Madison,WI,53703,43.074433,-89.381146,2.5,28,0,Italian;Restaurants
+142372,r5qUfdiSL2_hHfdqXBJAMA,"""Imperial Garden Chinese Restaurant""",Norman Acres,"""4214 E Washington Ave""",Madison,WI,53704,43.126461799999994,-89.31159050000001,3.5,29,0,Restaurants;Chinese
+142400,DpWCY7KPhaL_7jonOTSJyA,"""Lucky's Bar & Grille""",Vilas,"""1421 Regent St""",Madison,WI,53711,43.06767670000001,-89.4101225,3.0,18,0,American (Traditional);Bars;Sports Bars;Pubs;Nightlife;Restaurants
+142440,hEUAUdG4fBdYWvPeEASnng,"""Viet Bistro""",Capitol,"""656 W Washington Ave""",Madison,WI,53715,43.0676216138,-89.39544121649999,2.5,23,0,Restaurants;Cantonese;Chinese;Dim Sum;Vietnamese
+142647,CcuKo38SwW54TDlMWAMi7A,"""Taj Indian Restaurant""",Bay Creek,"""1256 S Park St""",Madison,WI,53715,43.0530331,-89.3963895,3.5,59,1,Indian;Restaurants;Vegetarian;Pakistani
+142854,TBh4lRgZayACZKK02suaSQ,"""Martin O'Grady Irish Pub & Grill""",,"""7436 Mineral Point Rd""",Madison,WI,53717,43.0612817,-89.51173299999999,2.5,40,1,American (Traditional);Bars;Irish;Irish Pub;Pubs;Sports Bars;Nightlife;Restaurants
+142913,4DtGWbPfvfIL7czgBLPcXw,"""Toppers Pizza""",Oakbridge Community,"""7850 Mineral Point Rd""",Madison,WI,53717,43.0609838524,-89.5187764987,2.5,15,1,Pizza;Food;Chicken Wings;Desserts;Restaurants
+142978,wsmVIHJEi9J_38dXx2qLKA,"""Bunky's Cafe""",Schenk - Atwood,"""2425 Atwood Ave""",Madison,WI,53704,43.0936656,-89.34612270000001,4.0,124,0,Italian;Restaurants;Moroccan;Mediterranean
+143003,qnuBmj3lL_S_QQOmTI9cfw,"""Orpheum Lobby Restaurant""",Capitol,"""216 State St""",Madison,WI,53703,43.0748942,-89.3886553,4.0,20,0,Bars;Nightlife;Arts & Entertainment;Cinema;Restaurants;American (New)
+143147,lk9FXwKCOxIvXAWF8zr_Zg,"""Cafe Soleil""",Capitol,"""25 N Pinckney St""",Madison,WI,53703,43.076314,-89.3837429,4.5,25,0,Restaurants
+143333,STX8NfaW_xP6YZq-wERHYg,"""Chez Nanou""",Willy St,"""805 Williamson St""",Madison,WI,53703,43.07825820000001,-89.37110240000001,4.0,48,0,Restaurants;French
+143401,V46DbgV5cTnYAwpBS70owQ,"""Michael's Frozen Custard""",Eastmorland,"""3826 Atwood Ave""",Madison,WI,53714,43.0851381,-89.3252648,3.0,49,1,Restaurants;Ice Cream & Frozen Yogurt;Burgers;Food
+143683,EFOQdRak3K15hIuN2Q3Cpg,"""wiener shop""",Capitol,"""447 W Gilman St""",Madison,WI,53703,43.0736723016,-89.3948453665,4.0,24,0,Restaurants;Hot Dogs;Vegan;American (New)
+143715,Ie00N1yErrmaOa44x5K8kA,"""Itzza Pizza""",,"""2825 University Ave""",Madison,WI,53705,43.0741404,-89.43742569999999,3.5,44,1,Restaurants;Pizza;Sandwiches;Italian
+143834,jzr6jW5cQ0jpPhEo4kGMBw,"""LongHorn Steakhouse""",,"""418 S Gammon Rd""",Madison,WI,53719,43.0594110063,-89.5035026245,3.5,60,1,Steakhouses;Restaurants;Barbeque;American (Traditional)
+144266,2hGAmn6CJKT-Q1deaEBtGw,"""Pasqual's""",Vilas,"""1851 Monroe St""",Madison,WI,53711,43.064708,-89.416916,3.0,64,0,Restaurants;Mexican;Tex-Mex
+144511,9w_saPQbfOaqrKe5lJQ74A,"""People's Bakery""",Eken Park,"""2810 E Washington Ave""",Madison,WI,53704,43.102980200000005,-89.3456932,4.0,71,1,Specialty Food;Lebanese;Restaurants;Ethnic Food;Bakeries;Middle Eastern;Food;Mediterranean;Donuts
+144571,V1JEkeAem05hps5ZCmMIgw,"""The Rigby Pub And Grill""",Capitol,"""119 E Main St""",Madison,WI,53703,43.07499310000001,-89.3811037,3.5,60,1,Music Venues;Caterers;Restaurants;Bars;Arts & Entertainment;Event Planning & Services;Venues & Event Spaces;Nightlife;Pubs;Italian;American (New);Party & Event Planning
+144736,lMeWUHAkBUXwcuX1tGTdtw,"""Eagle Crest Bar""",Ridgewood,"""3710 County Rd T""",Madison,WI,53704,43.1070277512,-89.2873446108,3.5,16,1,Dive Bars;Nightlife;Restaurants;Burgers;Bars
+144811,rLJsrXyY61bouCfH58PKIA,"""Asian House""",Eastmorland,"""1 Dempsey Rd, Ste 3""",Madison,WI,53714,43.0979594,-89.3171657,3.0,26,1,Chinese;Restaurants
+144979,0SECDod-_lEXcWezbwUxzw,"""Jamerica Food Cart""",Capitol,"""Library Mall""",Madison,WI,53715,43.074937299300004,-89.3986875233,4.0,3,1,Caribbean;Restaurants;Southern;Food;Food Stands;Street Vendors
+145109,mCtkHCPp7OFZtqO4Fzlp1A,"""Badger Bowl""",Moorland - Rimrock,"""506 E Badger Rd""",Madison,WI,53713,43.038813,-89.37714,2.5,18,0,Active Life;Nightlife;Bowling;American (Traditional);Venues & Event Spaces;Arts & Entertainment;Music Venues;Caterers;Restaurants;Event Planning & Services
+145485,hLnWXojm7NpyXeqlhIL-lw,"""Cosi""",Capitol,"""152 W Johnson St""",Madison,WI,53703,43.0750641,-89.38996490000001,2.0,6,0,Restaurants;Sandwiches
+145604,Y9Lsu_1dVNarV2wt1t5Cgw,"""Growlers Bar & Grille""",Norman Acres,"""4402 E Washington Ave""",Madison,WI,53704,43.1278381,-89.3099026,1.5,5,1,Bars;Restaurants;Nightlife;American (Traditional)
+145882,FPunXW5NBaTKgx5uBrdD5g,"""King and Mane""",Capitol,"""102 King St""",Madison,WI,53703,43.074730100000004,-89.3815378,2.5,12,0,American (Traditional);Restaurants;Tapas/Small Plates
+145883,dfHA5n6e3f58nMCNHt589Q,"""Vientiane Palace Restaurant""",Capitol,"""151 W Gorham St""",Madison,WI,53703,43.0754787,-89.3904163,3.5,93,1,Restaurants;Vegan;Vietnamese;Asian Fusion;Vegetarian;Thai
+145920,xkF-0GL_TKkU51xWpItBTQ,"""Connections""",Mayfair Park,"""3737 East Washington Ave""",Madison,WI,53704,43.117782500000004,-89.3220736,3.0,10,1,Restaurants;Bars;Fish & Chips;American (Traditional);Nightlife;Pubs
+146173,0vyh1UE4HH8ayZtXNxIfeQ,"""Red Shed Tavern""",Capitol,"""406 N Frances St""",Madison,WI,53703,43.073569899999995,-89.396101,3.0,36,1,Dive Bars;Restaurants;American (Traditional);Nightlife;Bars
+146174,rLwxan_oYkL-m8ldqsHuiA,"""Panera Bread""",,"""2627 E Springs Dr""",Madison,WI,53704,43.131264,-89.301283,2.5,48,1,Bagels;Food;Restaurants;Sandwiches;Breakfast & Brunch;Soup;Salad
+146470,AcW_Km7jkGBr4rJdIrIP4w,"""El Pastor""",Burr Oaks,"""2010 S Park St""",Madison,WI,53713,43.0440409,-89.39446009999999,4.0,84,1,Mexican;Restaurants
+146710,kjs2IutpZINFnTWx4r6j0Q,"""El Bolillo Bakery""",Lake Edge,"""4544 Monona Dr""",Madison,WI,53716,43.07051,-89.3254733,4.0,20,0,Restaurants;Food;Mexican;Bakeries
+146736,kGmntPru09mK3w8uD8oI8g,"""North of the Bayou""",,"""802 Atlas Ave""",Madison,WI,53714,43.085263832799995,-89.3095293269,3.5,21,1,Bars;Nightlife;Cajun/Creole;Restaurants
+146770,Q5cwBuHfkt3NjnDrxA-h8w,"""Sala Thai Restaurant""",Starkweather - Yahar,"""36 S Fair Oaks Ave""",Madison,WI,53714,43.098782899999996,-89.3338313,4.0,94,1,Thai;Restaurants
+146960,dC2yhxxVUSmjW1Db7IaKWQ,"""Dairyland Family Restaurant""",Eastmorland,"""716 Cottage Grove Rd""",Madison,WI,53716,43.084321,-89.31379,3.0,20,1,Restaurants;American (New)
+146978,CUGPOzeBRz84cdIOGSXcLw,"""The Brass Ring""",Williamson - Marquette,"""701 E Washington Ave""",Madison,WI,53703,43.0798171,-89.3762962,3.5,54,1,Restaurants;Nightlife;American (Traditional);Pool Halls;Bars
+147094,bObysWCWZqc_rqSC0U83Yg,"""Falbo Bros. Pizzeria""",Sherman,"""1207 N Sherman Ave""",Madison,WI,53703,43.112728330900005,-89.3620204926,2.5,13,1,Pizza;Restaurants;Italian
+147258,aYoeWXcFXu2BsWuYIMd6Ow,"""Subway""",Capitol,"""19 W Main St""",Madison,WI,53703,43.073141,-89.383392,1.5,5,1,Sandwiches;Fast Food;Restaurants
+147259,szUlmJA4MfIhi7xbtsQPYQ,"""Madhatters""",Capitol,"""322 W Gorham St""",Madison,WI,53703,43.0745028,-89.3926204,2.5,7,1,Restaurants;Nightlife;Bars
+147549,yxj0P4O-ydn2KTzOut86QA,"""Chili's""",,"""7301 Mineral Point Rd""",Madison,WI,53717,43.058639899999996,-89.508535,2.5,30,1,Restaurants;Nightlife;American (Traditional);Tex-Mex;Bars;American (New)
+147632,4scx_rtI9RZfFHWUxqPuHw,"""Mirch Masala""",Capitol,"""14 W Mifflin St""",Madison,WI,53703,43.0752086104,-89.385843873,3.5,14,0,Restaurants;Indian;Buffets
+147707,Pt4rt1u_5KuS_NSMqerG_Q,"""Pizza Pit Extreme""",,"""6628 Odana Rd""",Madison,WI,53719,43.0558078,-89.4938472,3.5,25,1,Restaurants;Caterers;Event Planning & Services;Chicken Wings;Pizza;Italian;Sandwiches;Salad
+147908,i7MSJP4JH9yoNpbUsaV9_w,"""Gumby's Pizza & Wings Delivery Hotline""",Capitol,"""449 State St Ste I""",Madison,WI,53703,43.074791999999995,-89.393135,3.0,3,0,Chicken Wings;Italian;Restaurants;Pizza
+147992,k4AzyNM7a9gtg7-Ig4ZsWg,"""Umami Buns""",Capitol,"""716-798 State St""",Madison,WI,53706,43.0755641,-89.3974633,4.0,22,1,Japanese;Food Trucks;Asian Fusion;Restaurants;Food
+148182,I6e7bj_b8p6lyzu9fNty2Q,"""Dimitri's Gyros""",Hawthorne,"""3502 E Washington Ave""",Madison,WI,53704,43.1147614,-89.32873199999999,3.5,3,0,Greek;Restaurants
+148210,0Rhr6lMMv6SyBgENN6h9Bg,"""Cottage Cafe""",,"""915 Atlas Ave""",Madison,WI,53714,43.085254600000006,-89.306513,4.5,64,1,Cafes;Restaurants;Breakfast & Brunch
+148346,M-caugKzJ9qLOmCBfD9Nyg,"""La Brioche True Food""",,"""2862 University Ave""",Madison,WI,53705,43.075353530600005,-89.43834605209999,3.5,168,1,Pizza;American (New);Breakfast & Brunch;Restaurants
+148365,EGgsujG0ycRAnMqMYvylUg,"""Electric Earth Cafe""",Capitol,"""546 W Washington Ave""",Madison,WI,53703,43.0690688,-89.39217990000002,3.5,31,0,Restaurants;Fast Food;Coffee & Tea;Food
+148468,-rg5vXpJgqB23FOQJuqMeg,"""Ironworks Cafe""",Schenk - Atwood,"""149 Waubesa St""",Madison,WI,53704,43.0970189,-89.3436886,3.5,20,1,Cafes;American (New);Vegetarian;Food;Sandwiches;Breakfast & Brunch;Coffee & Tea;Restaurants
+148498,cJLx99fsYPM0SlNfWLb4Ug,"""Taste of India""",Dudgeon-Monroe,"""2623 Monroe St""",Madison,WI,53711,43.057220799999996,-89.428248,4.0,54,1,Restaurants;Indian;Pakistani
+148749,RRiKkw7WN4ZcpR8iQvFcOQ,"""Einstein Brothers Bagels""",Allied Dunn's Marsh,"""4515 Verona Rd""",Madison,WI,53711,43.0352824,-89.4536017,3.5,7,0,Bagels;Food;Restaurants;Breakfast & Brunch
+149143,ffUCy7Gd8Gr28oK5mHOjsw,"""Asia Express""",Wexford,"""721 N High Point Rd""",Madison,WI,53717,43.0755809,-89.51857700000001,3.5,10,0,Restaurants;Chinese
+149300,8XeWfMGuNsrYkXRwQJjhCQ,"""Jimmy John's""",,"""1791 Thierer Rd""",Madison,WI,53704,43.12436829999999,-89.31261540000001,2.5,12,1,Food Delivery Services;Fast Food;Food;Delis;Restaurants;Sandwiches
+149536,brIaz5gTzBX6fgJNQZbUCA,"""Roast Public House""",Capitol,"""558 State St""",Madison,WI,53703,43.074915831999995,-89.3947126815,3.5,153,1,Nightlife;Salad;Bars;Sandwiches;Pubs;Restaurants
+149656,f-Nk4rNCmJhYom1_6RdWqg,"""Frida""",Capitol,"""117 State St""",Madison,WI,53703,43.07473770000001,-89.3874429,2.0,50,0,Mexican;Restaurants
+149730,Iz8Mi3qXqRW2JMaLJTTlLQ,"""Relish Deli & Market""",Vilas,"""1923 Monroe St""",Madison,WI,53711,43.0640352,-89.4180834,4.5,3,0,Cheese Shops;Food;Delis;Restaurants;Specialty Food
+149788,yLH9mFFwOlzFB_fYKpSyLw,"""The Paradise Lounge""",Capitol,"""119 W Main St""",Madison,WI,53703,43.07282563770001,-89.38454769549999,4.0,63,1,Nightlife;Restaurants;Bars;American (New);Dive Bars
+149789,h_UvnQfe1cuVICly_kIqHg,"""Johnny Delmonico's Steakhouse""",Capitol,"""130 S Pinckney St""",Madison,WI,53703,43.07398444020001,-89.3813650869,3.5,107,1,Restaurants;Seafood;Steakhouses
+150273,61wUpoim2yzSMPKxg58ReQ,"""Rosie's Coffee Bar & Bakery""",Lake Edge,"""4604 Monona Dr""",Madison,WI,53716,43.0698529,-89.3254346,4.0,85,1,Breakfast & Brunch;Food;Coffee & Tea;Restaurants;Bakeries
+150375,9spk8K9pg5HdDNMNxAlGwg,"""8 Seasons Grille""",Capitol,"""45 S Bassett St""",Madison,WI,53703,43.0695351,-89.3896261,3.5,44,0,Restaurants;Steakhouses;American (New);American (Traditional)
+150392,SxC7gGLEZ8B3ooj1Qtjz5w,"""Rocky Rococo Pan Style Pizza - Party Pizzeria West""",Oakbridge Community,"""7952 Tree Ln""",Madison,WI,53717,43.06154954189999,-89.52058408479999,2.5,22,1,Italian;Pizza;Restaurants
+150605,e-finkL51hroOJ0GZ8jcXA,"""China One West""",,"""518 Grand Canyon Dr""",Madison,WI,53719,43.055135,-89.497286,2.5,11,0,Restaurants;Chinese
+150923,ud_eRNQafA2cW2ZFqfTeww,"""Cafe Samba""",Capitol,"""240 W Gilman St""",Madison,WI,53774,43.07546,-89.393063,3.0,16,0,Brazilian;Restaurants
+150967,wjGIbeYiciz3ynYIEWCRHQ,"""Bruegger's Bagels""",Faircrest,"""6150 Mineral Point Rd""",Madison,WI,53705,43.061218,-89.486019,3.0,23,1,Food;Sandwiches;Breakfast & Brunch;Bagels;Restaurants
+151165,t5fosfj3K4SXi20u5tSOIw,"""LJ's Sports Tavern & Grill""",Tenney - Lapham,"""8 N Paterson St""",Madison,WI,53703,43.082411684499995,-89.3737928014,3.0,16,1,Nightlife;Restaurants;American (Traditional);Bars;Sports Bars
+151283,fNhp7o7RhmKhdBFTsJyyxw,"""Lucky's 1313 Brew Pub""",Greenbush,"""1313 Regent St""",Madison,WI,53715,43.0676042758,-89.4081924837,3.0,24,1,Pubs;Nightlife;American (Traditional);Restaurants;Bars
+151398,_Ejjcg6V2sHb_W8CyIUtXg,"""Silver Mine Subs""",Capitol,"""311 N Frances St""",Madison,WI,53703,43.072629799999994,-89.39545809999998,2.5,6,0,Sandwiches;Restaurants;Delis;American (New)
+151792,Wcw-xq_c89e4AaRsUtkaLw,"""Eldorado Grill""",Williamson - Marquette,"""744 Williamson St""",Madison,WI,53703,43.078109999999995,-89.372173,4.0,269,1,Breakfast & Brunch;Restaurants;Mexican;Tex-Mex
+152336,lPsT-Rmmf6333z6h6ANHrw,"""Lotsa Stone Fired Pizza""",Capitol,"""506 State St""",Madison,WI,53703,43.07512070000001,-89.3935434,3.0,33,1,Food;Gluten-Free;Fast Food;Juice Bars & Smoothies;Pizza;Restaurants;Salad
+152392,HewGH1vYiZpkCoXeGOsA9g,"""Fork & Spoon Cafe at RP's Pasta Co.""",Williamson - Marquette,"""1133 E Wilson St.""",Madison,WI,53703,43.0834989,-89.36551379999999,3.5,3,0,Restaurants;Local Flavor;Italian;Vegetarian;Sandwiches
+152393,j2TKvVKLMgfJKe_UPtGOVg,"""That BBQ Joint""",Williamson - Marquette,"""1511 Williamson St""",Madison,WI,53703,43.087384,-89.358648,4.0,58,0,Restaurants;Barbeque
+152441,dSDl5LGJCU8R3X8lYDU7tA,"""JJ Fish & Chicken""",Starkweather - Yahar,"""2835 E Washington Ave""",Madison,WI,53704,43.102948100000006,-89.34464129999999,3.0,5,0,Chicken Wings;Seafood;Restaurants
+154038,t-NF_3LecjuOlwiK-Gx2KQ,"""Potbelly Sandwich Shop""",,"""4833 Annamark Dr""",Madison,WI,53704,43.1336297,-89.2995085,2.5,15,0,Restaurants;Delis;Sandwiches;Fast Food
+154196,wGh7BXk_Yg7VXgb-_VObGQ,"""Belle Pizzelle European Bakery & Cafe""",,"""300 E Towne Mall, Ste B-140""",Madison,WI,53704,43.1279489,-89.30436350000001,4.0,6,0,Cafes;Restaurants
+154242,OuKfLByYHVSwL8yTooQOXw,"""Old Market Bistro""",Capitol,"""15 N Butler St""",Madison,WI,53703,43.0771005,-89.38164909999999,2.5,3,0,Restaurants;Breakfast & Brunch;Pizza;American (New)
+154433,4CXNce-fAj4G39hi97IleQ,"""Blair Street Brew & BBQ""",Williamson - Marquette,"""605 E Washington Ave""",Madison,WI,53703,43.0785923,-89.3783104,3.0,16,0,Restaurants;Barbeque
+154605,HXkuFF_Rtg2g9rwcBdpB-g,"""The Icon""",Capitol,"""206 State St""",Madison,WI,53703,43.0747755,-89.3884537,3.0,129,1,Restaurants;Nightlife;Wine Bars;Tapas Bars;Bars
+154703,1qVtBw0UIcWGGUQXWjMgug,"""Barriques University""",Regent,"""2505 University Ave""",Madison,WI,53705,43.072106899999994,-89.4288898,3.0,12,1,Sandwiches;Restaurants;Cafes;Coffee & Tea;Food
+154728,2C5nGjdzF0zMWvD9iVma0g,"""Diego's Mexican Bistro""",Capitol,"""118 State St""",Madison,WI,53703,43.074740500000004,-89.3866113,3.0,35,0,Mexican;Bars;Restaurants;Nightlife
+154743,5uMfIYovqfgk41abdfFegw,"""Jordan's Big Ten Pub""",South Campus,"""1330 Regent St""",Madison,WI,53715,43.0679737,-89.4082936,4.5,92,1,Restaurants;Sports Bars;Nightlife;Pubs;Bars;American (Traditional)
+154927,x8EXXJpcbrIeaVefej2aJw,"""Takara""",,"""696 S Whitney Way""",Madison,WI,53774,43.050327200000005,-89.4745296,3.5,94,1,Japanese;Sushi Bars;Restaurants
+155214,phrJCsa0I_OEWExpiTET8A,"""Chipotle Mexican Grill""",Junction Ridge,"""8422 Old Sauk Rd""",Madison,WI,53562,43.074921,-89.52932709999999,3.5,40,1,Fast Food;Restaurants;Mexican
+155231,2j3sESWDU_hW9Q3TjElwPA,"""The Sett""",South Campus,"""1308 W Dayton St""",Madison,WI,53715,43.0719139,-89.4081342,4.0,21,1,Active Life;Burgers;Music Venues;Nightlife;Arts & Entertainment;Sports Bars;Recreation Centers;Bars;Restaurants;American (New);Leisure Centers
+155338,t67GMPZ0cv_ItKlID-JFiQ,"""Banzo""",,"""2105 Sherman Ave""",Madison,WI,53704,43.1016722349,-89.36459541319999,4.5,286,1,Food;Mediterranean;Food Trucks;Restaurants
+155814,rvsye09KiUNW_Xa3mygo3Q,"""Pancheros Mexican Grill""",,"""3256 University Ave""",Madison,WI,53705,43.0757191,-89.443277,3.0,19,1,Restaurants;Mexican
+156043,Hty6oLQ1_FSRW5XgZtWrXw,"""Lao Laan-Xang""",Schenk - Atwood,"""2098 Atwood Ave""",Madison,WI,53704,43.0928326884,-89.35198279389999,3.5,104,1,Restaurants;Thai;Laotian
+156051,scLsLrgdvccvkPZADAj5Qw,"""Churchkey Bar and Grill""",Capitol,"""626 University Ave""",Madison,WI,53715,43.0734676,-89.3970368,3.5,21,1,Bars;Nightlife;American (Traditional);Restaurants
+156315,24fW-8hK0hs5KvEYWwWNDw,"""Casa de Lara""",Capitol,"""341 State St""",Madison,WI,53703,43.0745652,-89.39155699999999,3.0,52,1,Restaurants;Mexican
+156645,v3AS5LGeV2Si4nOHZ7lgxQ,"""Glass Nickel Pizza""",Schenk - Atwood,"""2916 Atwood Ave""",Madison,WI,53704,43.0940334,-89.3413173,4.0,189,1,Chicken Wings;Food;Sandwiches;Food Delivery Services;Pizza;Pasta Shops;Gluten-Free;Bars;Nightlife;Italian;Restaurants;Specialty Food
+156894,HlYzk84INQaNslFT-lyBFw,"""Applebee's Neighborhood Grill & Bar""",,"""4710 E Towne Blvd""",Madison,WI,53704,43.1300316,-89.3039903,2.5,34,1,American (Traditional);Bars;Steakhouses;American (New);Burgers;Restaurants;Sports Bars;Nightlife
+156951,nOThVrdk5atLvIEC54pBOQ,"""Robinia Courtyard""",Williamson - Marquette,"""829 E Washington Ave""",Madison,WI,53703,43.0813586213,-89.37434967719999,4.5,5,1,Nightlife;Beer Gardens;Event Planning & Services;Food Court;Restaurants;Venues & Event Spaces
+156994,MkSF0SJUMj2A3ewUhUUBvw,"""The Library Cafe & Bar""",,"""320 N Randall Ave""",Madison,WI,53715,43.0730787,-89.4092156,3.5,44,1,American (Traditional);Bars;Food;Nightlife;Coffee & Tea;Lounges;Restaurants
+157122,kEIe_lyBKdFB6Hv_wsUYaw,"""Curry in the Box""",Sunset Village,"""3519 University Ave""",Madison,WI,53705,43.0748779,-89.4476184,3.5,64,1,Indian;Restaurants;Thai
+157207,aKXzSFBrAoC_5kWUvjKGpg,"""Wurst German Bar""",,"""Dane County Regional Airport""",Madison,WI,53704,43.136942527799995,-89.3456934538,2.0,19,1,Restaurants;Nightlife;German;Bars
+157218,u5YFVrxuifUxuMRbRVC6AQ,"""Milio's Sandwiches""",Capitol,"""377 East Campus Mall""",Madison,WI,53715,43.073274700000006,-89.3990084,4.0,6,1,Sandwiches;Restaurants
+157279,NJ4S3JX56JEZGWlAfpF9kw,"""Buck & Badger""",Capitol,"""115 State St""",Madison,WI,53703,43.0747392865,-89.3871119285,2.5,78,1,Nightlife;Comfort Food;Bars;Restaurants
+157373,v14P9-vB1yjxFfFEYEWudw,"""Barriques - West Wash""",Capitol,"""127 W Washington Ave""",Madison,WI,53702,43.0731588434,-89.38592639149999,4.0,147,1,Food;Restaurants;Sandwiches;Bars;Coffee & Tea;Nightlife
+157386,kqrhy8kaxvqqbsGpVKRyAg,"""Discofries""",Capitol,"""615 State St""",Madison,WI,53703,43.074871375200004,-89.3962092698,3.0,4,1,Poutineries;Donuts;Food;Restaurants;Breakfast & Brunch
+157478,1ti16CM6jlDt66P5PDqyUg,"""La Joya Mexican Restaurant""",Eastmorland,"""3737 Milwaukee St""",Madison,WI,53714,43.097994,-89.320026,4.5,3,0,Mexican;Restaurants
+157493,wL4xGOaJcpsWxbd8OIS05Q,"""Vientiane Inn""",Bay Creek,"""1124 S Park St""",Madison,WI,53715,43.0555456,-89.397846,3.0,4,0,Thai;Restaurants
+157650,f1loh_1c_zp6P1Zv9KSaPg,"""Ginza of Tokyo""",,"""6734 Odana Rd""",Madison,WI,53719,43.056628,-89.4989583,2.5,59,0,Sushi Bars;Restaurants;American (New);Japanese
+158471,ikDVOD9Ypyestcw63_z_dA,"""Mad City Frites""",Capitol,"""320 State St""",Madison,WI,53703,43.074953799999996,-89.3907598,4.0,48,0,Belgian;Restaurants
+158599,5wfInTOKyMQxxeFvqR-3vA,"""Surge Delivery Cafe""",Schenk - Atwood,"""2045 Atwood Ave, Ste 109""",Madison,WI,53704,43.0922657,-89.3539868,4.0,12,0,Vegetarian;Cafes;Sandwiches;Restaurants
+158760,cF-QXCQw2yLALLRTkH2Rrw,"""Pc Kitchen""",,"""724 S Gammon Rd""",Madison,WI,53719,43.0497544,-89.50323879999999,3.5,9,0,Breakfast & Brunch;Restaurants
+158799,aS4t4ee3xqQXgNHNxi9gAA,"""Flaming Wok""",Mayfair Park,"""4237 Lien Rd, Ste H""",Madison,WI,53704,43.1205802,-89.3089688,3.5,62,1,Noodles;Restaurants;Chinese
+158814,px5h245j44u_a2bRjDpBxQ,"""Palis Cafe""",South Campus,"""1234 Regent St""",Madison,WI,53715,43.0678285,-89.4071678,2.5,3,0,Restaurants;Middle Eastern;Halal
+158870,gdXfiX8gRpe2TeaWZJoOHQ,"""Urban Slice""",South Campus,"""1308 W Dayton St""",Madison,WI,53715,43.071073999999996,-89.40759320000001,2.0,8,1,Italian;Pizza;Restaurants
+159782,Eydky7VulZijOJ37yl8IGQ,"""The Spot""",Tenney - Lapham,"""827 E Johnson St""",Madison,WI,53703,43.0837395,-89.3768968,4.0,61,0,Food;Nightlife;Gastropubs;Restaurants;Modern European;Bars;American (New)
+159825,8cjXEmuqgCbIRudb2D52qw,"""Nani Restaurant""",,"""518 Grand Canyon Dr""",Madison,WI,53719,43.055135,-89.497286,3.5,134,1,Cantonese;Restaurants;Dim Sum;Chinese
+160083,TETUKvUj73hzn6JpkJ4_QQ,"""Mcgee's Chicken""",Bram's Addition,"""1920 S Park St""",Madison,WI,53713,43.0441774068,-89.3939642608,3.5,15,1,American (Traditional);Restaurants
+160105,70nmPKnAufzeKfRNVE0-Pg,"""Hong Kong Wok""",,"""702 N Midvale Blvd, Ste 120""",Madison,WI,53705,43.0733473,-89.45303320000001,4.0,25,0,Fast Food;Chinese;Restaurants
+160126,0au_HRvOYfhQyvdvjZdzUg,"""Oki Sushi""",McClellan Park,"""6010 Cottage Grove Rd""",Madison,WI,53718,43.0852844,-89.2759089,4.5,5,1,Sushi Bars;Restaurants
+160227,nsgwXdmlWimq9zQ-E3mfMQ,"""Gallup! Coffee & Bakehouse""",Vilas,"""1859 Monroe St""",Madison,WI,53711,43.064766399999996,-89.41718399999999,4.5,5,0,Restaurants;Bakeries;Food;Cafes;Coffee & Tea
+160292,70YqOHFMCoeNTw0cN_10jw,"""Bab's French Quarter Kitchen""",Williamson - Marquette,"""1353 Williamson St.""",Madison,WI,53774,43.0856215,-89.36080820000001,3.5,7,0,Cajun/Creole;Restaurants
+160370,b8u5AasAkEcqTwKlSjcHIw,"""La Guanajuatence""",Summit Woods,"""1318 S Midvale Blvd.""",Madison,WI,53711,43.038073,-89.45201999999999,4.0,26,0,Restaurants;Mexican
+160469,_y4zRzQloskP7IsEBhdNDA,"""Mr Roberts""",Schenk - Atwood,"""2116 Atwood Ave""",Madison,WI,53704,43.092991999999995,-89.351504,3.5,16,1,Bars;Nightlife;American (New);Burgers;Dive Bars;Restaurants
+160546,5R6BzOdTvgUiDTlR6K9suQ,"""Veritas Bistro & Lounge""",Capitol,"""117 E Mifflin St""",Madison,WI,53703,43.076622,-89.383313,2.5,8,0,American (New);Restaurants
+160649,2Cmpz9lgr-wfOLAwgUf79g,"""ZenZen Taste 四合院""",,"""6634 Watts Rd""",Madison,WI,53719,43.050640200000004,-89.4976638,4.0,35,1,Asian Fusion;Restaurants;Chinese
+161269,rnx0KHHTD9Yvr2BWAWwQ4g,"""Daisy Cafe & Cupcakery""",Schenk - Atwood,"""2827 Atwood Ave""",Madison,WI,53704,43.093672399999996,-89.3426022,4.0,231,1,Bakeries;American (New);Breakfast & Brunch;Food;Restaurants
+161306,-R_dMb9Z1eBv_FlYZrrKbw,"""Oriental Wok""",Greenbush,"""532 S Park St""",Madison,WI,53715,43.061169,-89.401188,3.0,14,1,Chinese;Restaurants
+161357,IV5uZ0VuLVplxnfkx96_iQ,"""Diggity's""",High Crossing,"""5441 High Crossing Blvd""",Madison,WI,53718,43.14165379999999,-89.28541009999999,3.5,3,0,Restaurants;Food;American (New)
+161693,Bi3520lcx6UQAYZPHADZaQ,"""Ancora Coffee""",,"""3318 University Ave""",Madison,WI,53705,43.0752941,-89.444864,4.0,27,1,Cafes;Food;Restaurants;Coffee Roasteries;Breakfast & Brunch;Coffee & Tea
+161800,Mp-spZbBtbHkzubDSYPs2Q,"""MOOYAH Burgers, Fries & Shakes""",Capitol,"""571 State St""",Madison,WI,53703,43.0748656,-89.3955327,4.0,31,1,Salad;Ice Cream & Frozen Yogurt;Hot Dogs;Food;Burgers;Restaurants
+161899,Z9wnRnSvmt7PeMo69x3s4A,"""Roman Candle Pizzeria""",Dudgeon-Monroe,"""2623 Monroe St""",Madison,WI,53711,43.057220799999996,-89.428248,4.0,10,1,Gluten-Free;Vegan;Vegetarian;American (Traditional);Pizza;Restaurants
+162080,15LVDu1_v97JEx-g97wnfA,"""Salvatore's Tomato Pies""",Tenney - Lapham,"""912 E Johnson St""",Madison,WI,53703,43.0848916371,-89.37590025370001,4.5,167,1,Restaurants;American (New);Mexican;Pizza
+162102,PqLYjUuzSIUU94emDWxwLg,"""La Kitchenette""",Willy St,"""805 Williamson St""",Madison,WI,53703,43.07825820000001,-89.37110240000001,5.0,37,1,French;Restaurants
+162514,FMMNajth88mWX76QVp6N9Q,"""Maharani Restaurant""",Capitol,"""380 W Washington Ave""",Madison,WI,53703,43.071914299999996,-89.389124,3.5,186,1,Pakistani;Indian;Restaurants
+162759,K6LwZagSz-cUrCcVemXrlA,"""Silver Mine Subs""",Capitol,"""328 Gorham St""",Madison,WI,53703,43.074327200000006,-89.39256379999999,3.5,17,0,Sandwiches;Restaurants
+163233,re8VPkZFSdkj1TvDKtCWYQ,"""Marrakesh""",Spring Harbor,"""5510 University Ave""",Madison,WI,53705,43.0830876,-89.47549620000001,3.0,33,0,Restaurants;Moroccan
+164850,86Ha2bJ6zMvWSv319myoQA,"""Bluephies Downtown Deli""",Capitol,"""222 W Washington Ave""",Madison,WI,53703,43.0731683108,-89.3868666861,3.5,6,0,Restaurants;Delis
+165176,Le1fkEFfe5ADbHjqiKgzXg,"""Maza""",Capitol,"""558 State St""",Madison,WI,53774,43.075140999999995,-89.394958,3.0,6,0,Afghan;Restaurants
+165311,1pOqoAixFXrVci0kSZnbzQ,"""Papa Murphy's""",,"""6718 Raymond Rd""",Madison,WI,53719,43.0321886,-89.4980948,4.0,4,0,Restaurants;Pizza
+165630,bJo_-dEqQKdJKQJaa9hK7g,"""Shish Cafe Inc""",Spring Harbor,"""5510 University Ave""",Madison,WI,53705,43.083070899999996,-89.47551999999999,4.5,60,0,Middle Eastern;Mediterranean;Restaurants
+165699,hgktkdzUUvKfx2XITRn-Kw,"""Quaker Steak & Lube""",Capitol,"""222 W Gorham St""",Madison,WI,53703,43.0750404,-89.39157759999999,3.5,14,0,Burgers;Restaurants;Chicken Wings;American (Traditional)
+165829,YXd7yVn-dvbPTYAgQ0V0LQ,"""Barriques""",Schenk - Atwood,"""2166 Atwood Ave""",Madison,WI,53704,43.0933721,-89.3498392,3.0,21,1,Coffee & Tea;Cafes;Food;Restaurants;Sandwiches
+165895,fcQDwASYxBGQHiMIJadw-Q,"""Angelic Brewing Co""",Capitol,"""322 W Johnson St""",Madison,WI,53703,43.074154,-89.391323,3.0,10,0,Breweries;Food;Restaurants;American (Traditional)
+165966,nzUA0vgcta7OPwpWPbe7Ug,"""Crostini Sandwiches""",Eken Park,"""231 North St""",Madison,WI,53704,43.103019700000004,-89.34996149999999,4.0,73,1,Gluten-Free;Italian;Salad;Restaurants;Sandwiches
+166547,-5DifC-lAFioAD_DLVgTMQ,"""Firehouse Subs Mineral Point""",Oakbridge Community,"""7854 Mineral Point Rd""",Madison,WI,53717,43.0605835,-89.5193733,4.0,28,1,Sandwiches;Fast Food;Delis;Food;Restaurants
+166628,uoUa8ugZLrly0bA268IqEg,"""Mickies Dairy Bar""",Vilas,"""1511 Monroe St""",Madison,WI,53711,43.067439,-89.4129202,4.0,273,1,Restaurants;Breakfast & Brunch
+166838,1No65MMinOXLxgEtqpV3vg,"""Cafe Costa Rica""",Williamson - Marquette,"""1133 Williamson St""",Madison,WI,53703,43.0825782,-89.36491840000001,3.5,67,0,Caribbean;Latin American;Restaurants
+166892,Xl6I0-JmFE_6w28bku2idQ,"""Himal Chuli""",Capitol,"""318 State St""",Madison,WI,53703,43.0748011,-89.39069640000001,4.0,202,1,Himalayan/Nepalese;Restaurants
+167223,JtSNHDRRZffnHBEsJudW-g,"""Noodles & Company""",,"""7050 Mineral Point Rd And Gammon Rd""",Madison,WI,53717,43.0614323883,-89.5047939971,2.5,34,1,Italian;Chinese;Restaurants;Salad;Mediterranean;Noodles;Comfort Food;Asian Fusion;American (New);Thai;Fast Food
+167448,tTjXkqN-XVLIP3Vk9EozJg,"""Palmyra Mediterranean Grill""",Capitol,"""419 State St""",Madison,WI,53703,43.0748105,-89.3925202,3.5,69,0,Restaurants;Mediterranean
+167717,aaEdLuaBvgNZWdc_I5O82g,"""Pizza Hut""",Lake View Hill,"""1438 Northport Dr""",Madison,WI,53704,43.1339873871,-89.36986368069999,2.5,4,1,Restaurants;Italian;Chicken Wings;Pizza;Food
+167767,LqEiVAAXdG734Z0YZMrZdg,"""Willalby's Cafe""",Williamson - Marquette,"""1351 Williamson St""",Madison,WI,53703,43.0856363,-89.3609301,4.0,76,1,Breakfast & Brunch;Restaurants
+167830,YnysIH0yvgMLtlsBdOSecw,"""Asahi Japanese Restaurant""",Greenbush,"""536 S Park St""",Madison,WI,53715,43.0615382,-89.4008856,3.0,6,1,Restaurants;Japanese;Sushi Bars
+168181,7Tp53xZh1ypd2wbudP6Qcw,"""Rising Sons Deli""",Capitol,"""617 State St""",Madison,WI,53703,43.0748716,-89.3962559,3.5,85,1,Thai;Restaurants
+168352,KLvpdtFYUi1I0LNsmIqeJw,"""Happy Wok""",,"""429 Commerce Dr""",Madison,WI,53719,43.059889,-89.523622,3.5,26,1,Mexican;Restaurants;Chinese
+168395,9muoOpBgraI4xtP0ZhZACA,"""Betty Lou Cruises""",,"""5339 Lighthouse Bay Dr""",Madison,WI,53704,43.1488352587,-89.40691940239999,4.0,21,1,Restaurants;Hotels & Travel;Caterers;Tours;Travel Services;Event Planning & Services;Boat Charters;Venues & Event Spaces;American (New)
+168406,gWsWtppVufrGfGWw1HcjOA,"""Dream Lanes""",,"""13 Atlas Ct""",Madison,WI,53714,43.0867933,-89.3068682,3.0,8,1,Active Life;Toy Stores;Shopping;Pizza;Event Planning & Services;Sporting Goods;Restaurants;Party & Event Planning;Bowling
+168711,SpCVf25ya5jsHItdkpBpUg,"""Laredo's""",Mayfair Park,"""4001 Lien Rd""",Madison,WI,53704,43.1204129,-89.31461469999999,3.5,42,1,Restaurants;Mexican
+168749,yPgUkQxj8CYPKF89HV65kg,"""Lombardinos Italian Restaurant and Bar""",Regent,"""2500 University Ave""",Madison,WI,53705,43.072292600000004,-89.4289114,4.0,166,1,Italian;Restaurants;Bars;Nightlife
+168757,_6b9CtXi4fQqiu2VjCVpTQ,"""Outback Steakhouse""",,"""4520 E Towne Blvd""",Madison,WI,53704,43.1284594,-89.3063978,3.0,59,1,Restaurants;Steakhouses
+168880,VGKq16vCdPPHMoryy6XTHg,"""Natt Spil""",Capitol,"""211 King St""",Madison,WI,53703,43.0745755344,-89.37974441360001,4.0,163,1,Chinese;Burgers;Nightlife;Tapas/Small Plates;Restaurants;Dim Sum;Bars;Pizza
+169120,QvpH6e7_1Tdlflk_yOj4NQ,"""Adamah Neighborhood Table""",Capitol,"""611 Langdon St""",Madison,WI,53703,43.0755226,-89.3959757,4.0,5,1,Delis;Cafes;Caterers;Kosher;American (New);Event Planning & Services;Restaurants
+169152,v2AAGuPuH2QGGwosWZw_qA,"""McDonald's""",Westchester Gardens,"""3709 Kinsman Blvd""",Madison,WI,53704,43.12531679999999,-89.3244046,2.0,3,1,Restaurants;Fast Food;Burgers
+169155,-y8Nz-elBXkUYoIoc9AADg,"""Naf Naf Grill""",Capitol,"""555 State St""",Madison,WI,53703,43.0748219158,-89.3949237667,4.0,53,1,Restaurants;Middle Eastern;Salad;Falafel;Mediterranean
+169300,Ec-h5JjXzy-pjfpb7d_BFQ,"""Estacion Inka""",Capitol,"""604 University Ave""",Madison,WI,53715,43.073387885600006,-89.3960056168,4.5,57,1,Salad;Latin American;Restaurants;Sandwiches;Peruvian
+169363,tiaSRKBTb7edKIB4V5qFKg,"""Cleveland's Diner""",Capitol,"""410 E Wilson St""",Madison,WI,53703,43.0756783,-89.37729759999999,4.5,6,0,Restaurants
+169671,VD358OTsTLFuxOZJTOInKQ,"""Lakeview Bakery and Deli""",Capitol,"""524 E Wilson St""",Madison,WI,53703,43.0763209,-89.376141,4.5,14,1,Food;Restaurants;Bakeries;Delis
+169810,Car4D_KYnNNSxH9NPwcGAw,"""Stalzy's Deli""",Schenk - Atwood,"""2701 Atwood Ave""",Madison,WI,53704,43.093770500000005,-89.3452006,3.5,84,1,Delis;Food;Breakfast & Brunch;Restaurants;Bakeries
+170176,Q_fvIdn5mGAyyJKniY1F7Q,"""Ramen Station""",Bay Creek,"""1124 S Park St""",Madison,WI,53715,43.054238,-89.396799,3.5,63,1,Ramen;Restaurants;Japanese
+170187,Z8SXv1u_6rKicQy9P7G6fw,"""La Hacienda""",,"""515 S Park St""",Madison,WI,53715,43.0615157,-89.40041090000001,3.0,90,1,Mexican;Restaurants
+170275,530DtHanJc-S-rNh7dtoXg,"""George's Chop House""",,"""1109 Fourier Dr""",Madison,WI,53717,43.0819164,-89.5234428,3.0,3,0,Steakhouses;Italian;Restaurants
+170310,TXiEgINSZ75d3EtvLvkc4Q,"""Red Lobster""",,"""4502 East Towne Blvd""",Madison,WI,53704,43.128034,-89.30715699999999,3.0,55,1,Seafood;Restaurants;American (Traditional)
+170507,cqJBTRVx614nqlLEkzL7Uw,"""Taco Bell""",,"""5001 University Ave""",Madison,WI,53705,43.07562,-89.467288,1.0,4,0,Fast Food;Mexican;Restaurants
+170578,5sV9N8rB3TNBkp1K35WM5w,"""Cousins Subs""",Mayfair Park,"""3715 E Washington Ave""",Madison,WI,53704,43.1173463,-89.32297220000001,4.0,5,1,Event Planning & Services;Soup;Restaurants;Sandwiches;Delis;Caterers
+170625,FUX9h1a37GJn9ge1baiNuw,"""La Baguette""",,"""7424 Mineral Point Rd""",Madison,WI,53717,43.0606935,-89.51127650000001,4.0,102,1,Food;French;Cafes;Bakeries;Restaurants
+170700,p5LmGtCNBI74xmwhSmyo8Q,"""Jade Mountain Tea Company""",Eken Park,"""2611 E Johnson St""",Madison,WI,53704,43.102963,-89.349804,4.5,96,1,Specialty Food;Food;Coffee & Tea;Ethnic Food;Taiwanese;Bubble Tea;Restaurants
+170810,0ETtpZSd6f7q_-o-7gutPg,"""Bradbury's""",Capitol,"""127 N Hamilton St""",Madison,WI,53703,43.077237,-89.383889,4.5,293,1,Restaurants;Food;Coffee & Tea;Creperies
+170850,hOxNKZJ8wWg8Q165U7CCqg,"""Forequarter""",Tenney - Lapham,"""708 E Johnson""",Madison,WI,53703,43.0822686,-89.3796148,4.0,221,1,American (New);Restaurants
+170905,BvyUXno0grQerd5cZGDFPw,"""The Caribou Tavern""",Tenney - Lapham,"""703 E Johnson St""",Madison,WI,53703,43.081948600000004,-89.37944300000001,4.0,55,1,Restaurants;Dive Bars;Burgers;Bars;Pubs;Nightlife
+171208,s8sAe29mA8q1eQwdC1qAKw,"""Wendy's""",Capitol,"""534 State St""",Madison,WI,53703,43.075128899999996,-89.394324,2.0,12,0,Burgers;Fast Food;Restaurants
+171300,8iZ5bR_Zl-xQZMDCvNKLgg,"""Crescendo Espresso Bar + Music Cafe""",Vilas,"""1859 Monroe St""",Madison,WI,53711,43.064652,-89.41699799999999,4.5,50,1,Arts & Entertainment;Music Venues;Cafes;Food;Restaurants;Nightlife;Coffee & Tea
+171330,Duy87WN6ajXyErWzStWOuw,"""Mad City Sandwiches""",,"""4914 Pflaum Rd""",Madison,WI,53718,43.06272599689999,-89.29679889229999,3.5,7,1,Soup;Restaurants;Salad;Sandwiches
+171366,utQbhURq2LEPZX7XjmYB3g,"""Mildred's Sandwich Shop""",Tenney - Lapham,"""827 E Johnson St""",Madison,WI,53703,43.0837395,-89.3768968,4.0,17,0,Sandwiches;Restaurants
+171438,Wtp0Pfnhd7NvUIEawiIjTA,"""Dexter's Pub""",Eken Park,"""301 North St""",Madison,WI,53704,43.1034271,-89.35015279999999,4.0,111,1,Bars;American (New);Restaurants;Nightlife;American (Traditional);Pubs
+171570,y-1sMhUMubrHWdIW4FaE8w,"""Wendy's""",,"""2421 S Stoughton Rd""",Madison,WI,53716,43.0633408,-89.3071542,2.5,6,1,Burgers;Restaurants;Sandwiches;Fast Food
+171614,a4I6hTqQwL3Px1aXfHD4Aw,"""Chuck E. Cheese's""",,"""438 Grand Canyon Dr""",Madison,WI,53719,43.058557,-89.49701,2.0,17,1,Event Planning & Services;Arcades;Pizza;Arts & Entertainment;Party & Event Planning;Restaurants
+171625,dazGlP4Rk4nxlyMtlvkpvA,"""Dragon I""",Capitol,"""422 State St""",Madison,WI,53703,43.075006,-89.3921359,2.5,64,1,Restaurants;Chinese
+171727,15LjiMzeVbTpQgaFBWO32A,"""Capriotti's Sandwich Shop""",South Campus,"""902 Regent St, Ste B""",Madison,WI,53715,43.0678055207,-89.4014794248,3.5,19,1,Sandwiches;Cheesesteaks;Restaurants
+171907,hVzRXGGhRJfTXIasO3bq1w,"""Mia Za's Italian Cafe""",Capitol,"""515 State St""",Madison,WI,53703,43.074593,-89.394235,3.0,49,0,Italian;Restaurants
+171950,JvCSGmN8gS-kNh9xLgLC1Q,"""Milio's Sandwiches""",Leopold,"""2932 Fish Hatchery Rd""",Madison,WI,53713,43.0277402,-89.41265240000001,3.0,5,1,Sandwiches;Restaurants
+172060,XnFPzFiLZ8wKWZsmzGjvCQ,"""Argus""",Capitol,"""123 E Main St""",Madison,WI,53703,43.075103999999996,-89.3810381,3.5,48,1,Restaurants;Burgers;Bars;Nightlife;American (New)
+172116,8z4sC_8dsZiiMWjIPYE_iQ,"""Pizza Hut""",Maple - Prairie,"""3150 Maple Valley Dr""",Madison,WI,53719,43.016065000000005,-89.49705379999999,2.5,6,1,Chicken Wings;Pizza;Restaurants;Italian
+172219,CYKvEc30_ujFBfgoSIawUw,"""Irish Pub""",Capitol,"""317 State St""",Madison,WI,53703,43.074663,-89.3908579,3.5,16,1,Restaurants;Pubs;Nightlife;Irish;American (Traditional);Bars
+172452,kPr9rYEkGwbRLgUHvKljQQ,"""Pizza Brutta""",Vilas,"""1805 Monroe St""",Madison,WI,53711,43.0651567,-89.41640229999999,4.5,286,1,Pizza;Restaurants
+172793,AfoBKJuGBJvQhc3By4K9Dg,"""Kushi Bar Muramoto""",Capitol,"""106 King St""",Madison,WI,53703,43.074852299999996,-89.3813541,4.0,28,0,Japanese;Restaurants;Asian Fusion
+173162,sqOoaTxzCS6w2T-QNKhUiw,"""Metropolitan Coffee and Wine""",Capitol,"""329 W Mifflin St""",Madison,WI,53703,43.0737205,-89.3919743,4.0,12,0,Cafes;Coffee & Tea;Bars;Wine Bars;Restaurants;Nightlife;Food
+173552,C63sF-wG4f1doMIMv2qvOg,"""Cafe Porta Alba""",,"""558 N Midvale Blvd""",Madison,WI,53705,43.0721304,-89.45128609999999,4.0,145,1,Restaurants;Pizza;Italian
+173582,AQJL8iLnVMea7nm8vEGOgg,"""Griff's Restaurant & Frozen Custard""",Park Ridge,"""1233 McKenna Blvd""",Madison,WI,53719,43.039777,-89.503781,1.5,3,0,Restaurants;Ice Cream & Frozen Yogurt;Food
+173738,5ZqybrqiTdbANn2yI3B3VA,"""Great Wall""",Allied Dunn's Marsh,"""4515 Verona Rd""",Madison,WI,53711,43.035255799999995,-89.4536205,4.0,16,1,Restaurants;Chinese
+174133,2qjvYspb3bEmCaw1vmSk0g,"""Sushi Muramoto""",,"""546 N Midvale Blvd""",Madison,WI,53705,43.072243844700004,-89.45233392440001,4.0,240,1,Restaurants;Sushi Bars
+174182,uGCAHzEcSXAhRxtDv0M2dA,"""Salted Root Coffee House""",Regent,"""11 N Allen St""",Madison,WI,53726,43.068255799999996,-89.4235939,5.0,5,0,Restaurants;Gluten-Free;Food;Sandwiches;Coffee & Tea
+174241,YXe8DxId7IpkW-bUCdfGIg,"""Humble""",Regent,"""10 S Allen St""",Madison,WI,53726,43.067687899999996,-89.4239575,4.5,49,1,Desserts;Bakeries;Restaurants;Food;Gluten-Free
